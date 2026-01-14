@@ -48,6 +48,7 @@ jobs:
         working-directory: ./ai-research-app
         run: |
           echo "📝 記事を収集中..."
+          mkdir -p data
           npm run fetch
           echo "✅ 収集完了"
 
