@@ -1,26 +1,19 @@
-# AI Research App
+# AI Research App (デモ版)
 
-AIの最新情報をリサーチ・収集・整理するためのWebアプリケーション
+AIの最新情報をリサーチ・収集・整理するためのWebアプリケーションのデモ版です。
 
 ## 主な機能
 
-- **自動情報収集**: 最新のAI関連ニュース、論文、ブログ記事を自動で収集
-- **AI要約**: Claude APIを使用して重要な情報を自動要約
-- **カテゴリ分類**: 技術トピック別に自動分類
-- **検索・フィルタリング**: 強力な検索とフィルタリング機能
-- **ダッシュボード**: 視覚的に情報を整理・表示
+- **ダッシュボード**: AI関連記事を視覚的に整理・表示
+- **カテゴリフィルター**: NLP、Computer Vision、Generative AI などで絞り込み
+- **情報源フィルター**: arXiv、Hacker News、主要AIブログで絞り込み
+- **全文検索**: タイトルと本文を検索
+- **モックデータ**: サンプル記事でUIを確認可能
 
 ## 技術スタック
 
 - **Frontend**: Next.js 14 + TypeScript + Tailwind CSS
-- **Backend**: Next.js API Routes
-- **Database**: SQLite (Prisma ORM)
-- **AI**: Claude API (要約機能)
-- **情報源**:
-  - arXiv (論文)
-  - Hacker News
-  - Reddit (r/MachineLearning)
-  - RSS フィード (AI関連ブログ)
+- **UI**: レスポンシブデザイン、ダーク/ライトモード対応
 
 ## セットアップ
 
@@ -29,40 +22,26 @@ AIの最新情報をリサーチ・収集・整理するためのWebアプリケ
 - Node.js 18以上
 - npm または yarn
 
-### インストール
+### インストールと起動
 
 ```bash
 # 依存パッケージのインストール
 npm install
 
-# データベースのセットアップ
-npm run db:setup
-
 # 開発サーバーの起動
 npm run dev
 ```
 
-### 環境変数
-
-`.env.local` ファイルを作成して以下の環境変数を設定：
-
-```env
-# Claude API
-ANTHROPIC_API_KEY=your_api_key_here
-
-# データベース
-DATABASE_URL="file:./dev.db"
-
-# オプション: 外部API
-HACKER_NEWS_API=https://hacker-news.firebaseio.com/v0
-```
+サーバーが起動したら、ブラウザで http://localhost:3000 にアクセスしてください。
 
 ## 使用方法
 
-1. 開発サーバーを起動: `npm run dev`
-2. ブラウザで http://localhost:3000 にアクセス
-3. ダッシュボードで最新のAI情報を確認
-4. 情報収集を実行: `npm run collect`
+1. **開発サーバーを起動**: `npm run dev`
+2. **ブラウザでアクセス**: http://localhost:3000
+3. **フィルター機能を試す**:
+   - カテゴリボタンで絞り込み
+   - 情報源ボタンで絞り込み
+   - 検索ボックスでキーワード検索
 
 ## プロジェクト構造
 
@@ -70,24 +49,35 @@ HACKER_NEWS_API=https://hacker-news.firebaseio.com/v0
 ai-research-app/
 ├── src/
 │   ├── app/              # Next.js App Router
+│   │   ├── layout.tsx    # レイアウト
+│   │   ├── page.tsx      # ホームページ
+│   │   └── globals.css   # グローバルスタイル
 │   ├── components/       # Reactコンポーネント
-│   ├── lib/              # ユーティリティ関数
-│   ├── services/         # ビジネスロジック
+│   │   ├── ArticleCard.tsx   # 記事カード
+│   │   └── FilterBar.tsx     # フィルターUI
+│   ├── lib/              # ユーティリティ
+│   │   └── mockData.ts   # サンプルデータ
 │   └── types/            # TypeScript型定義
-├── prisma/               # データベーススキーマ
-├── public/               # 静的ファイル
-└── scripts/              # 収集スクリプト
+├── docs/                 # ドキュメント
+└── public/               # 静的ファイル
 ```
 
-## 開発ロードマップ
+## 特徴
 
-- [x] プロジェクトセットアップ
-- [ ] データベーススキーマ設計
-- [ ] 情報収集エンジン
-- [ ] AI要約機能
-- [ ] フロントエンドUI
-- [ ] 検索・フィルタリング
-- [ ] 自動更新機能
+- **軽量**: 最小限の依存関係
+- **高速**: サーバーサイドレンダリング
+- **モダン**: Next.js 14 App Router使用
+- **レスポンシブ**: モバイルフレンドリーなUI
+
+## 将来の拡張
+
+本格的な運用には以下の機能追加が推奨されます：
+
+- データベース連携（PostgreSQL / SQLite）
+- 実際のデータ収集（RSS、API）
+- AI要約機能（Claude API）
+- ユーザー認証
+- ブックマーク機能
 
 ## ライセンス
 

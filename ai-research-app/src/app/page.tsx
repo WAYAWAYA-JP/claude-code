@@ -1,6 +1,6 @@
-import { prisma } from '@/lib/prisma';
 import ArticleCard from '@/components/ArticleCard';
 import FilterBar from '@/components/FilterBar';
+import { mockArticles, mockStats } from '@/lib/mockData';
 
 interface PageProps {
   searchParams: Promise<{
@@ -14,41 +14,35 @@ export default async function Home({ searchParams }: PageProps) {
   const params = await searchParams;
   const { category, source, search } = params;
 
-  const where: any = {};
+  let articles = [...mockArticles];
 
-  if (category) {
-    where.category = category;
+  // カテゴリフィルター
+  if (category && category !== 'すべて') {
+    articles = articles.filter(a => a.category === category);
   }
 
-  if (source) {
-    where.source = source;
+  // 情報源フィルター
+  if (source && source !== 'すべて') {
+    articles = articles.filter(a => a.source === source);
   }
 
+  // 検索フィルター
   if (search) {
-    where.OR = [
-      { title: { contains: search } },
-      { content: { contains: search } },
-    ];
+    const searchLower = search.toLowerCase();
+    articles = articles.filter(a =>
+      a.title.toLowerCase().includes(searchLower) ||
+      (a.content && a.content.toLowerCase().includes(searchLower))
+    );
   }
 
-  const articles = await prisma.article.findMany({
-    where,
-    orderBy: {
-      publishedAt: 'desc',
-    },
-    take: 50,
+  // 日付順にソート
+  articles.sort((a, b) => {
+    const dateA = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
+    const dateB = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
+    return dateB - dateA;
   });
 
-  const stats = {
-    total: await prisma.article.count(),
-    today: await prisma.article.count({
-      where: {
-        publishedAt: {
-          gte: new Date(new Date().setHours(0, 0, 0, 0)),
-        },
-      },
-    }),
-  };
+  const stats = mockStats;
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
