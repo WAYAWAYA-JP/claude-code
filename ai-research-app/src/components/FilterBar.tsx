@@ -5,23 +5,18 @@ import { useState } from 'react';
 
 const CATEGORIES = [
   'すべて',
-  'NLP',
-  'Computer Vision',
-  'Reinforcement Learning',
-  'Generative AI',
-  'ML Infrastructure',
-  'Research',
-  'News',
+  'Tech Article',
+  'AI',
+  'ChatGPT',
+  'LLM',
+  '機械学習',
 ];
 
 const SOURCES = [
   'すべて',
-  'arXiv',
-  'Hacker News',
-  'OpenAI Blog',
-  'DeepMind Blog',
-  'Anthropic News',
-  'Hugging Face Blog',
+  'Zenn',
+  'Qiita',
+  'note',
 ];
 
 export default function FilterBar() {

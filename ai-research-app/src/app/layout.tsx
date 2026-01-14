@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "AI Research App - Latest AI News & Papers",
-  description: "自動収集・要約されたAIの最新情報",
+  title: "AI記事キュレーション - Zenn/Qiita/note 毎日自動収集",
+  description: "Zenn、Qiita、noteのAI関連記事を毎日自動で収集・整理するキュレーションサイト",
 };
 
 export default function RootLayout({
@@ -20,7 +20,7 @@ export default function RootLayout({
               <div className="flex justify-between h-16">
                 <div className="flex items-center">
                   <h1 className="text-xl font-bold text-gray-900 dark:text-white">
-                    AI Research App
+                    AI記事キュレーション
                   </h1>
                 </div>
               </div>

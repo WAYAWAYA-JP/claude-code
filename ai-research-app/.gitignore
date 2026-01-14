@@ -42,3 +42,7 @@ next-env.d.ts
 # IDE
 .vscode/
 .idea/
+
+# Generated data
+/data/
+/public/articles.json

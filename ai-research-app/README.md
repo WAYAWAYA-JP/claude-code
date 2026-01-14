@@ -1,107 +1,169 @@
-# AI Research App (デモ版)
+# AI記事キュレーション
 
-AIの最新情報をリサーチ・収集・整理するためのWebアプリケーションのデモ版です。
+Zenn、Qiita、noteのAI関連記事を**毎日自動で収集**し、見やすく整理するキュレーションサイトです。
 
-## 主な機能
+## 🌟 主な機能
 
-- **ダッシュボード**: AI関連記事を視覚的に整理・表示
-- **カテゴリフィルター**: NLP、Computer Vision、Generative AI などで絞り込み
-- **情報源フィルター**: arXiv、Hacker News、主要AIブログで絞り込み
+- **毎日自動更新**: GitHub Actionsで毎朝9時に自動収集
+- **3大プラットフォーム対応**: Zenn / Qiita / note
+- **フィルタリング**: カテゴリ・情報源で絞り込み
 - **全文検索**: タイトルと本文を検索
-- **モックデータ**: サンプル記事でUIを確認可能
+- **完全無料**: GitHub Pagesで無料ホスティング
 
-## 技術スタック
+## 🚀 デモサイト
+
+GitHub Pagesでホスティングされたサイトにアクセス:
+`https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/`
+
+## 📋 技術スタック
 
 - **Frontend**: Next.js 14 + TypeScript + Tailwind CSS
-- **UI**: レスポンシブデザイン、ダーク/ライトモード対応
+- **自動化**: GitHub Actions（毎日自動実行）
+- **ホスティング**: GitHub Pages（無料）
+- **データソース**: Zenn / Qiita / note API
 
-## セットアップ
+## 🛠️ セットアップ
 
-### 必要要件
-
-- Node.js 18以上
-- npm または yarn
-
-### 方法1: ローカルでクローンして実行（推奨）
-
-お使いのPCで直接実行する方法です：
+### 1. リポジトリをフォーク/クローン
 
 ```bash
-# リポジトリをクローン
-git clone <リポジトリURL>
-cd ai-research-app
+git clone <YOUR_REPO_URL>
+cd claude-code/ai-research-app
+```
 
-# 依存パッケージのインストール
+### 2. 依存パッケージのインストール
+
+```bash
 npm install
+```
 
-# 開発サーバーの起動
+### 3. 記事を収集（任意）
+
+```bash
+npm run fetch
+```
+
+### 4. ローカルで確認
+
+```bash
 npm run dev
 ```
 
-ブラウザで http://localhost:3000 にアクセスしてください。
+ブラウザで http://localhost:3000 にアクセス
 
-### 方法2: 静的ビルドを生成
-
-静的HTMLファイルとして配布する場合：
+### 5. ビルド
 
 ```bash
-# ビルド
 npm run build
-
-# outディレクトリが生成されます
-# Python の簡易サーバーで確認
-cd out
-python3 -m http.server 8000
 ```
 
-ブラウザで http://localhost:8000 にアクセスしてください。
+## 🤖 GitHub Pagesへのデプロイ
 
-## 使用方法
+### GitHub Pagesを有効化
 
-1. **フィルター機能**:
-   - カテゴリボタンで絞り込み（NLP、Computer Vision など）
-   - 情報源ボタンで絞り込み（arXiv、Hacker News など）
-2. **検索機能**:
-   - 検索ボックスでタイトルと本文を検索
-3. **記事の確認**:
-   - 記事カードをクリックして元記事を開く
+1. GitHubリポジトリの **Settings** > **Pages** に移動
+2. **Source** を `GitHub Actions` に設定
+3. 完了！次回のコミットから自動デプロイされます
 
-## プロジェクト構造
+### 自動実行の仕組み
+
+`.github/workflows/deploy.yml` により以下のタイミングで自動実行：
+
+- **毎日 JST 9:00** に自動実行（記事収集 → ビルド → デプロイ）
+- **mainブランチへのpush** 時に実行
+- **手動実行** も可能（Actionsタブから）
+
+## 📝 使用方法
+
+### フィルター機能
+
+- **カテゴリ**: Tech Article、AI、ChatGPT、LLM など
+- **情報源**: Zenn、Qiita、note
+
+### 検索機能
+
+検索ボックスでタイトルと本文を全文検索
+
+### 記事の確認
+
+記事カードをクリックして元記事を開く
+
+## 📂 プロジェクト構造
 
 ```
 ai-research-app/
+├── .github/
+│   └── workflows/
+│       └── deploy.yml       # GitHub Actions設定
 ├── src/
-│   ├── app/              # Next.js App Router
-│   │   ├── layout.tsx    # レイアウト
-│   │   ├── page.tsx      # ホームページ
-│   │   └── globals.css   # グローバルスタイル
-│   ├── components/       # Reactコンポーネント
-│   │   ├── ArticleCard.tsx   # 記事カード
-│   │   └── FilterBar.tsx     # フィルターUI
-│   ├── lib/              # ユーティリティ
-│   │   └── mockData.ts   # サンプルデータ
-│   └── types/            # TypeScript型定義
-├── docs/                 # ドキュメント
-└── public/               # 静的ファイル
+│   ├── app/                 # Next.js App Router
+│   │   ├── layout.tsx       # レイアウト
+│   │   ├── page.tsx         # ホームページ
+│   │   └── globals.css      # グローバルスタイル
+│   ├── components/          # Reactコンポーネント
+│   │   ├── Dashboard.tsx    # メインダッシュボード
+│   │   ├── ArticleCard.tsx  # 記事カード
+│   │   └── FilterBar.tsx    # フィルターUI
+│   ├── lib/                 # ユーティリティ
+│   │   ├── articlesData.ts  # データローダー
+│   │   └── mockData.ts      # フォールバックデータ
+│   └── types/               # TypeScript型定義
+├── scripts/
+│   └── fetch-articles.ts    # 記事収集スクリプト
+├── data/
+│   └── articles.json        # 収集した記事データ
+└── public/
+    └── articles.json        # 公開用記事データ
 ```
 
-## 特徴
+## 🔧 カスタマイズ
 
-- **軽量**: 最小限の依存関係
-- **高速**: サーバーサイドレンダリング
-- **モダン**: Next.js 14 App Router使用
-- **レスポンシブ**: モバイルフレンドリーなUI
+### 収集するキーワードを変更
 
-## 将来の拡張
+`scripts/fetch-articles.ts` を編集：
 
-本格的な運用には以下の機能追加が推奨されます：
+```typescript
+// Zenn
+const topics = ['ai', '機械学習', 'chatgpt', 'llm'];
 
-- データベース連携（PostgreSQL / SQLite）
-- 実際のデータ収集（RSS、API）
+// Qiita
+const tags = ['AI', '機械学習', 'ChatGPT', 'LLM'];
+
+// note
+const hashtags = ['AI', '機械学習', 'ChatGPT'];
+```
+
+### 実行時刻を変更
+
+`.github/workflows/deploy.yml` のcron式を編集：
+
+```yaml
+schedule:
+  - cron: '0 0 * * *'  # UTC 0:00 = JST 9:00
+```
+
+## 💡 特徴
+
+- ✅ **完全無料**: すべて無料サービスで運用可能
+- ✅ **自動更新**: 毎日自動で最新記事を収集
+- ✅ **サーバー不要**: 静的サイトとして配信
+- ✅ **高速**: Next.js静的エクスポート
+- ✅ **レスポンシブ**: モバイル対応
+
+## 🎯 今後の拡張案
+
 - AI要約機能（Claude API）
-- ユーザー認証
 - ブックマーク機能
+- RSSフィード配信
+- メール通知
+- より多くのプラットフォーム対応
 
-## ライセンス
+## 📄 ライセンス
 
 MIT
+
+## 🙏 謝辞
+
+- [Zenn](https://zenn.dev/)
+- [Qiita](https://qiita.com/)
+- [note](https://note.com/)

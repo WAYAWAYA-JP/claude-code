@@ -1,0 +1,79 @@
+name: Deploy AI Article Curation
+
+on:
+  # 毎日 JST 9:00 (UTC 0:00) に自動実行
+  schedule:
+    - cron: '0 0 * * *'
+
+  # 手動実行も可能
+  workflow_dispatch:
+
+  # mainブランチへのpush時にも実行
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 同時実行を防ぐ
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: ai-research-app/package-lock.json
+
+      - name: Install dependencies
+        working-directory: ./ai-research-app
+        run: npm ci
+
+      - name: Fetch articles from Zenn/Qiita/note
+        working-directory: ./ai-research-app
+        run: |
+          echo "📝 記事を収集中..."
+          npm run fetch
+          echo "✅ 収集完了"
+
+      - name: Build Next.js app
+        working-directory: ./ai-research-app
+        run: |
+          echo "🔨 ビルド中..."
+          npm run build
+          echo "✅ ビルド完了"
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./ai-research-app/out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
