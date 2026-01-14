@@ -1,4 +1,4 @@
-import { writeFileSync } from 'fs';
+import { writeFileSync, mkdirSync } from 'fs';
 import { join } from 'path';
 
 interface Article {
@@ -164,6 +164,10 @@ async function main() {
   allArticles.sort((a, b) =>
     new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
   );
+
+  // ディレクトリを作成（存在しない場合）
+  mkdirSync(join(process.cwd(), 'data'), { recursive: true });
+  mkdirSync(join(process.cwd(), 'public'), { recursive: true });
 
   // JSONファイルに保存（2箇所）
   const dataPath = join(process.cwd(), 'data', 'articles.json');
