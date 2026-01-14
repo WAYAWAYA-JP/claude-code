@@ -2,6 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   output: 'export',
+  basePath: '/claude-code',
+  assetPrefix: '/claude-code/',
   images: {
     unoptimized: true,
   },

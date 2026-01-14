@@ -33,7 +33,7 @@ export default function Dashboard() {
   useEffect(() => {
     async function loadArticles() {
       try {
-        const response = await fetch('/articles.json');
+        const response = await fetch('/claude-code/articles.json');
         if (response.ok) {
           const data = await response.json();
           setAllArticles(data);
