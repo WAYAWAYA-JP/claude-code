@@ -9,9 +9,10 @@ interface ArticleCardProps {
     content?: string | null;
     summary?: string | null;
     author?: string | null;
-    publishedAt?: Date | null;
+    publishedAt?: Date | string | null;
     source: string;
     category: string;
+    tags?: string[];
   };
 }
 
