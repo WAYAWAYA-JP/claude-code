@@ -1,4 +1,4 @@
-import { writeFileSync, mkdirSync } from 'fs';
+import { writeFileSync, mkdirSync, existsSync, readFileSync } from 'fs';
 import { join } from 'path';
 
 interface Article {
@@ -141,6 +141,34 @@ async function fetchNoteArticles(): Promise<Article[]> {
 async function main() {
   console.log('🚀 記事の取得を開始します...\n');
 
+  // 既存の記事を読み込む
+  const dataPath = join(process.cwd(), 'data', 'articles.json');
+  let existingArticles: Article[] = [];
+
+  if (existsSync(dataPath)) {
+    try {
+      const fileContent = readFileSync(dataPath, 'utf-8');
+      existingArticles = JSON.parse(fileContent);
+      console.log(`📂 既存記事: ${existingArticles.length}件\n`);
+    } catch (error) {
+      console.log('⚠️  既存ファイルの読み込みに失敗しました。新規作成します。\n');
+    }
+  }
+
+  // 3日以内の記事のみを保持
+  const threeDaysAgo = new Date();
+  threeDaysAgo.setDate(threeDaysAgo.getDate() - 3);
+  threeDaysAgo.setHours(0, 0, 0, 0);
+
+  const recentArticles = existingArticles.filter(article => {
+    const fetchedDate = new Date(article.fetchedAt);
+    return fetchedDate >= threeDaysAgo;
+  });
+
+  if (recentArticles.length < existingArticles.length) {
+    console.log(`🗑️  ${existingArticles.length - recentArticles.length}件の古い記事を削除しました\n`);
+  }
+
   console.log('📝 Zennから記事を取得中...');
   const zennArticles = await fetchZennArticles();
   console.log(`✓ Zenn: ${zennArticles.length}件\n`);
@@ -153,16 +181,31 @@ async function main() {
   const noteArticles = await fetchNoteArticles();
   console.log(`✓ note: ${noteArticles.length}件\n`);
 
-  // すべての記事を結合
-  const allArticles = [
+  // 新しく取得した記事を結合
+  const newArticles = [
     ...zennArticles,
     ...qiitaArticles,
     ...noteArticles,
   ];
 
-  // 日付順にソート
+  // 既存記事と新規記事をマージ（重複を除く）
+  const allArticlesMap = new Map<string, Article>();
+
+  // 既存記事を追加
+  for (const article of recentArticles) {
+    allArticlesMap.set(article.id, article);
+  }
+
+  // 新規記事を追加（同じIDがあれば上書き）
+  for (const article of newArticles) {
+    allArticlesMap.set(article.id, article);
+  }
+
+  const allArticles = Array.from(allArticlesMap.values());
+
+  // 日付順にソート（fetchedAtの新しい順）
   allArticles.sort((a, b) =>
-    new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
+    new Date(b.fetchedAt).getTime() - new Date(a.fetchedAt).getTime()
   );
 
   // ディレクトリを作成（存在しない場合）
@@ -170,13 +213,14 @@ async function main() {
   mkdirSync(join(process.cwd(), 'public'), { recursive: true });
 
   // JSONファイルに保存（2箇所）
-  const dataPath = join(process.cwd(), 'data', 'articles.json');
   const publicDataPath = join(process.cwd(), 'public', 'articles.json');
 
   writeFileSync(dataPath, JSON.stringify(allArticles, null, 2), 'utf-8');
   writeFileSync(publicDataPath, JSON.stringify(allArticles, null, 2), 'utf-8');
 
-  console.log(`✨ 完了！合計 ${allArticles.length}件の記事を取得しました`);
+  console.log(`✨ 完了！合計 ${allArticles.length}件の記事を保存しました`);
+  console.log(`   新規取得: ${newArticles.length}件`);
+  console.log(`   保持済み: ${recentArticles.length}件`);
   console.log(`📁 保存先: ${dataPath}`);
   console.log(`📁 公開用: ${publicDataPath}`);
 }
