@@ -155,20 +155,6 @@ async function main() {
     }
   }
 
-  // 3日以内の記事のみを保持
-  const threeDaysAgo = new Date();
-  threeDaysAgo.setDate(threeDaysAgo.getDate() - 3);
-  threeDaysAgo.setHours(0, 0, 0, 0);
-
-  const recentArticles = existingArticles.filter(article => {
-    const fetchedDate = new Date(article.fetchedAt);
-    return fetchedDate >= threeDaysAgo;
-  });
-
-  if (recentArticles.length < existingArticles.length) {
-    console.log(`🗑️  ${existingArticles.length - recentArticles.length}件の古い記事を削除しました\n`);
-  }
-
   console.log('📝 Zennから記事を取得中...');
   const zennArticles = await fetchZennArticles();
   console.log(`✓ Zenn: ${zennArticles.length}件\n`);
@@ -187,6 +173,27 @@ async function main() {
     ...qiitaArticles,
     ...noteArticles,
   ];
+
+  // 新規記事が取得できなかった場合は既存記事をそのまま保持
+  let recentArticles = existingArticles;
+
+  // 新規記事が1件以上取得できた場合のみ、古い記事を削除
+  if (newArticles.length > 0) {
+    const threeDaysAgo = new Date();
+    threeDaysAgo.setDate(threeDaysAgo.getDate() - 3);
+    threeDaysAgo.setHours(0, 0, 0, 0);
+
+    recentArticles = existingArticles.filter(article => {
+      const fetchedDate = new Date(article.fetchedAt);
+      return fetchedDate >= threeDaysAgo;
+    });
+
+    if (recentArticles.length < existingArticles.length) {
+      console.log(`🗑️  ${existingArticles.length - recentArticles.length}件の古い記事を削除しました\n`);
+    }
+  } else {
+    console.log('⚠️  新規記事が取得できませんでした。既存記事を保持します。\n');
+  }
 
   // 既存記事と新規記事をマージ（重複を除く）
   const allArticlesMap = new Map<string, Article>();
