@@ -43,6 +43,6 @@ next-env.d.ts
 .vscode/
 .idea/
 
-# Generated data
-/data/
-/public/articles.json
+# Generated data (articles.json is tracked for storage)
+# /data/
+# /public/articles.json
