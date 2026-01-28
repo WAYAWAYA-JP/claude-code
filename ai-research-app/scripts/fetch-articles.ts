@@ -100,30 +100,53 @@ async function fetchQiitaArticles(): Promise<Article[]> {
 // noteから記事を取得
 async function fetchNoteArticles(): Promise<Article[]> {
   try {
-    const hashtags = ['AI', '機械学習', 'ChatGPT'];
+    const keywords = ['AI', '機械学習', 'ChatGPT'];
     const articles: Article[] = [];
 
-    for (const hashtag of hashtags) {
-      const url = `https://note.com/api/v2/hashtags/${encodeURIComponent(hashtag)}/notes?order=trend`;
-      const response = await fetch(url);
+    // noteの検索APIを使用（v3）
+    for (const keyword of keywords) {
+      const url = `https://note.com/api/v3/searches?context=note&q=${encodeURIComponent(keyword)}&size=10&start=0&sort=new`;
+
+      const response = await fetch(url, {
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+          'Accept': 'application/json, text/plain, */*',
+          'Accept-Language': 'ja,en-US;q=0.9,en;q=0.8',
+          'Referer': 'https://note.com/',
+          'Origin': 'https://note.com',
+        },
+      });
+
+      if (!response.ok) {
+        console.log(`note API returned ${response.status} for keyword: ${keyword}`);
+        continue;
+      }
+
       const data = await response.json();
 
-      if (data.data?.contents) {
-        for (const item of data.data.contents) {
-          articles.push({
-            id: `note-${item.id}`,
-            title: item.name,
-            url: `https://note.com/n/${item.key}`,
-            content: item.body?.substring(0, 200),
-            author: item.user?.nickname || item.user?.urlname,
-            publishedAt: new Date(item.publishAt),
-            fetchedAt: new Date(),
-            source: 'note',
-            category: 'Tech Article',
-            tags: [],
-          });
-        }
+      // 検索APIのレスポンス構造に対応
+      const contents = data.data?.notes?.contents || data.data?.contents || [];
+
+      for (const item of contents) {
+        // noteの記事URLは https://note.com/{username}/n/{key} 形式
+        const noteUrl = item.noteUrl || `https://note.com/${item.user?.urlname}/n/${item.key}`;
+
+        articles.push({
+          id: `note-${item.id}`,
+          title: item.name || item.title,
+          url: noteUrl,
+          content: item.body?.substring(0, 200) || item.excerpt,
+          author: item.user?.nickname || item.user?.name || item.user?.urlname,
+          publishedAt: new Date(item.publishAt || item.publish_at || item.created_at),
+          fetchedAt: new Date(),
+          source: 'note',
+          category: 'Tech Article',
+          tags: [],
+        });
       }
+
+      // APIレート制限を避けるため少し待機
+      await new Promise(resolve => setTimeout(resolve, 500));
     }
 
     // 重複を削除
