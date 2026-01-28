@@ -97,45 +97,113 @@ async function fetchQiitaArticles(): Promise<Article[]> {
   }
 }
 
-// noteから記事を取得
-async function fetchNoteArticles(): Promise<Article[]> {
-  try {
-    const hashtags = ['AI', '機械学習', 'ChatGPT'];
-    const articles: Article[] = [];
+// AIクリエイターのnote ID一覧
+const NOTE_CREATORS = [
+  { id: 'kuzukumasan9', name: 'クズなくまさん' },
+  { id: 'npaka', name: 'npaka' },
+  { id: 'yaoyoroztech', name: 'YaroTech' },
+  { id: 'akira_akasaka', name: 'Akira Akasaka' },
+  { id: 'naokishibata', name: 'シバタナオキ' },
+  { id: 'itnavi', name: 'ITNavi' },
+  { id: 'maezumi', name: 'まえずみ' },
+  { id: 'toda_koki', name: 'とだこうき' },
+  { id: 'ai_image_journey', name: 'きまま / Easygoi...' },
+  { id: 'shikism', name: 'Shiki' },
+  { id: 'yuki_ii', name: 'Yuki' },
+  { id: 'shimomayu', name: '下川真由美' },
+  { id: 'monetize_tips', name: 'monetize_tips' },
+  { id: 'hiro_seki', name: 'hiro_seki' },
+  { id: 'saimachi_hajime', name: 'サイマチ ハジメ' },
+];
 
-    for (const hashtag of hashtags) {
-      const url = `https://note.com/api/v2/hashtags/${encodeURIComponent(hashtag)}/notes?order=trend`;
-      const response = await fetch(url);
-      const data = await response.json();
+// RSSからアイテムをパースするヘルパー関数
+function parseRssItems(xml: string, authorName: string): Article[] {
+  const articles: Article[] = [];
+  const itemRegex = /<item>([\s\S]*?)<\/item>/g;
+  let match;
 
-      if (data.data?.contents) {
-        for (const item of data.data.contents) {
-          articles.push({
-            id: `note-${item.id}`,
-            title: item.name,
-            url: `https://note.com/n/${item.key}`,
-            content: item.body?.substring(0, 200),
-            author: item.user?.nickname || item.user?.urlname,
-            publishedAt: new Date(item.publishAt),
-            fetchedAt: new Date(),
-            source: 'note',
-            category: 'Tech Article',
-            tags: [],
-          });
-        }
-      }
+  while ((match = itemRegex.exec(xml)) !== null) {
+    const itemContent = match[1];
+
+    const titleMatch = itemContent.match(/<title><!\[CDATA\[([\s\S]*?)\]\]><\/title>/) ||
+                       itemContent.match(/<title>([\s\S]*?)<\/title>/);
+    const linkMatch = itemContent.match(/<link>([\s\S]*?)<\/link>/);
+    const descMatch = itemContent.match(/<description><!\[CDATA\[([\s\S]*?)\]\]><\/description>/) ||
+                      itemContent.match(/<description>([\s\S]*?)<\/description>/);
+    const pubDateMatch = itemContent.match(/<pubDate>([\s\S]*?)<\/pubDate>/);
+    const guidMatch = itemContent.match(/<guid[^>]*>([\s\S]*?)<\/guid>/);
+
+    if (titleMatch && linkMatch) {
+      const title = titleMatch[1].trim();
+      const url = linkMatch[1].trim();
+      const description = descMatch ? descMatch[1].replace(/<[^>]*>/g, '').trim().substring(0, 200) : undefined;
+      const pubDate = pubDateMatch ? new Date(pubDateMatch[1].trim()) : new Date();
+      const guid = guidMatch ? guidMatch[1].trim() : url;
+
+      // IDはURLから生成
+      const noteId = url.match(/\/n\/([a-zA-Z0-9]+)/)?.[1] || guid;
+
+      articles.push({
+        id: `note-${noteId}`,
+        title,
+        url,
+        content: description,
+        author: authorName,
+        publishedAt: pubDate,
+        fetchedAt: new Date(),
+        source: 'note',
+        category: 'Tech Article',
+        tags: [],
+      });
     }
-
-    // 重複を削除
-    const uniqueArticles = Array.from(
-      new Map(articles.map(a => [a.id, a])).values()
-    );
-
-    return uniqueArticles.slice(0, 20);
-  } catch (error) {
-    console.error('Error fetching note articles:', error);
-    return [];
   }
+
+  return articles;
+}
+
+// noteから記事を取得（RSSフィードを使用）
+async function fetchNoteArticles(): Promise<Article[]> {
+  const articles: Article[] = [];
+
+  for (const creator of NOTE_CREATORS) {
+    try {
+      const rssUrl = `https://note.com/${creator.id}/rss`;
+
+      const response = await fetch(rssUrl, {
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (compatible; AI-Research-App/1.0)',
+          'Accept': 'application/rss+xml, application/xml, text/xml',
+        },
+      });
+
+      if (!response.ok) {
+        console.log(`  - ${creator.name}: ${response.status} エラー`);
+        continue;
+      }
+
+      const xml = await response.text();
+      const creatorArticles = parseRssItems(xml, creator.name);
+
+      // 各クリエイターから最新3件を取得
+      articles.push(...creatorArticles.slice(0, 3));
+      console.log(`  - ${creator.name}: ${Math.min(creatorArticles.length, 3)}件`);
+
+      // レート制限を避けるため少し待機
+      await new Promise(resolve => setTimeout(resolve, 300));
+    } catch (error) {
+      console.log(`  - ${creator.name}: 取得失敗`);
+    }
+  }
+
+  // 重複を削除
+  const uniqueArticles = Array.from(
+    new Map(articles.map(a => [a.id, a])).values()
+  );
+
+  // 日付順にソートして最新30件を返す
+  return uniqueArticles
+    .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
+    .slice(0, 30);
 }
 
 async function main() {
