@@ -97,68 +97,113 @@ async function fetchQiitaArticles(): Promise<Article[]> {
   }
 }
 
-// noteから記事を取得
+// AIクリエイターのnote ID一覧
+const NOTE_CREATORS = [
+  { id: 'kuzukumasan9', name: 'クズなくまさん' },
+  { id: 'npaka', name: 'npaka' },
+  { id: 'yaoyoroztech', name: 'YaroTech' },
+  { id: 'akira_akasaka', name: 'Akira Akasaka' },
+  { id: 'naokishibata', name: 'シバタナオキ' },
+  { id: 'itnavi', name: 'ITNavi' },
+  { id: 'maezumi', name: 'まえずみ' },
+  { id: 'toda_koki', name: 'とだこうき' },
+  { id: 'ai_image_journey', name: 'きまま / Easygoi...' },
+  { id: 'shikism', name: 'Shiki' },
+  { id: 'yuki_ii', name: 'Yuki' },
+  { id: 'shimomayu', name: '下川真由美' },
+  { id: 'monetize_tips', name: 'monetize_tips' },
+  { id: 'hiro_seki', name: 'hiro_seki' },
+  { id: 'saimachi_hajime', name: 'サイマチ ハジメ' },
+];
+
+// RSSからアイテムをパースするヘルパー関数
+function parseRssItems(xml: string, authorName: string): Article[] {
+  const articles: Article[] = [];
+  const itemRegex = /<item>([\s\S]*?)<\/item>/g;
+  let match;
+
+  while ((match = itemRegex.exec(xml)) !== null) {
+    const itemContent = match[1];
+
+    const titleMatch = itemContent.match(/<title><!\[CDATA\[([\s\S]*?)\]\]><\/title>/) ||
+                       itemContent.match(/<title>([\s\S]*?)<\/title>/);
+    const linkMatch = itemContent.match(/<link>([\s\S]*?)<\/link>/);
+    const descMatch = itemContent.match(/<description><!\[CDATA\[([\s\S]*?)\]\]><\/description>/) ||
+                      itemContent.match(/<description>([\s\S]*?)<\/description>/);
+    const pubDateMatch = itemContent.match(/<pubDate>([\s\S]*?)<\/pubDate>/);
+    const guidMatch = itemContent.match(/<guid[^>]*>([\s\S]*?)<\/guid>/);
+
+    if (titleMatch && linkMatch) {
+      const title = titleMatch[1].trim();
+      const url = linkMatch[1].trim();
+      const description = descMatch ? descMatch[1].replace(/<[^>]*>/g, '').trim().substring(0, 200) : undefined;
+      const pubDate = pubDateMatch ? new Date(pubDateMatch[1].trim()) : new Date();
+      const guid = guidMatch ? guidMatch[1].trim() : url;
+
+      // IDはURLから生成
+      const noteId = url.match(/\/n\/([a-zA-Z0-9]+)/)?.[1] || guid;
+
+      articles.push({
+        id: `note-${noteId}`,
+        title,
+        url,
+        content: description,
+        author: authorName,
+        publishedAt: pubDate,
+        fetchedAt: new Date(),
+        source: 'note',
+        category: 'Tech Article',
+        tags: [],
+      });
+    }
+  }
+
+  return articles;
+}
+
+// noteから記事を取得（RSSフィードを使用）
 async function fetchNoteArticles(): Promise<Article[]> {
-  try {
-    const keywords = ['AI', '機械学習', 'ChatGPT'];
-    const articles: Article[] = [];
+  const articles: Article[] = [];
 
-    // noteの検索APIを使用（v3）
-    for (const keyword of keywords) {
-      const url = `https://note.com/api/v3/searches?context=note&q=${encodeURIComponent(keyword)}&size=10&start=0&sort=new`;
+  for (const creator of NOTE_CREATORS) {
+    try {
+      const rssUrl = `https://note.com/${creator.id}/rss`;
 
-      const response = await fetch(url, {
+      const response = await fetch(rssUrl, {
         headers: {
-          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-          'Accept': 'application/json, text/plain, */*',
-          'Accept-Language': 'ja,en-US;q=0.9,en;q=0.8',
-          'Referer': 'https://note.com/',
-          'Origin': 'https://note.com',
+          'User-Agent': 'Mozilla/5.0 (compatible; AI-Research-App/1.0)',
+          'Accept': 'application/rss+xml, application/xml, text/xml',
         },
       });
 
       if (!response.ok) {
-        console.log(`note API returned ${response.status} for keyword: ${keyword}`);
+        console.log(`  - ${creator.name}: ${response.status} エラー`);
         continue;
       }
 
-      const data = await response.json();
+      const xml = await response.text();
+      const creatorArticles = parseRssItems(xml, creator.name);
 
-      // 検索APIのレスポンス構造に対応
-      const contents = data.data?.notes?.contents || data.data?.contents || [];
+      // 各クリエイターから最新3件を取得
+      articles.push(...creatorArticles.slice(0, 3));
+      console.log(`  - ${creator.name}: ${Math.min(creatorArticles.length, 3)}件`);
 
-      for (const item of contents) {
-        // noteの記事URLは https://note.com/{username}/n/{key} 形式
-        const noteUrl = item.noteUrl || `https://note.com/${item.user?.urlname}/n/${item.key}`;
-
-        articles.push({
-          id: `note-${item.id}`,
-          title: item.name || item.title,
-          url: noteUrl,
-          content: item.body?.substring(0, 200) || item.excerpt,
-          author: item.user?.nickname || item.user?.name || item.user?.urlname,
-          publishedAt: new Date(item.publishAt || item.publish_at || item.created_at),
-          fetchedAt: new Date(),
-          source: 'note',
-          category: 'Tech Article',
-          tags: [],
-        });
-      }
-
-      // APIレート制限を避けるため少し待機
-      await new Promise(resolve => setTimeout(resolve, 500));
+      // レート制限を避けるため少し待機
+      await new Promise(resolve => setTimeout(resolve, 300));
+    } catch (error) {
+      console.log(`  - ${creator.name}: 取得失敗`);
     }
-
-    // 重複を削除
-    const uniqueArticles = Array.from(
-      new Map(articles.map(a => [a.id, a])).values()
-    );
-
-    return uniqueArticles.slice(0, 20);
-  } catch (error) {
-    console.error('Error fetching note articles:', error);
-    return [];
   }
+
+  // 重複を削除
+  const uniqueArticles = Array.from(
+    new Map(articles.map(a => [a.id, a])).values()
+  );
+
+  // 日付順にソートして最新30件を返す
+  return uniqueArticles
+    .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
+    .slice(0, 30);
 }
 
 async function main() {
