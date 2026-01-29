@@ -102,12 +102,21 @@ export default function Dashboard() {
     }
   }
 
+  // 記事がある日のリストを取得（ソート済み）
+  const availableDays = [0, 1, 2, 3].filter(day => articlesByDate[`day${day}`]?.length > 0);
+
+  // 記事があるページが無い場合のデフォルト
+  const defaultPage = availableDays.length > 0 ? availableDays[0] + 1 : 1;
+
+  // 有効なページかチェック（記事がある日のみ）
+  const effectivePage = availableDays.includes(currentPage - 1) ? currentPage : defaultPage;
+
   // ページごとの記事を取得
-  const pageKey = `day${currentPage - 1}`;
+  const pageKey = `day${effectivePage - 1}`;
   const currentPageArticles = articlesByDate[pageKey] || [];
 
-  // 総ページ数を計算
-  const totalPages = Object.keys(articlesByDate).length;
+  // 総ページ数を計算（記事がある日の数）
+  const totalPages = availableDays.length;
 
   // 統計情報を計算
   const todayArticles = allArticles.filter(a => {
@@ -123,8 +132,8 @@ export default function Dashboard() {
 
   // 現在のページの日付を計算
   const currentDate = new Date();
-  currentDate.setDate(currentDate.getDate() - (currentPage - 1));
-  const dateLabel = currentPage === 1 ? '今日' : `${currentPage - 1}日前`;
+  currentDate.setDate(currentDate.getDate() - (effectivePage - 1));
+  const dateLabel = effectivePage === 1 ? '今日' : `${effectivePage - 1}日前`;
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -167,30 +176,33 @@ export default function Dashboard() {
       )}
 
       {/* ページネーション */}
-      {totalPages > 1 && (
+      {totalPages >= 1 && (
         <div className="mt-8 flex flex-col items-center gap-4">
           <div className="flex items-center gap-2">
             {/* 前へボタン */}
-            {currentPage > 1 && (
-              <a
-                href={(() => {
-                  const params = new URLSearchParams(searchParams.toString());
-                  params.set('page', (currentPage - 1).toString());
-                  return `?${params.toString()}`;
-                })()}
-                className="px-4 py-2 rounded-lg text-sm font-medium bg-gray-100 text-gray-700 hover:bg-gray-200 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600 transition-colors"
-              >
-                ← 前へ
-              </a>
-            )}
+            {(() => {
+              const currentIndex = availableDays.indexOf(effectivePage - 1);
+              if (currentIndex > 0) {
+                const prevDay = availableDays[currentIndex - 1];
+                const params = new URLSearchParams(searchParams.toString());
+                params.set('page', (prevDay + 1).toString());
+                return (
+                  <a
+                    href={`?${params.toString()}`}
+                    className="px-4 py-2 rounded-lg text-sm font-medium bg-gray-100 text-gray-700 hover:bg-gray-200 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600 transition-colors"
+                  >
+                    ← 前へ
+                  </a>
+                );
+              }
+              return null;
+            })()}
 
-            {/* ページボタン */}
-            {[1, 2, 3, 4].map((page) => {
-              const hasArticles = !!articlesByDate[`day${page - 1}`];
-              if (!hasArticles) return null;
-
-              const pageLabel = page === 1 ? '今日' : `${page - 1}日前`;
-              const isActive = currentPage === page;
+            {/* ページボタン - 記事がある日のみ表示 */}
+            {availableDays.map((day) => {
+              const page = day + 1;
+              const pageLabel = day === 0 ? '今日' : `${day}日前`;
+              const isActive = effectivePage === page;
 
               // URLを構築
               const params = new URLSearchParams(searchParams.toString());
@@ -213,18 +225,23 @@ export default function Dashboard() {
             })}
 
             {/* 次へボタン */}
-            {currentPage < totalPages && (
-              <a
-                href={(() => {
-                  const params = new URLSearchParams(searchParams.toString());
-                  params.set('page', (currentPage + 1).toString());
-                  return `?${params.toString()}`;
-                })()}
-                className="px-4 py-2 rounded-lg text-sm font-medium bg-gray-100 text-gray-700 hover:bg-gray-200 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600 transition-colors"
-              >
-                次へ →
-              </a>
-            )}
+            {(() => {
+              const currentIndex = availableDays.indexOf(effectivePage - 1);
+              if (currentIndex < availableDays.length - 1) {
+                const nextDay = availableDays[currentIndex + 1];
+                const params = new URLSearchParams(searchParams.toString());
+                params.set('page', (nextDay + 1).toString());
+                return (
+                  <a
+                    href={`?${params.toString()}`}
+                    className="px-4 py-2 rounded-lg text-sm font-medium bg-gray-100 text-gray-700 hover:bg-gray-200 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600 transition-colors"
+                  >
+                    次へ →
+                  </a>
+                );
+              }
+              return null;
+            })()}
           </div>
         </div>
       )}
