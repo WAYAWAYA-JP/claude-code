@@ -72,10 +72,10 @@ export default function Dashboard() {
     );
   }
 
-  // 日付順にソート（fetchedAtで）
+  // 記事の公開日時順にソート（publishedAtで）
   articles.sort((a, b) => {
-    const dateA = a.fetchedAt ? new Date(a.fetchedAt).getTime() : 0;
-    const dateB = b.fetchedAt ? new Date(b.fetchedAt).getTime() : 0;
+    const dateA = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
+    const dateB = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
     return dateB - dateA;
   });
 
