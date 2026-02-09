@@ -105,8 +105,7 @@ const NOTE_CREATORS = [
   { id: 'ai_image_journey', name: 'きまま / Easygoi...' },
   { id: 'shikism', name: 'Shiki' },
   { id: 'yuki_ii', name: 'Yuki' },
-  { id: 'shimomayu', name: '下川真由美' },
-  { id: 'monetize_tips', name: 'monetize_tips' },
+{ id: 'monetize_tips', name: 'monetize_tips' },
   { id: 'hiro_seki', name: 'hiro_seki' },
 ];
 
