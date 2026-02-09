@@ -102,18 +102,11 @@ const NOTE_CREATORS = [
   { id: 'kuzukumasan9', name: 'クズなくまさん' },
   { id: 'npaka', name: 'npaka' },
   { id: 'yaoyoroztech', name: 'YaroTech' },
-  { id: 'akira_akasaka', name: 'Akira Akasaka' },
-  { id: 'naokishibata', name: 'シバタナオキ' },
-  { id: 'itnavi', name: 'ITNavi' },
-  { id: 'maezumi', name: 'まえずみ' },
-  { id: 'toda_koki', name: 'とだこうき' },
   { id: 'ai_image_journey', name: 'きまま / Easygoi...' },
   { id: 'shikism', name: 'Shiki' },
   { id: 'yuki_ii', name: 'Yuki' },
-  { id: 'shimomayu', name: '下川真由美' },
-  { id: 'monetize_tips', name: 'monetize_tips' },
+{ id: 'monetize_tips', name: 'monetize_tips' },
   { id: 'hiro_seki', name: 'hiro_seki' },
-  { id: 'saimachi_hajime', name: 'サイマチ ハジメ' },
 ];
 
 // RSSからアイテムをパースするヘルパー関数
