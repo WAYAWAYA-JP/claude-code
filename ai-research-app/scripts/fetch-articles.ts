@@ -103,7 +103,6 @@ const NOTE_CREATORS = [
   { id: 'npaka', name: 'npaka' },
   { id: 'yaoyoroztech', name: 'YaroTech' },
   { id: 'ai_image_journey', name: 'きまま / Easygoi...' },
-  { id: 'shikism', name: 'Shiki' },
   { id: 'yuki_ii', name: 'Yuki' },
 { id: 'monetize_tips', name: 'monetize_tips' },
   { id: 'hiro_seki', name: 'hiro_seki' },
