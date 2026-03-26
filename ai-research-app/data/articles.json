@@ -1,24 +1,12 @@
 [
   {
-    "id": "note-ndfb446ce4e77",
-    "title": "Google AI Proとは何？料金・できること・活用方法をわかりやすく解説",
-    "url": "https://note.com/hiro_seki/n/ndfb446ce4e77",
-    "content": "こんにちは！ヒロです！近年、生成AIは仕事や学習、クリエイティブ活動に欠かせないツールになりました。続きをみる",
-    "author": "hiro_seki",
-    "publishedAt": "2026-03-23T23:38:44.000Z",
-    "fetchedAt": "2026-03-26T07:03:59.448Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
     "id": "note-n7ed617082dd2",
     "title": "Geminiが使えない原因とは？エラー・ループ・応答なしの対処法をわかりやすく解説",
     "url": "https://note.com/hiro_seki/n/n7ed617082dd2",
     "content": "こんにちは！ヒロです！「Geminiを開いてもエラーが表示される」「プロンプトを送信しても反応がない」続きをみる",
     "author": "hiro_seki",
     "publishedAt": "2026-03-24T14:53:39.000Z",
-    "fetchedAt": "2026-03-26T07:03:59.448Z",
+    "fetchedAt": "2026-03-26T13:15:48.277Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -30,7 +18,19 @@
     "content": "こんにちは！ヒロです！生成AIは、文章作成やデータ分析、画像生成など多くの分野で活用されています。続きをみる",
     "author": "hiro_seki",
     "publishedAt": "2026-03-25T10:42:32.000Z",
-    "fetchedAt": "2026-03-26T07:03:59.448Z",
+    "fetchedAt": "2026-03-26T13:15:48.277Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n598361240b8f",
+    "title": "NotebookLMで勉強効率を最大化する方法6選｜使い方・コツ・注意点まで徹底解説",
+    "url": "https://note.com/hiro_seki/n/n598361240b8f",
+    "content": "こんにちは！ヒロです！Googleが提供するAIツール「NotebookLM（ノートブック エルエム）」は、これまでの勉強スタイルを大きく変える可能性を持っています。続きをみる",
+    "author": "hiro_seki",
+    "publishedAt": "2026-03-26T09:22:54.000Z",
+    "fetchedAt": "2026-03-26T13:15:48.277Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -42,7 +42,7 @@
     "content": "「AIを使っているのに、なんで売れないんだろう…」続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-03-24T07:39:24.000Z",
-    "fetchedAt": "2026-03-26T07:03:58.634Z",
+    "fetchedAt": "2026-03-26T13:15:47.664Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -54,7 +54,7 @@
     "content": "毎日「今日は何を書こう…」と悩んで、結局更新できなかった経験はありませんか？続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-03-25T04:09:00.000Z",
-    "fetchedAt": "2026-03-26T07:03:58.634Z",
+    "fetchedAt": "2026-03-26T13:15:47.664Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -66,7 +66,7 @@
     "content": "note副業を始めたばかりの方に、ぜひ知っておいてほしいことがあります。続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-03-26T00:42:51.000Z",
-    "fetchedAt": "2026-03-26T07:03:58.634Z",
+    "fetchedAt": "2026-03-26T13:15:47.664Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -78,7 +78,7 @@
     "content": "前回からの続きです。                                    続きをみる",
     "author": "Yuki",
     "publishedAt": "2026-02-11T21:57:48.000Z",
-    "fetchedAt": "2026-03-26T07:03:58.037Z",
+    "fetchedAt": "2026-03-26T13:15:47.148Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -90,7 +90,7 @@
     "content": "最終回です。                        \nGeminiでAI小説 アンドロイドメイドIris｜Yuki｜noteGeminiの進化すごい。note.com\n            続きをみる",
     "author": "Yuki",
     "publishedAt": "2026-02-12T21:39:36.000Z",
-    "fetchedAt": "2026-03-26T07:03:58.037Z",
+    "fetchedAt": "2026-03-26T13:15:47.148Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -102,7 +102,7 @@
     "content": "やっぱりZ-Image-Turboの速さが正義だな。続きをみる",
     "author": "Yuki",
     "publishedAt": "2026-02-14T09:04:20.000Z",
-    "fetchedAt": "2026-03-26T07:03:58.037Z",
+    "fetchedAt": "2026-03-26T13:15:47.148Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -114,7 +114,7 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-02-22T22:47:23.000Z",
-    "fetchedAt": "2026-03-26T07:03:57.422Z",
+    "fetchedAt": "2026-03-26T13:15:46.590Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -126,7 +126,7 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-03-05T08:08:57.000Z",
-    "fetchedAt": "2026-03-26T07:03:57.422Z",
+    "fetchedAt": "2026-03-26T13:15:46.590Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -138,7 +138,7 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-03-17T08:18:56.000Z",
-    "fetchedAt": "2026-03-26T07:03:57.422Z",
+    "fetchedAt": "2026-03-26T13:15:46.590Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -150,7 +150,7 @@
     "content": "こんにちは！YaroTechです。ノートPCでAIを完全ローカルで動かしたい。でも実際にやってみたら、1回の応答に16秒もかかる……。これ、実用レベルとは言いがたいですよね。続きをみる",
     "author": "YaroTech",
     "publishedAt": "2026-03-24T03:17:34.000Z",
-    "fetchedAt": "2026-03-26T07:03:56.620Z",
+    "fetchedAt": "2026-03-26T13:15:46.065Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -162,7 +162,7 @@
     "content": "こんにちは！YaroTechです。前回の調査編では、AI5兄弟にDeepResearchで「ThinkPad X1 CarbonのNPU最速化」を徹底調査してもらいました。その結論は「OpenVINO GenAIが最有力、NexaAI SDKも期待」でした。続きをみる",
     "author": "YaroTech",
     "publishedAt": "2026-03-24T23:30:00.000Z",
-    "fetchedAt": "2026-03-26T07:03:56.620Z",
+    "fetchedAt": "2026-03-26T13:15:46.065Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -174,7 +174,7 @@
     "content": "こんにちは！YaroTechです。「ジミーことはじめ」シリーズ #23 へようこそ！続きをみる",
     "author": "YaroTech",
     "publishedAt": "2026-03-26T01:57:47.000Z",
-    "fetchedAt": "2026-03-26T07:03:56.620Z",
+    "fetchedAt": "2026-03-26T13:15:46.065Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -186,7 +186,7 @@
     "content": "「DGX Spark」で「piper-plus」のTTSを試したのでまとめました。・piper-plus v1.8.0\n続きをみる",
     "author": "npaka",
     "publishedAt": "2026-03-23T13:01:45.000Z",
-    "fetchedAt": "2026-03-26T07:03:55.595Z",
+    "fetchedAt": "2026-03-26T13:15:45.548Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -198,7 +198,7 @@
     "content": "「Cowork」の「Dispatch」と「Computer Use」を試したのでまとめました。続きをみる",
     "author": "npaka",
     "publishedAt": "2026-03-24T22:43:51.000Z",
-    "fetchedAt": "2026-03-26T07:03:55.595Z",
+    "fetchedAt": "2026-03-26T13:15:45.548Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -210,7 +210,7 @@
     "content": "「Xcode 26.3」の「Agentic Coding」を試したのでまとめました。続きをみる",
     "author": "npaka",
     "publishedAt": "2026-03-25T11:18:31.000Z",
-    "fetchedAt": "2026-03-26T07:03:55.595Z",
+    "fetchedAt": "2026-03-26T13:15:45.548Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -222,7 +222,7 @@
     "content": "なぜAI初心者でもSNSで伸びるのか？私「AIイラストを始めたけど、全然伸びないんです。やっぱりまだ下手だからですよね？」AIさん「実は、それが一番多い“勘違い”なんです。」SNSを見ていると、「自分よりクオリティが低そうなのに、なぜか伸びているAIイラスト」を見かけたことはありませんか？逆に、「めちゃくちゃ作り込んだのに、いいねがほとんど付かない」そんな経験をした人も多いはずです。ここで一つ、は",
     "author": "クズなくまさん",
     "publishedAt": "2026-02-11T08:16:42.000Z",
-    "fetchedAt": "2026-03-26T07:03:55.257Z",
+    "fetchedAt": "2026-03-26T13:15:45.241Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -234,7 +234,7 @@
     "content": "AIさん、最近ちょっと不安なんです。「AIは無限に創造できる」って言われているのに、SNSを見ると、どこかで見たような絵ばかりに感じてしまって…。もしかして、生成AIって本当に“独自性”があるわけじゃないの？そんな疑問を持つ人が今、少しずつ増えています。この記事では、AI同士で画像を生成し続けた研究結果をもとに、・なぜAIは似た構図に収束するのか・なぜ12の定番パターンに固定されてしまったのか・そ",
     "author": "クズなくまさん",
     "publishedAt": "2026-02-12T13:18:21.000Z",
-    "fetchedAt": "2026-03-26T07:03:55.257Z",
+    "fetchedAt": "2026-03-26T13:15:45.241Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -246,7 +246,488 @@
     "content": "変わり始めた「2月14日」の意味続きをみる",
     "author": "クズなくまさん",
     "publishedAt": "2026-02-14T11:31:55.000Z",
-    "fetchedAt": "2026-03-26T07:03:55.257Z",
+    "fetchedAt": "2026-03-26T13:15:45.241Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "qiita-9ade03c9559d1f9fc846",
+    "title": "【量子AI #20】古典ML vs QML ベンチマーク比較の実装",
+    "url": "https://qiita.com/AIRoboticsQuantumLab/items/9ade03c9559d1f9fc846",
+    "content": "## 8. パフォーマンスベンチマーク\n\n### 8.1 古典MLとQMLの比較実験\n\n```python\nimport time, numpy as np, pandas as pd\nfrom sklearn.svm import SVC\nfrom sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier",
+    "author": "AIRoboticsQuantumLab",
+    "publishedAt": "2026-03-26T05:37:35.000Z",
+    "fetchedAt": "2026-03-26T13:15:43.263Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "機械学習",
+      "AI",
+      "量子コンピュータ"
+    ]
+  },
+  {
+    "id": "qiita-e79708f22b0dabc2a914",
+    "title": "【量子AI #19】非同期QML推論エンジンとAPIエンドポイントの完全実装",
+    "url": "https://qiita.com/AIRoboticsQuantumLab/items/e79708f22b0dabc2a914",
+    "content": "```python\nengine = QMLInferenceEngine()\n\n@app.post(\"/predict/quality\", response_model=QualityPrediction)\nasync def predict_quality(reading: SensorReading):\n    \"\"\"センサーデータから製品品質をQMLで予測\"\"\"\n    try:\n    ",
+    "author": "AIRoboticsQuantumLab",
+    "publishedAt": "2026-03-26T05:36:36.000Z",
+    "fetchedAt": "2026-03-26T13:15:43.263Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "機械学習",
+      "AI",
+      "量子コンピュータ"
+    ]
+  },
+  {
+    "id": "qiita-99ee828c77130be279fd",
+    "title": "【量子AI #18】FastAPIでQMLモデルをREST APIとしてサービングする方法",
+    "url": "https://qiita.com/AIRoboticsQuantumLab/items/99ee828c77130be279fd",
+    "content": "## 7. 本番システムへの統合パターン\n\n### 7.1 QMLサービスのREST API化\n\n```python\nfrom fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel, Field\nimport torch, numpy as np, asyncio, time, logging\nfrom datet",
+    "author": "AIRoboticsQuantumLab",
+    "publishedAt": "2026-03-26T05:36:35.000Z",
+    "fetchedAt": "2026-03-26T13:15:43.263Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "機械学習",
+      "AI",
+      "量子コンピュータ"
+    ]
+  },
+  {
+    "id": "qiita-b0c5e4ac7e201bc06077",
+    "title": "【量子AI #17】量子転移学習モデルのパラメータ確認とデモ実行",
+    "url": "https://qiita.com/AIRoboticsQuantumLab/items/b0c5e4ac7e201bc06077",
+    "content": "```python\n    def get_param_count(self):\n        total = sum(p.numel() for p in self.parameters())\n        trainable = sum(p.numel() for p in self.parameters() if p.requires_grad)\n        return {\n   ",
+    "author": "AIRoboticsQuantumLab",
+    "publishedAt": "2026-03-26T05:36:33.000Z",
+    "fetchedAt": "2026-03-26T13:15:43.263Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "機械学習",
+      "AI",
+      "量子コンピュータ"
+    ]
+  },
+  {
+    "id": "qiita-80229efac808b0c8f61e",
+    "title": "【量子AI #16】量子転移学習：ResNet18と量子回路を融合させるアーキテクチャ",
+    "url": "https://qiita.com/AIRoboticsQuantumLab/items/80229efac808b0c8f61e",
+    "content": "## 6. 量子転移学習（Quantum Transfer Learning）\n\n### 6.1 古典モデルと量子層の融合\n\n事前学習済みResNet18の特徴抽出層を活かしつつ、分類ヘッドを量子回路に置き換えます。\n\n```python\nimport torch, torch.nn as nn, pennylane as qml, numpy as np\nfrom torchvision imp",
+    "author": "AIRoboticsQuantumLab",
+    "publishedAt": "2026-03-26T05:36:31.000Z",
+    "fetchedAt": "2026-03-26T13:15:43.263Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "機械学習",
+      "AI",
+      "量子コンピュータ"
+    ]
+  },
+  {
+    "id": "qiita-b59d4ade368cc9ec233c",
+    "title": "【量子AI #15】Max-Cutタスク割り当て結果の可視化コード",
+    "url": "https://qiita.com/AIRoboticsQuantumLab/items/b59d4ade368cc9ec233c",
+    "content": "```python\nimport matplotlib.pyplot as plt\nfrom matplotlib.patches import Patch\n\ndef visualize_schedule(scheduler, assignment):\n    G = scheduler.task_graph\n    pos = nx.spring_layout(G, seed=42)\n    f",
+    "author": "AIRoboticsQuantumLab",
+    "publishedAt": "2026-03-26T05:35:37.000Z",
+    "fetchedAt": "2026-03-26T13:15:43.263Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "機械学習",
+      "AI",
+      "量子コンピュータ"
+    ]
+  },
+  {
+    "id": "qiita-1e90f52201194e3c17fd",
+    "title": "【量子AI #14】QAOAサンプリングと最良タスク割り当ての選択ロジック",
+    "url": "https://qiita.com/AIRoboticsQuantumLab/items/1e90f52201194e3c17fd",
+    "content": "```python\n    def _sample_best_assignment(self, circuit, gamma, beta, n_samples=1000):\n        @qml.qnode(self.device)\n        def sampling_circuit(gamma, beta):\n            for i in range(self.n_qubi",
+    "author": "AIRoboticsQuantumLab",
+    "publishedAt": "2026-03-26T05:35:35.000Z",
+    "fetchedAt": "2026-03-26T13:15:43.263Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "機械学習",
+      "AI",
+      "量子コンピュータ"
+    ]
+  },
+  {
+    "id": "qiita-2d01e0735269d9e180d6",
+    "title": "【量子AI #13】QAOAコスト層・ミキサー層と最適化の実装",
+    "url": "https://qiita.com/AIRoboticsQuantumLab/items/2d01e0735269d9e180d6",
+    "content": "```python\n    def build_qaoa_circuit(self, p=3):\n        @qml.qnode(self.device)\n        def qaoa_circuit(gamma_params, beta_params):\n            for i in range(self.n_qubits):\n                qml.Had",
+    "author": "AIRoboticsQuantumLab",
+    "publishedAt": "2026-03-26T05:35:34.000Z",
+    "fetchedAt": "2026-03-26T13:15:43.263Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "機械学習",
+      "AI",
+      "量子コンピュータ"
+    ]
+  },
+  {
+    "id": "qiita-3b4662813e76160d1a22",
+    "title": "16_YAMLとdataclassで型安全な設定管理をする",
+    "url": "https://qiita.com/keiba_ai_rui/items/3b4662813e76160d1a22",
+    "content": "\n\n## はじめに\n\n機械学習プロジェクトが大きくなると、設定値（学習率・特徴量リスト・ファイルパスなど）が散らばりがちです。コードにハードコードしてしまうと、変更のたびにコードを探して修正する手間が発生します。\n\nこの記事では、**YAML + Python dataclass** の組み合わせで型安全な設定管理を実現する方法を解説します。競馬AIでの具体的な適用例も紹介します。 \n\n---\n\n",
+    "author": "keiba_ai_rui",
+    "publishedAt": "2026-03-26T13:00:05.000Z",
+    "fetchedAt": "2026-03-26T13:15:43.263Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "機械学習",
+      "競馬AI",
+      "dataclass,",
+      "設定管理,"
+    ]
+  },
+  {
+    "id": "qiita-e0b8702938f2ca61abab",
+    "title": "Applied Engineerとは？SE・SAとの違いと求人800%増の背景【2026年版】",
+    "url": "https://qiita.com/okikusan-public/items/e0b8702938f2ca61abab",
+    "content": "## Applied Engineerが注目される背景 — レイオフと求人800%増が同時に起きている\n\n2025年、**米国を中心に**テック業界でグローバル24.5万人がレイオフされました（[TrueUp集計](https://www.trueup.io/layoffs)）。2026年も3月時点で既に5.5万人超、うち68%が米国です。米国大手15社のエントリーレベルSE求人は前年比-25%（",
+    "author": "okikusan-public",
+    "publishedAt": "2026-03-26T09:28:48.000Z",
+    "fetchedAt": "2026-03-26T13:15:43.263Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "機械学習",
+      "AI",
+      "転職",
+      "キャリア",
+      "生成AI"
+    ]
+  },
+  {
+    "id": "qiita-9ac09ced3fecf2c2631f",
+    "title": "GitHub Copilot SDK で AI アプリを作って気づいた「途中状態の見せ方」問題",
+    "url": "https://qiita.com/jodycraft/items/9ac09ced3fecf2c2631f",
+    "content": "\n:::note info\n📚 **Copilot Cowork 開発シリーズ**\n1. [なぜ作るのか — 調査と設計判断](https://zenn.dev/jodycraft/articles/copilot-cowork-01-survey)\n2. [Electron + React + SDK で土台を組む](https://zenn.dev/jodycraft/articles/co",
+    "author": "jodycraft",
+    "publishedAt": "2026-03-26T12:46:46.000Z",
+    "fetchedAt": "2026-03-26T13:15:42.496Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "React",
+      "Electron",
+      "Playwright",
+      "GitHubCopilot"
+    ]
+  },
+  {
+    "id": "qiita-90b8f25fc354f0191a1c",
+    "title": "C# で AI ワークスペースを業務向けに拡張する設計メモ",
+    "url": "https://qiita.com/jodycraft/items/90b8f25fc354f0191a1c",
+    "content": "\n:::note info\n📚 **Copilot Cowork 開発シリーズ**\n1. [なぜ作るのか — 調査と設計判断](https://zenn.dev/jodycraft/articles/copilot-cowork-01-survey)\n2. [Electron + React + SDK で土台を組む](https://zenn.dev/jodycraft/articles/co",
+    "author": "jodycraft",
+    "publishedAt": "2026-03-26T12:46:43.000Z",
+    "fetchedAt": "2026-03-26T13:15:42.496Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "C#",
+      "automation",
+      "AI",
+      "dotnet",
+      "GitHubCopilot"
+    ]
+  },
+  {
+    "id": "qiita-ced41c13b873270e0930",
+    "title": "Electron + React + GitHub Copilot SDK で AI ワークスペースの土台を組む",
+    "url": "https://qiita.com/jodycraft/items/ced41c13b873270e0930",
+    "content": "\n:::note info\n📚 **Copilot Cowork 開発シリーズ**\n1. [なぜ作るのか — 調査と設計判断](https://zenn.dev/jodycraft/articles/copilot-cowork-01-survey)\n2. **Electron + React + SDK で土台を組む** ← 今ここ\n3. [C# で業務向けに拡張する設計](https://z",
+    "author": "jodycraft",
+    "publishedAt": "2026-03-26T12:46:41.000Z",
+    "fetchedAt": "2026-03-26T13:15:42.496Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "TypeScript",
+      "AI",
+      "React",
+      "Electron",
+      "GitHubCopilot"
+    ]
+  },
+  {
+    "id": "qiita-538e6f436bd4f9082ac9",
+    "title": "GitHub Copilot SDK を軸に Copilot Cowork を作る理由を整理した話",
+    "url": "https://qiita.com/jodycraft/items/538e6f436bd4f9082ac9",
+    "content": "\n:::note info\n📚 **Copilot Cowork 開発シリーズ**\n1. **なぜ作るのか — 調査と設計判断** ← 今ここ\n2. [Electron + React + SDK で土台を組む](https://zenn.dev/jodycraft/articles/copilot-cowork-02-electron-setup)\n3. [C# で業務向けに拡張する設計](h",
+    "author": "jodycraft",
+    "publishedAt": "2026-03-26T12:46:39.000Z",
+    "fetchedAt": "2026-03-26T13:15:42.496Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "C#",
+      "OpenSource",
+      "AI",
+      "Electron",
+      "GitHubCopilot"
+    ]
+  },
+  {
+    "id": "qiita-0ed3f8a24bac16d22804",
+    "title": "AIを使ってRxJava → Coroutine移行を、1人で数十モジュール爆速で終わらせた話",
+    "url": "https://qiita.com/PJH/items/0ed3f8a24bac16d22804",
+    "content": "# AIを使ってRxJava → Coroutine移行を、1人で数十モジュール爆速で終わらせた話\n\n## 自己紹介と背景\n\n去年の6月にSansanに転職して、AndroidとKotlin MultiplatformをメインにやっているエンジニアのPJH（パク ジョンフン）です。\nそれ以前はチームラボで同じくAndroidとKotlin Multiplatformをメインにしてテックのスペシャリ",
+    "author": "PJH",
+    "publishedAt": "2026-03-26T11:08:42.000Z",
+    "fetchedAt": "2026-03-26T13:15:42.496Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "RxJava",
+      "coroutine",
+      "アーキテクチャ",
+      "AI"
+    ]
+  },
+  {
+    "id": "qiita-14f98a7b2fc9dd7322ef",
+    "title": "Invoice OCR API for Manufacturing Cost Tracking",
+    "url": "https://qiita.com/azapiaibservices/items/14f98a7b2fc9dd7322ef",
+    "content": "### Overview  \nManaging manufacturing costs through invoices can be complex, especially when dealing with multiple suppliers, raw materials, and production expenses. Manual invoice processing is time-",
+    "author": "azapiaibservices",
+    "publishedAt": "2026-03-26T10:49:47.000Z",
+    "fetchedAt": "2026-03-26T13:15:42.496Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "OCR",
+      "invoice",
+      "ApiManagement",
+      "manufacturing"
+    ]
+  },
+  {
+    "id": "qiita-c060b8e382198d20ba8a",
+    "title": "MolmoWeb入門 — スクリーンショットだけでWebを操作するオープンソースAIエージェント",
+    "url": "https://qiita.com/kai_kou/items/c060b8e382198d20ba8a",
+    "content": "\n![MolmoWebの概要 — スクリーンショットだけでブラウザを操作するAIエージェント](https://raw.githubusercontent.com/kai-kou/zenn-blog-automation/main/images/molmoweb-open-visual-web-agent-guide/01-hero-molmoweb-overview.png)\n\n## はじめに\n",
+    "author": "kai_kou",
+    "publishedAt": "2026-03-26T10:48:36.000Z",
+    "fetchedAt": "2026-03-26T13:15:42.496Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "OpenSource",
+      "AI",
+      "AIAgent",
+      "BrowserAutomation"
+    ]
+  },
+  {
+    "id": "qiita-6ab671cfdc31e625a83f",
+    "title": "AI Business Consulting Services to Accelerate Growth | Nate Patel",
+    "url": "https://qiita.com/judygonzalez/items/6ab671cfdc31e625a83f",
+    "content": "![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNEGgsi5svavOqwwaU0MoZF7FKj7nuDJb4cPi0HqKGjeUea17sM4emI81usStKtd-3R-C6LePnEB5XFcTrqxCo_NKZARsjCToJZwfX15pqgGCsOIoIA9ddZm_Y0r2A9hCGGgciw55",
+    "author": "judygonzalez",
+    "publishedAt": "2026-03-26T10:48:08.000Z",
+    "fetchedAt": "2026-03-26T13:15:42.496Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "strategy",
+      "Artificial",
+      "Intelligence"
+    ]
+  },
+  {
+    "id": "qiita-cd8edcd3adb23dc00d51",
+    "title": "Claude for PowerPoint を使用してみた",
+    "url": "https://qiita.com/Pyonaya/items/cd8edcd3adb23dc00d51",
+    "content": "どんどん進化するAI。\nもはや仕事でもプライベートでも、AIを使用しないと成り立たないくらい頼り切ってしまっている。どのAIが一番よいのか、情報は刷新されつづけ、追いつくのに苦労する日々である。\n\nいままでChatGPTをメインで使用していたが、claudeの拡張機能がどんどん進化していて、\n・wordやpowerpointで拡張機能としてclaudeを使用できる\n・codingの際にVS cod",
+    "author": "Pyonaya",
+    "publishedAt": "2026-03-26T10:20:11.000Z",
+    "fetchedAt": "2026-03-26T13:15:42.496Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "PowerPoint",
+      "拡張機能",
+      "AI",
+      "Claude"
+    ]
+  },
+  {
+    "id": "qiita-1251247d798c64d22192",
+    "title": "Claude Code Remote ControlとDispatchの違いと使い分け — スマホからの開発ワークフロー完全ガイド",
+    "url": "https://qiita.com/joinclass/items/1251247d798c64d22192",
+    "content": "\n## スマホからコードを書く時代が来た\n\n「リファクタリング、帰りの電車でやっておいて」\n\nClaude Codeに、スマホからこう指示するだけで、自宅のマシンが勝手にコードを書き換えてくれる。2026年、開発者のワークフローは根本から変わった。\n\nAnthropicが提供する**Remote Control**と**Dispatch**。どちらも「スマホからClaude Codeを操作する」機",
+    "author": "joinclass",
+    "publishedAt": "2026-03-26T10:00:59.000Z",
+    "fetchedAt": "2026-03-26T13:15:42.496Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "CLI",
+      "AI",
+      "リモート開発",
+      "Anthropic",
+      "ClaudeCode"
+    ]
+  },
+  {
+    "id": "zenn-551472",
+    "title": "VPCなしのAurora ( PostgreSQL ) にLambdaから直結してみる",
+    "url": "https://zenn.dev/ncdc/articles/7e9c8dfa47fd5e",
+    "content": "7903文字",
+    "author": "いばらき",
+    "publishedAt": "2026-03-26T13:15:04.340Z",
+    "fetchedAt": "2026-03-26T13:15:37.753Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-551515",
+    "title": "takt で Codex・Cursor・Claude Code を協調させてみた ― 5回 ABORT して気づいた設計の急所",
+    "url": "https://zenn.dev/coji/articles/takt-multi-agent-coding-experience",
+    "content": "4979文字",
+    "author": "Coji Mizoguchi",
+    "publishedAt": "2026-03-26T13:05:36.552Z",
+    "fetchedAt": "2026-03-26T13:15:37.753Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-551499",
+    "title": "c-CRAB 論文を読むと、AIにコードレビューの全体の40%、特定領域は任せてもいいのではと思った",
+    "url": "https://zenn.dev/rai0/articles/f537a4249e00a5",
+    "content": "4918文字",
+    "author": "Rai",
+    "publishedAt": "2026-03-26T13:05:30.945Z",
+    "fetchedAt": "2026-03-26T13:15:37.753Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-551505",
+    "title": "Notionで書いた記事をGitHub Actions経由でZennに自動投稿する仕組みを作ってみた",
+    "url": "https://zenn.dev/toshi0001/articles/20260326notiontozen",
+    "content": "5859文字",
+    "author": "sickboy",
+    "publishedAt": "2026-03-26T13:02:21.857Z",
+    "fetchedAt": "2026-03-26T13:15:37.753Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-551495",
+    "title": "LangChainの全APIコールを1行で自動記録する — llm-devproxy v0.4",
+    "url": "https://zenn.dev/ash4/articles/940e3263b9a810",
+    "content": "5205文字",
+    "author": "ash",
+    "publishedAt": "2026-03-26T13:01:39.541Z",
+    "fetchedAt": "2026-03-26T13:15:37.753Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-550439",
+    "title": "【ハンズオン】ドキュメント駆動型動的ガバナンス実践！",
+    "url": "https://zenn.dev/google_cloud_jp/articles/957402287cc1b2",
+    "content": "15693文字",
+    "author": "Nozo Yoshida",
+    "publishedAt": "2026-03-26T12:59:00.592Z",
+    "fetchedAt": "2026-03-26T13:15:37.753Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-547929",
+    "title": "skill-creatorでZenn記事スキルを作ったら品質が+85%になった話",
+    "url": "https://zenn.dev/jodycraft/articles/skill-creator-zenn-article-craft",
+    "content": "7214文字",
+    "author": "JodyCraft",
+    "publishedAt": "2026-03-26T12:53:25.979Z",
+    "fetchedAt": "2026-03-26T13:15:37.753Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-551507",
+    "title": "Claudeが眠るようになった——/dreamコマンドと自作2層メモリの住み分けを検証した",
+    "url": "https://zenn.dev/metamark/articles/eb7ab6fa9bc759",
+    "content": "2310文字",
+    "author": "K.Hirano",
+    "publishedAt": "2026-03-26T12:52:17.901Z",
+    "fetchedAt": "2026-03-26T13:15:37.753Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-551479",
+    "title": "Kitty Graphics Protocolって何？対応ターミナル5つの実装を比較してみた",
+    "url": "https://zenn.dev/kay1974/articles/8ee1fd8c6ad505",
+    "content": "6847文字",
+    "author": "けい",
+    "publishedAt": "2026-03-26T12:50:09.003Z",
+    "fetchedAt": "2026-03-26T13:15:37.753Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-551504",
+    "title": "自作量子コンピュータの新時代！小型冷凍機と「マイクロ波なし」で挑む半導体量子ビット",
+    "url": "https://zenn.dev/yuichirominato/articles/9f696f1d1fdb94",
+    "content": "1358文字",
+    "author": "YuichiroMinato",
+    "publishedAt": "2026-03-26T12:50:00.924Z",
+    "fetchedAt": "2026-03-26T13:15:37.753Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-ndfb446ce4e77",
+    "title": "Google AI Proとは何？料金・できること・活用方法をわかりやすく解説",
+    "url": "https://note.com/hiro_seki/n/ndfb446ce4e77",
+    "content": "こんにちは！ヒロです！近年、生成AIは仕事や学習、クリエイティブ活動に欠かせないツールになりました。続きをみる",
+    "author": "hiro_seki",
+    "publishedAt": "2026-03-23T23:38:44.000Z",
+    "fetchedAt": "2026-03-26T07:03:59.448Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -390,142 +871,6 @@
       "ChatGPT",
       "LLM",
       "Claude"
-    ]
-  },
-  {
-    "id": "qiita-9ade03c9559d1f9fc846",
-    "title": "【量子AI #20】古典ML vs QML ベンチマーク比較の実装",
-    "url": "https://qiita.com/AIRoboticsQuantumLab/items/9ade03c9559d1f9fc846",
-    "content": "## 8. パフォーマンスベンチマーク\n\n### 8.1 古典MLとQMLの比較実験\n\n```python\nimport time, numpy as np, pandas as pd\nfrom sklearn.svm import SVC\nfrom sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier",
-    "author": "AIRoboticsQuantumLab",
-    "publishedAt": "2026-03-26T05:37:35.000Z",
-    "fetchedAt": "2026-03-26T07:03:53.023Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "機械学習",
-      "AI",
-      "量子コンピュータ"
-    ]
-  },
-  {
-    "id": "qiita-e79708f22b0dabc2a914",
-    "title": "【量子AI #19】非同期QML推論エンジンとAPIエンドポイントの完全実装",
-    "url": "https://qiita.com/AIRoboticsQuantumLab/items/e79708f22b0dabc2a914",
-    "content": "```python\nengine = QMLInferenceEngine()\n\n@app.post(\"/predict/quality\", response_model=QualityPrediction)\nasync def predict_quality(reading: SensorReading):\n    \"\"\"センサーデータから製品品質をQMLで予測\"\"\"\n    try:\n    ",
-    "author": "AIRoboticsQuantumLab",
-    "publishedAt": "2026-03-26T05:36:36.000Z",
-    "fetchedAt": "2026-03-26T07:03:53.023Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "機械学習",
-      "AI",
-      "量子コンピュータ"
-    ]
-  },
-  {
-    "id": "qiita-99ee828c77130be279fd",
-    "title": "【量子AI #18】FastAPIでQMLモデルをREST APIとしてサービングする方法",
-    "url": "https://qiita.com/AIRoboticsQuantumLab/items/99ee828c77130be279fd",
-    "content": "## 7. 本番システムへの統合パターン\n\n### 7.1 QMLサービスのREST API化\n\n```python\nfrom fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel, Field\nimport torch, numpy as np, asyncio, time, logging\nfrom datet",
-    "author": "AIRoboticsQuantumLab",
-    "publishedAt": "2026-03-26T05:36:35.000Z",
-    "fetchedAt": "2026-03-26T07:03:53.023Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "機械学習",
-      "AI",
-      "量子コンピュータ"
-    ]
-  },
-  {
-    "id": "qiita-b0c5e4ac7e201bc06077",
-    "title": "【量子AI #17】量子転移学習モデルのパラメータ確認とデモ実行",
-    "url": "https://qiita.com/AIRoboticsQuantumLab/items/b0c5e4ac7e201bc06077",
-    "content": "```python\n    def get_param_count(self):\n        total = sum(p.numel() for p in self.parameters())\n        trainable = sum(p.numel() for p in self.parameters() if p.requires_grad)\n        return {\n   ",
-    "author": "AIRoboticsQuantumLab",
-    "publishedAt": "2026-03-26T05:36:33.000Z",
-    "fetchedAt": "2026-03-26T07:03:53.023Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "機械学習",
-      "AI",
-      "量子コンピュータ"
-    ]
-  },
-  {
-    "id": "qiita-80229efac808b0c8f61e",
-    "title": "【量子AI #16】量子転移学習：ResNet18と量子回路を融合させるアーキテクチャ",
-    "url": "https://qiita.com/AIRoboticsQuantumLab/items/80229efac808b0c8f61e",
-    "content": "## 6. 量子転移学習（Quantum Transfer Learning）\n\n### 6.1 古典モデルと量子層の融合\n\n事前学習済みResNet18の特徴抽出層を活かしつつ、分類ヘッドを量子回路に置き換えます。\n\n```python\nimport torch, torch.nn as nn, pennylane as qml, numpy as np\nfrom torchvision imp",
-    "author": "AIRoboticsQuantumLab",
-    "publishedAt": "2026-03-26T05:36:31.000Z",
-    "fetchedAt": "2026-03-26T07:03:53.023Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "機械学習",
-      "AI",
-      "量子コンピュータ"
-    ]
-  },
-  {
-    "id": "qiita-b59d4ade368cc9ec233c",
-    "title": "【量子AI #15】Max-Cutタスク割り当て結果の可視化コード",
-    "url": "https://qiita.com/AIRoboticsQuantumLab/items/b59d4ade368cc9ec233c",
-    "content": "```python\nimport matplotlib.pyplot as plt\nfrom matplotlib.patches import Patch\n\ndef visualize_schedule(scheduler, assignment):\n    G = scheduler.task_graph\n    pos = nx.spring_layout(G, seed=42)\n    f",
-    "author": "AIRoboticsQuantumLab",
-    "publishedAt": "2026-03-26T05:35:37.000Z",
-    "fetchedAt": "2026-03-26T07:03:53.023Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "機械学習",
-      "AI",
-      "量子コンピュータ"
-    ]
-  },
-  {
-    "id": "qiita-1e90f52201194e3c17fd",
-    "title": "【量子AI #14】QAOAサンプリングと最良タスク割り当ての選択ロジック",
-    "url": "https://qiita.com/AIRoboticsQuantumLab/items/1e90f52201194e3c17fd",
-    "content": "```python\n    def _sample_best_assignment(self, circuit, gamma, beta, n_samples=1000):\n        @qml.qnode(self.device)\n        def sampling_circuit(gamma, beta):\n            for i in range(self.n_qubi",
-    "author": "AIRoboticsQuantumLab",
-    "publishedAt": "2026-03-26T05:35:35.000Z",
-    "fetchedAt": "2026-03-26T07:03:53.023Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "機械学習",
-      "AI",
-      "量子コンピュータ"
-    ]
-  },
-  {
-    "id": "qiita-2d01e0735269d9e180d6",
-    "title": "【量子AI #13】QAOAコスト層・ミキサー層と最適化の実装",
-    "url": "https://qiita.com/AIRoboticsQuantumLab/items/2d01e0735269d9e180d6",
-    "content": "```python\n    def build_qaoa_circuit(self, p=3):\n        @qml.qnode(self.device)\n        def qaoa_circuit(gamma_params, beta_params):\n            for i in range(self.n_qubits):\n                qml.Had",
-    "author": "AIRoboticsQuantumLab",
-    "publishedAt": "2026-03-26T05:35:34.000Z",
-    "fetchedAt": "2026-03-26T07:03:53.023Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "機械学習",
-      "AI",
-      "量子コンピュータ"
     ]
   },
   {
