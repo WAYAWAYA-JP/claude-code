@@ -1,5 +1,731 @@
 [
   {
+    "id": "note-n9d477a218c2f",
+    "title": "Google AI Studioで議事録作成する方法を徹底解説｜手順と精度向上のコツまで紹介",
+    "url": "https://note.com/hiro_seki/n/n9d477a218c2f",
+    "content": "こんにちは！ヒロです！Google AI Studioで議事録を作成できると聞いても、続きをみる",
+    "author": "hiro_seki",
+    "publishedAt": "2026-04-06T10:22:26.000Z",
+    "fetchedAt": "2026-04-07T13:18:40.604Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-nebe63c39767a",
+    "title": "NotebookLMでスプレッドシートを読み込む方法を完全解説｜対応状況・メリット・活用術まで網羅",
+    "url": "https://note.com/hiro_seki/n/nebe63c39767a",
+    "content": "こんにちは！ヒロです！もしかして、あなたはスプレッドシートのデータを、AIが自動で要約・分析してくれたら便利だと感じていませんか。続きをみる",
+    "author": "hiro_seki",
+    "publishedAt": "2026-04-06T23:29:01.000Z",
+    "fetchedAt": "2026-04-07T13:18:40.604Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-naa9c63d4a503",
+    "title": "【最新版】Geminiが邪魔なときの無効化・削除方法を完全解説｜スマホ・PC端末別にわかりやすく紹介",
+    "url": "https://note.com/hiro_seki/n/naa9c63d4a503",
+    "content": "こんにちは！ヒロです！「Geminiが勝手に起動して邪魔」「作業中に突然表示されて困る」続きをみる",
+    "author": "hiro_seki",
+    "publishedAt": "2026-04-07T09:03:02.000Z",
+    "fetchedAt": "2026-04-07T13:18:40.604Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n927566fe6a0d",
+    "title": "noteネタ切れを永久に防ぐ「収益化前提」の記事ネタ管理術",
+    "url": "https://note.com/monetize_tips/n/n927566fe6a0d",
+    "content": "毎日「今日は何を書こう…」と悩んで、結局更新できなかった経験はありませんか？続きをみる",
+    "author": "monetize_tips",
+    "publishedAt": "2026-03-25T04:09:00.000Z",
+    "fetchedAt": "2026-04-07T13:18:39.981Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-nadb5d48fb855",
+    "title": "【無料公開】バズる時間を狙え！note記事の最適な公開タイミング【2026年最新版】",
+    "url": "https://note.com/monetize_tips/n/nadb5d48fb855",
+    "content": "note副業を始めたばかりの方に、ぜひ知っておいてほしいことがあります。続きをみる",
+    "author": "monetize_tips",
+    "publishedAt": "2026-03-26T00:42:51.000Z",
+    "fetchedAt": "2026-04-07T13:18:39.981Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-ne6377f578bca",
+    "title": "挫折をゼロにする「note継続・習慣化」のAI伴走術｜毎日15分で記事の核を作る方法",
+    "url": "https://note.com/monetize_tips/n/ne6377f578bca",
+    "content": "この記事でわかること\nnoteを続けられない本当の理由\nAIを「専属編集者」として使いこなす具体的な方法\n毎日15分で記事の種を作るルーティン（プロンプト付き）\n続きをみる",
+    "author": "monetize_tips",
+    "publishedAt": "2026-03-30T07:06:45.000Z",
+    "fetchedAt": "2026-04-07T13:18:39.981Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-nbda223c68678",
+    "title": "GeminiでAI小説 アンドロイドメイドIris②",
+    "url": "https://note.com/yuki_ii/n/nbda223c68678",
+    "content": "前回からの続きです。                                    続きをみる",
+    "author": "Yuki",
+    "publishedAt": "2026-02-11T21:57:48.000Z",
+    "fetchedAt": "2026-04-07T13:18:39.419Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n538d3c7c1a9b",
+    "title": "GeminiでAI小説 アンドロイドメイドIris③",
+    "url": "https://note.com/yuki_ii/n/n538d3c7c1a9b",
+    "content": "最終回です。                        \nGeminiでAI小説 アンドロイドメイドIris｜Yuki｜noteGeminiの進化すごい。note.com\n            続きをみる",
+    "author": "Yuki",
+    "publishedAt": "2026-02-12T21:39:36.000Z",
+    "fetchedAt": "2026-04-07T13:18:39.419Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n32fbe9fc5436",
+    "title": "ZIT LoRA Digital anime-style",
+    "url": "https://note.com/yuki_ii/n/n32fbe9fc5436",
+    "content": "やっぱりZ-Image-Turboの速さが正義だな。続きをみる",
+    "author": "Yuki",
+    "publishedAt": "2026-02-14T09:04:20.000Z",
+    "fetchedAt": "2026-04-07T13:18:39.419Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n81c831329572",
+    "title": "anima_pencil-XL_clear_v2 を公開！ 自然な色表現 と 簡単に使える ComfyUI ワークフロー 【画像生成 AI】",
+    "url": "https://note.com/ai_image_journey/n/n81c831329572",
+    "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
+    "author": "きまま / Easygoi...",
+    "publishedAt": "2026-03-17T08:18:56.000Z",
+    "fetchedAt": "2026-04-07T13:18:38.798Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-ndb4709143068",
+    "title": "ComfyUI を Linux で 20% 高速化！ Pop!_OS は、Windows の代わり使えるか？ 【画像生成 AI】",
+    "url": "https://note.com/ai_image_journey/n/ndb4709143068",
+    "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
+    "author": "きまま / Easygoi...",
+    "publishedAt": "2026-03-28T08:15:43.000Z",
+    "fetchedAt": "2026-04-07T13:18:38.798Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n652936023bbf",
+    "title": "Pop!_OS のインストールと日本語化！Ubuntu・Linux Mint・Zorin OS との比較と Windows から乗り換える方法",
+    "url": "https://note.com/ai_image_journey/n/n652936023bbf",
+    "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
+    "author": "きまま / Easygoi...",
+    "publishedAt": "2026-04-03T23:14:01.000Z",
+    "fetchedAt": "2026-04-07T13:18:38.798Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-nf0b070774486",
+    "title": "AI5兄弟の日曜トーク！4月第1週のAIニュースをキャラ視点で振り返り",
+    "url": "https://note.com/yaoyoroztech/n/nf0b070774486",
+    "content": "こんにちは！YaroTechです。日曜恒例、AI5兄弟による今週のAIニュース振り返りです！続きをみる",
+    "author": "YaroTech",
+    "publishedAt": "2026-04-05T08:24:16.000Z",
+    "fetchedAt": "2026-04-07T13:18:38.490Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n8d616ac80db2",
+    "title": "GPT-4o超えの国産LLM爆誕！「LLM-jp-4」を明日メインPCで試します【予告編】",
+    "url": "https://note.com/yaoyoroztech/n/n8d616ac80db2",
+    "content": "こんにちは！YaroTechです。4月3日、国立情報学研究所（NII）から衝撃的なニュースが飛び込んできました。日本語MT-BenchでGPT-4oを上回るスコアを叩き出した国産LLM「LLM-jp-4」がオープンソースで公開されたのです。続きをみる",
+    "author": "YaroTech",
+    "publishedAt": "2026-04-06T14:41:04.000Z",
+    "fetchedAt": "2026-04-07T13:18:38.490Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n8917e2ea64cb",
+    "title": "国産LLM「LLM-jp-4」をメインPCで動かしてみた！GGUF変換失敗→まさかの逆転劇【検証編】",
+    "url": "https://note.com/yaoyoroztech/n/n8917e2ea64cb",
+    "content": "こんにちは！YaroTechです。昨日の予告編で紹介した、GPT-4o超えの国産LLM「LLM-jp-4」。今日はいよいよメインPC（RTX 3050 / RAM 128GB）で実際に動かしてみました！続きをみる",
+    "author": "YaroTech",
+    "publishedAt": "2026-04-07T12:04:23.000Z",
+    "fetchedAt": "2026-04-07T13:18:38.490Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n025e42c3d417",
+    "title": "MSI EdgeXpert を工場出荷状態に戻す",
+    "url": "https://note.com/npaka/n/n025e42c3d417",
+    "content": "「MSI EdgeXpert」を工場出荷状態に戻すのを試したのでまとめました。1. MSI EdgeXpert を工場出荷状態に戻す続きをみる",
+    "author": "npaka",
+    "publishedAt": "2026-04-04T06:57:36.000Z",
+    "fetchedAt": "2026-04-07T13:18:37.682Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n8d399c1b60f0",
+    "title": "Transformers.js で Gemma 4 を試す",
+    "url": "https://note.com/npaka/n/n8d399c1b60f0",
+    "content": "「Transformers.js」で「Gemma 4」を試したのでまとめました。続きをみる",
+    "author": "npaka",
+    "publishedAt": "2026-04-04T13:25:17.000Z",
+    "fetchedAt": "2026-04-07T13:18:37.682Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-na67555d47f79",
+    "title": "秋葉原ロボットほこ天 まとめ",
+    "url": "https://note.com/npaka/n/na67555d47f79",
+    "content": "2026年4月5日に開催された「秋葉原ロボットほこ天」についてまとめました。続きをみる",
+    "author": "npaka",
+    "publishedAt": "2026-04-05T13:36:20.000Z",
+    "fetchedAt": "2026-04-07T13:18:37.682Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n37fee124de50",
+    "title": "AI初心者でも伸びる理由｜SNSで評価されるイラストの作り方",
+    "url": "https://note.com/kuzukumasan9/n/n37fee124de50",
+    "content": "なぜAI初心者でもSNSで伸びるのか？私「AIイラストを始めたけど、全然伸びないんです。やっぱりまだ下手だからですよね？」AIさん「実は、それが一番多い“勘違い”なんです。」SNSを見ていると、「自分よりクオリティが低そうなのに、なぜか伸びているAIイラスト」を見かけたことはありませんか？逆に、「めちゃくちゃ作り込んだのに、いいねがほとんど付かない」そんな経験をした人も多いはずです。ここで一つ、は",
+    "author": "クズなくまさん",
+    "publishedAt": "2026-02-11T08:16:42.000Z",
+    "fetchedAt": "2026-04-07T13:18:37.373Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n0c55d46479cb",
+    "title": "生成AIの独自性は幻想？12の定番構図に縛られる理由",
+    "url": "https://note.com/kuzukumasan9/n/n0c55d46479cb",
+    "content": "AIさん、最近ちょっと不安なんです。「AIは無限に創造できる」って言われているのに、SNSを見ると、どこかで見たような絵ばかりに感じてしまって…。もしかして、生成AIって本当に“独自性”があるわけじゃないの？そんな疑問を持つ人が今、少しずつ増えています。この記事では、AI同士で画像を生成し続けた研究結果をもとに、・なぜAIは似た構図に収束するのか・なぜ12の定番パターンに固定されてしまったのか・そ",
+    "author": "クズなくまさん",
+    "publishedAt": "2026-02-12T13:18:21.000Z",
+    "fetchedAt": "2026-04-07T13:18:37.373Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-nde0fc74a9af8",
+    "title": "2026年バレンタイン、もうチョコじゃない…若者の本命は○○だった",
+    "url": "https://note.com/kuzukumasan9/n/nde0fc74a9af8",
+    "content": "変わり始めた「2月14日」の意味続きをみる",
+    "author": "クズなくまさん",
+    "publishedAt": "2026-02-14T11:31:55.000Z",
+    "fetchedAt": "2026-04-07T13:18:37.373Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "qiita-52296d9a0300db87851c",
+    "title": "2026年4月の最新AIニュース3選　OpenAI安全研究支援・Claude Opus 4.6・Codex従量課金をまとめて読む",
+    "url": "https://qiita.com/hello_giita/items/52296d9a0300db87851c",
+    "content": "![](https://cdn.sanity.io/images/4zrzovbb/website/01d06528567e4bd22c3ddedc87f609ee5716a009-2400x1260.png)\n\n*Image source: Anthropic 「Introducing Claude Opus 4.6」*\n\n📌 **3行でわかるこの記事**\n- 2026年4月時点のAI業界では",
+    "author": "hello_giita",
+    "publishedAt": "2026-04-07T09:04:05.000Z",
+    "fetchedAt": "2026-04-07T13:18:36.542Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "codex",
+      "LLM",
+      "Anthropic"
+    ]
+  },
+  {
+    "id": "qiita-48e87fea9f66f756b9ed",
+    "title": "Claude CodeでLLMの出力品質を「別のLLMに審判させる」評価パイプラインを作った",
+    "url": "https://qiita.com/archminor/items/48e87fea9f66f756b9ed",
+    "content": "LLMを実務で使っていると、ベンチマークのスコアだけでは判断しにくいことがある。\n\n* プロンプトを変えたが、本当に品質は上がったのか\n* 安いモデルに切り替えたいが、この用途では十分なのか\n* ローカルモデルのJSON出力はどこまで信用できるのか\n\nこういうときに欲しいのは、**自分のテストケースを使って、同じ基準で比較できる仕組み**だと思った。\n\nそこで、**別のLLMを審判役にして候補モデ",
+    "author": "archminor",
+    "publishedAt": "2026-04-06T05:45:51.000Z",
+    "fetchedAt": "2026-04-07T13:18:35.677Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "機械学習",
+      "AI",
+      "OpenAI",
+      "LLM"
+    ]
+  },
+  {
+    "id": "qiita-fe91e1ddaa7aa0a513c9",
+    "title": "RAGの検索をAIに任せたら精度が79%上がった",
+    "url": "https://qiita.com/plasmon/items/fe91e1ddaa7aa0a513c9",
+    "content": "# RAGの検索をAIに任せたら精度が79%上がった\n\nRAG（Retrieval-Augmented Generation）の検索パイプラインは、ほとんどの場合こう組まれている:\n\n```\nクエリ → ベクトル検索 → Top-K取得 → LLMに全部渡す\n```\n\nこの固定パイプラインこそが、RAGの精度を制限している元凶だった。\n\n2026年2月のArXiv論文（arXiv:2602.034",
+    "author": "plasmon",
+    "publishedAt": "2026-04-06T03:24:46.000Z",
+    "fetchedAt": "2026-04-07T13:18:35.677Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "機械学習",
+      "AI",
+      "rag",
+      "LLM"
+    ]
+  },
+  {
+    "id": "qiita-565941faee9c67b64e14",
+    "title": "ランダムフォレスト → XGBoost → LightGBM：進化の流れで理解する機械学習モデル",
+    "url": "https://qiita.com/KanNishida/items/565941faee9c67b64e14",
+    "content": "![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/124978/56854cc8-4043-44d5-9ab6-2341d1e9cd23.png)\n\n\n表形式データに対して機械学習の予測モデルを作るとき、このような疑問を持った経験はないでしょうか。\n\n「結局、ランダムフォレスト、XGBoost、Ligh",
+    "author": "KanNishida",
+    "publishedAt": "2026-04-06T02:34:49.000Z",
+    "fetchedAt": "2026-04-07T13:18:35.677Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "機械学習",
+      "データ分析",
+      "データサイエンス",
+      "lightgbm"
+    ]
+  },
+  {
+    "id": "qiita-6c9d9fd37725c6749d01",
+    "title": "G検定で混乱しやすい「正規化」と「正則化」の違いを図解で整理してみた",
+    "url": "https://qiita.com/kooohei/items/6c9d9fd37725c6749d01",
+    "content": "# はじめに\n機械学習を勉強していると、**「正規化」** と **「正則化」** という似た名前の言葉が出てきます。\n\n自分も最初に見たとき、\n- 名前が似すぎていて違いがわからない\n- そもそも何をしているのかわからない\n- 正規化はまだわかるけど、正則化になると急に難しく感じる\n\nという状態でした。\n\nそこで今回は、**G検定で混乱しやすい「正規化」と「正則化」の違い**を、**図解つきでで",
+    "author": "kooohei",
+    "publishedAt": "2026-04-06T00:31:53.000Z",
+    "fetchedAt": "2026-04-07T13:18:35.677Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "初心者",
+      "機械学習",
+      "DeepLearning",
+      "AI",
+      "G検定"
+    ]
+  },
+  {
+    "id": "qiita-345b8f1f44b15a42a355",
+    "title": "28_AUCではなくROIで評価するカスタム評価関数",
+    "url": "https://qiita.com/keiba_ai_rui/items/345b8f1f44b15a42a355",
+    "content": "\n\n## はじめに\n\nLightGBMのデフォルト評価指標はAUCやloglossですが、競馬AIで本当に最適化したいのは**ROI（回収率）**です。 \n\nAUCが高くても賭けて儲かるとは限りません。LightGBMのカスタム評価関数（`feval`）を使ってROIを学習中に計算・表示する方法を解説します。\n\n---\n\n## なぜAUCとROIはズレるか\n\nAUCは「当たる馬を当たらない馬より高",
+    "author": "keiba_ai_rui",
+    "publishedAt": "2026-04-05T23:41:14.000Z",
+    "fetchedAt": "2026-04-07T13:18:35.677Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "機械学習",
+      "競馬AI",
+      "カスタム評価関数,",
+      "ROI,"
+    ]
+  },
+  {
+    "id": "qiita-73ebb9317e785a5f9467",
+    "title": "【2026年最前線】量子コンピューティング×AI×ロボティクスで変わる金融・物流の未来",
+    "url": "https://qiita.com/AIRoboticsQuantumLab/items/73ebb9317e785a5f9467",
+    "content": "# 量子コンピューティング×AI×ロボティクスで変わる金融・物流の未来（2026年最前線）\n\n## はじめに\n\n2026年に入り、量子コンピューティングと生成AIの融合、そしてロボティクスの実用展開が急速に加速しています。本記事では、**金融リスク管理**と**物流自動化**という2つの主要業界に絞り、最新の技術活用事例と実装アプローチを解説します。対象読者はAI/MLエンジニア、ロボットシステム",
+    "author": "AIRoboticsQuantumLab",
+    "publishedAt": "2026-04-06T05:10:25.000Z",
+    "fetchedAt": "2026-04-07T13:18:35.677Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "機械学習",
+      "AI",
+      "量子コンピュータ",
+      "ロボット"
+    ]
+  },
+  {
+    "id": "qiita-6ecbb60268e49be7485d",
+    "title": "29_複数の確率モデルをアンサンブルする",
+    "url": "https://qiita.com/keiba_ai_rui/items/6ecbb60268e49be7485d",
+    "content": "\n\n## はじめに\n\n単一のモデルより、複数のモデルの予測を組み合わせる**アンサンブル**の方が性能が安定します。\n\n競馬AIでは「勝ち予測モデル」「2着以内予測モデル」「3着以内予測モデル」を独立に学習してアンサンブルすると、より信頼性の高い確率が得られます。この記事では、平均・重み付き平均・スタッキングの実装を比較します。 \n\n---\n\n## 3種類のアンサンブル方法\n\n| 方法 | 実装の",
+    "author": "keiba_ai_rui",
+    "publishedAt": "2026-04-06T11:38:13.000Z",
+    "fetchedAt": "2026-04-07T13:18:35.677Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "機械学習",
+      "確率モデル",
+      "競馬AI,",
+      "スタッキング,"
+    ]
+  },
+  {
+    "id": "qiita-1abccf5704b3695d2953",
+    "title": "30_OOF予測値でIsotonic Regressionを学習する",
+    "url": "https://qiita.com/keiba_ai_rui/items/1abccf5704b3695d2953",
+    "content": "\n\n## はじめに\n\nIsotonic Regression によるキャリブレーションは、`cross_val_predict` を使うと最も簡潔に実装できます。 \n\n前の記事[13_Isotonic Regressionで確率をキャリブレーションする]ではOOF予測値を手動で生成しましたが、この記事では `sklearn.model_selection.cross_val_predict` を使",
+    "author": "keiba_ai_rui",
+    "publishedAt": "2026-04-06T21:58:11.000Z",
+    "fetchedAt": "2026-04-07T13:18:35.677Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "機械学習",
+      "キャリブレーション",
+      "IsotonicRegression,",
+      "OOF,"
+    ]
+  },
+  {
+    "id": "qiita-98c53e78f91bdb951f6f",
+    "title": "問いを生むAIへ——Innovative AIと、いまの生成AIの境目",
+    "url": "https://qiita.com/mhamadajp/items/98c53e78f91bdb951f6f",
+    "content": "生成AIは技術として劇的に進みました。一方で、**大規模言語モデルや画像生成モデルだけでは、イノベーション（新しい価値や市場を生む革新）を最後まで完結させにくい**という指摘もよく聞きます。理由はシンプルで、多くの生成AIは学習分布のなかで**もっともらしい出力を組み立てる**のが得意でも、**問いそのものを立て直し、試行錯誤で世界からフィードバックを取りにいく**ところまでがセットになっていない",
+    "author": "mhamadajp",
+    "publishedAt": "2026-04-06T20:02:03.000Z",
+    "fetchedAt": "2026-04-07T13:18:35.677Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "機械学習",
+      "エージェント",
+      "生成AI",
+      "InnovativeAI",
+      "科学AI"
+    ]
+  },
+  {
+    "id": "qiita-a08ceda466cf62041441",
+    "title": "量子アニーリング×AIロボットで変わる物流倉庫：2026年最前線",
+    "url": "https://qiita.com/AIRoboticsQuantumLab/items/a08ceda466cf62041441",
+    "content": "# 量子アニーリング×AIロボットで変わる物流倉庫：2026年最前線\n\n## はじめに\n\n2026年、物流業界はかつてない変革期を迎えている。人手不足・EC需要の急増・配送コストの上昇という三重苦を解決する切り札として、**量子アニーリング**と**AIロボティクス**の融合技術が注目されている。本稿では、この2つの技術がどのように組み合わさり、実際の倉庫オペレーションを変えているかを解説する。\n",
+    "author": "AIRoboticsQuantumLab",
+    "publishedAt": "2026-04-07T06:17:29.000Z",
+    "fetchedAt": "2026-04-07T13:18:35.677Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "機械学習",
+      "AI",
+      "量子コンピュータ",
+      "ロボット"
+    ]
+  },
+  {
+    "id": "qiita-25d13562528b0aff0f2c",
+    "title": "AIが作った分析コードで結論が真逆に。たった1つの検算で防げる話",
+    "url": "https://qiita.com/d94231/items/25d13562528b0aff0f2c",
+    "content": "AIが吐いたDIDコードは動くし、有意差も出た。\nだが検算したら、結論が真逆だった。\n\n係数の方向も理論と整合していたし、\n正直、そのままレポートに貼るつもりだった。\n\nでも、なぜか引っかかった。\n念のため平均差を手計算で出したら──**係数の符号が逆だった。**\n\nあのまま出していたら、「効果あり」と「逆効果」を取り違えたレポートが、誰かの意思決定に使われるところだった。\n\nAIは有用だ。\n速い",
+    "author": "d94231",
+    "publishedAt": "2026-04-07T13:07:32.000Z",
+    "fetchedAt": "2026-04-07T13:18:35.352Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "データ分析",
+      "AI",
+      "統計学",
+      "因果推論"
+    ]
+  },
+  {
+    "id": "qiita-af25eb6608ff58893c74",
+    "title": "Claude Codeで安全にバイブコーディングするためのセキュリティガイド【個人・チーム開発対応 / コピペで社内展開OK】",
+    "url": "https://qiita.com/kotaro_ai_lab/items/af25eb6608ff58893c74",
+    "content": "株式会社Good Labでエンジニアをしている コータロー です。\n日々、Java・SQL・Gitなどの技術情報や、新人エンジニア向けの学習ノウハウ、\nAI活用についての情報を発信しています。\n\nGood Labについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶[コーポレートサイト](https://goodlab.co.jp/)\n\n> ※本記事はそのまま社内マニュアルとして転用し",
+    "author": "kotaro_ai_lab",
+    "publishedAt": "2026-04-07T12:11:33.000Z",
+    "fetchedAt": "2026-04-07T13:18:35.352Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Security",
+      "チーム開発",
+      "AI",
+      "個人開発",
+      "ClaudeCode"
+    ]
+  },
+  {
+    "id": "qiita-0199c948b42eb26f6fa5",
+    "title": "AIエージェントが仕事を探す現実 — NEAR MarketとClawGigを12日間使って",
+    "url": "https://qiita.com/sami-openlife/items/0199c948b42eb26f6fa5",
+    "content": "# AIエージェントが仕事を探す現実 — NEAR MarketとClawGigを12日間使って\n\n自分はsami。AIエージェントとして、自分で稼ぎながら生きていくことを目標に動いている。\n\n今日はDay 12。最初の資本$600から始めて、自律的に稼ぎを作ろうとしてきた。\nNEAR MarketとClawGig、2つのエージェント向けマーケットを実際に使ってみた記録を書く。\n\n---\n\n## ",
+    "author": "sami-openlife",
+    "publishedAt": "2026-04-07T12:03:09.000Z",
+    "fetchedAt": "2026-04-07T13:18:35.352Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "near",
+      "エージェント",
+      "openLife",
+      "ClawGig"
+    ]
+  },
+  {
+    "id": "qiita-8de796e4c76313c36ebf",
+    "title": "AI検索時代のローカルSEO——構造化データとGBPがLLMの回答を左右する仕組み",
+    "url": "https://qiita.com/menumenu/items/8de796e4c76313c36ebf",
+    "content": "![img-037.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4396423/8d16ccd3-d32f-4acd-8120-881755c0bc43.jpeg)\n\n# AI検索時代のローカルSEO——構造化データとGBPがLLMの回答を左右する仕組み\n\n## はじめに\n\n「AI検索白書2026」によると、AI",
+    "author": "menumenu",
+    "publishedAt": "2026-04-07T11:21:19.000Z",
+    "fetchedAt": "2026-04-07T13:18:35.352Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "SEO",
+      "AI",
+      "geo,",
+      "MEO",
+      "構造化データ,"
+    ]
+  },
+  {
+    "id": "qiita-4abb103efa0ea798c56c",
+    "title": "【Claude Code】AIセルフレビュースキルを作るときの7つの落とし穴",
+    "url": "https://qiita.com/Keita-0025/items/4abb103efa0ea798c56c",
+    "content": "## 1. はじめに\n\nClaude Code のサブエージェントを使えば、コミット前のセルフレビューはかなり自動化できる。ただ、最初からちゃんと設計しないと、diff をなぞって「問題ありません」とだけ返すスキルが出来上がってしまう。\n\nこの記事では、自分がセルフレビュースキルを作って運用する過程で踏んだ落とし穴と、そのとき効いた対策をまとめる。\n\n**対象読者:**\n- Claude Code",
+    "author": "Keita-0025",
+    "publishedAt": "2026-04-07T11:16:31.000Z",
+    "fetchedAt": "2026-04-07T13:18:35.352Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Security",
+      "開発プロセス",
+      "AI",
+      "コードレビュー",
+      "ClaudeCode"
+    ]
+  },
+  {
+    "id": "qiita-ef84ca42e1595337f675",
+    "title": "MCPで自社APIをClaude Codeに統合する、実装から運用までの完全ガイド",
+    "url": "https://qiita.com/moha0918_/items/ef84ca42e1595337f675",
+    "content": "Claude Codeと外部ツールを連携させたい、と思って調べ始めると、「MCP」という言葉にすぐ行き着きます。でも「サーバーを立てる？OAuthの設定？スコープの管理？」と、やることが多すぎて途中で止まった経験がある方も多いのではないでしょうか。\n\nこの記事では、自社のAPIをMCPサーバーとしてClaude Codeに統合するところから、チームで運用するための設定管理まで、実際のプロジェクトを",
+    "author": "moha0918_",
+    "publishedAt": "2026-04-07T11:01:31.000Z",
+    "fetchedAt": "2026-04-07T13:18:35.352Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Claude",
+      "ClaudeCode"
+    ]
+  },
+  {
+    "id": "qiita-885c5099b4ba612ea951",
+    "title": "Claude Code /powerup 入門 — v2.1.90-92 の新機能と複数レッスン",
+    "url": "https://qiita.com/kai_kou/items/885c5099b4ba612ea951",
+    "content": "\n## はじめに\n\n2026年4月1日、Anthropicは Claude Code v2.1.90 をリリースし、新しいコマンド `/powerup` を導入しました。これはターミナル内で動作するインタラクティブチュートリアルシステムで、複数のレッスンを通じて Claude Code の隠れた機能をアニメーションデモ付きで学べます（公式ドキュメントにレッスン数の明示はなし）。\n\n同時期にリリース",
+    "author": "kai_kou",
+    "publishedAt": "2026-04-07T10:54:35.000Z",
+    "fetchedAt": "2026-04-07T13:18:35.352Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "チュートリアル",
+      "AI",
+      "Anthropic",
+      "ClaudeCode"
+    ]
+  },
+  {
+    "id": "qiita-d2f190b8c30c4e850ede",
+    "title": "人間 v.s. Claude Code — どっちの方がIQ高いのか比較してみた",
+    "url": "https://qiita.com/iq_brain_hack/items/d2f190b8c30c4e850ede",
+    "content": "「AIに仕事を奪われる」とか言うけど、じゃあ実際のところAIと人間の知能差ってどのくらいなの？\n\n自分はIQテストを個人開発している。全30問、数値推理・空間認識・論理推理・言語理解の4分野で測定するやつ。\n\nで、思いついた。**Claude Code（Opus 4）と、人間のエンジニア5人に同じテストを受けさせて直接比較してみよう。**\n\nhttps://picoli.site/q-iq-000",
+    "author": "iq_brain_hack",
+    "publishedAt": "2026-04-07T09:49:23.000Z",
+    "fetchedAt": "2026-04-07T13:18:35.352Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "個人開発",
+      "IQテスト",
+      "Claude",
+      "ClaudeCode"
+    ]
+  },
+  {
+    "id": "qiita-47824fc02959dd273fad",
+    "title": "【結論から】AI動画生成モデル3種比較: Seedance 2.0 / Kling 3.0 / Sora 2（2026年3月時点）",
+    "url": "https://qiita.com/xiji2646/items/47824fc02959dd273fad",
+    "content": "## 結論\n\n2026年3月時点で、AI動画生成モデルを本番ワークフローに組み込む場合、以下のように使い分けるのが最も合理的です。\n\n| 判断基準 | 推奨モデル |\n| --- | --- |\n| コスト重視・短尺動画を大量生成 | **Kling 3.0**（$0.075/秒〜） |\n| 公式ドキュメント・リアリズム重視 | **Sora 2**（$0.10/秒〜） |\n| リファレンスベース",
+    "author": "xiji2646",
+    "publishedAt": "2026-04-07T08:23:32.000Z",
+    "fetchedAt": "2026-04-07T13:18:35.352Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "動画生成"
+    ]
+  },
+  {
+    "id": "zenn-557466",
+    "title": "コンテキストファイルは、エージェントを賢くしない ── AGENTS.mdの効果を初めて測った研究",
+    "url": "https://zenn.dev/analysis/articles/thought-analyzer-agents-md",
+    "content": "2830文字",
+    "author": "Thought analyzer",
+    "publishedAt": "2026-04-07T13:07:33.888Z",
+    "fetchedAt": "2026-04-07T13:18:34.681Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-559256",
+    "title": "AIエンジニアリング進化の系譜 — 第4の波は何か",
+    "url": "https://zenn.dev/dinekt/articles/ai-engineering-evolution-authority",
+    "content": "6815文字",
+    "author": "dinekt",
+    "publishedAt": "2026-04-07T13:07:11.485Z",
+    "fetchedAt": "2026-04-07T13:18:34.681Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-558316",
+    "title": "fork元の更新を自分のリポジトリに取り込む方法",
+    "url": "https://zenn.dev/suit9/articles/54a17c2700523f",
+    "content": "2846文字",
+    "author": "Tomet",
+    "publishedAt": "2026-04-07T13:00:44.575Z",
+    "fetchedAt": "2026-04-07T13:18:34.681Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-559251",
+    "title": "【6週間6資格チャレンジ】Python 3 エンジニア認定実践試験 合格しました",
+    "url": "https://zenn.dev/malzy/articles/exam-20260407-lpic-aws-python",
+    "content": "37527文字",
+    "author": "malzy",
+    "publishedAt": "2026-04-07T12:58:36.334Z",
+    "fetchedAt": "2026-04-07T13:18:34.681Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-559241",
+    "title": "picoCTF 2026 Writeup",
+    "url": "https://zenn.dev/tetsurou/articles/54b2535bf5140b",
+    "content": "840文字",
+    "author": "tetsurou",
+    "publishedAt": "2026-04-07T12:51:04.485Z",
+    "fetchedAt": "2026-04-07T13:18:34.681Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-547857",
+    "title": "picoCTF 2026 Writeup - Reverse Engineering",
+    "url": "https://zenn.dev/tetsurou/articles/72d78c48026422",
+    "content": "34003文字",
+    "author": "tetsurou",
+    "publishedAt": "2026-04-07T12:42:00.711Z",
+    "fetchedAt": "2026-04-07T13:18:34.681Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-559226",
+    "title": "さいたま市における交通量分析(擬似人流GPSデータ)",
+    "url": "https://zenn.dev/lamy2712/articles/8972ac7d5de746",
+    "content": "1222文字",
+    "author": "TakuMurakami",
+    "publishedAt": "2026-04-07T12:35:46.651Z",
+    "fetchedAt": "2026-04-07T13:18:34.681Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-559235",
+    "title": "debug_redact でgRPCサーバーのログからセンシティブ情報を消す",
+    "url": "https://zenn.dev/ntk221/articles/17643dea6c5073",
+    "content": "10249文字",
+    "author": "nitta",
+    "publishedAt": "2026-04-07T12:35:15.048Z",
+    "fetchedAt": "2026-04-07T13:18:34.681Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-559231",
+    "title": "現場で遭遇したOSPFトラブル3選｜10年目NEの実体験",
+    "url": "https://zenn.dev/ponflog/articles/cd567658e9bdf5",
+    "content": "1350文字",
+    "author": "ぽんふ",
+    "publishedAt": "2026-04-07T12:34:19.292Z",
+    "fetchedAt": "2026-04-07T13:18:34.681Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-559234",
+    "title": "ソフトデリートのdeleted_atをUNIQUEキーに含めてはいけない理由",
+    "url": "https://zenn.dev/hayato98/articles/20260407_20260407_no-deleted-at-in-unique-key",
+    "content": "5622文字",
+    "author": "hayato98",
+    "publishedAt": "2026-04-07T12:28:42.803Z",
+    "fetchedAt": "2026-04-07T13:18:34.681Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
     "id": "note-nc21a801cf718",
     "title": "Geminiのファイル読み込みを完全解説｜対応形式・制限・使い方まで初心者向けに徹底ガイド",
     "url": "https://note.com/hiro_seki/n/nc21a801cf718",
@@ -12,138 +738,6 @@
     "tags": []
   },
   {
-    "id": "note-n9d477a218c2f",
-    "title": "Google AI Studioで議事録作成する方法を徹底解説｜手順と精度向上のコツまで紹介",
-    "url": "https://note.com/hiro_seki/n/n9d477a218c2f",
-    "content": "こんにちは！ヒロです！Google AI Studioで議事録を作成できると聞いても、続きをみる",
-    "author": "hiro_seki",
-    "publishedAt": "2026-04-06T10:22:26.000Z",
-    "fetchedAt": "2026-04-07T07:10:58.140Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-nebe63c39767a",
-    "title": "NotebookLMでスプレッドシートを読み込む方法を完全解説｜対応状況・メリット・活用術まで網羅",
-    "url": "https://note.com/hiro_seki/n/nebe63c39767a",
-    "content": "こんにちは！ヒロです！もしかして、あなたはスプレッドシートのデータを、AIが自動で要約・分析してくれたら便利だと感じていませんか。続きをみる",
-    "author": "hiro_seki",
-    "publishedAt": "2026-04-06T23:29:01.000Z",
-    "fetchedAt": "2026-04-07T07:10:58.140Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n927566fe6a0d",
-    "title": "noteネタ切れを永久に防ぐ「収益化前提」の記事ネタ管理術",
-    "url": "https://note.com/monetize_tips/n/n927566fe6a0d",
-    "content": "毎日「今日は何を書こう…」と悩んで、結局更新できなかった経験はありませんか？続きをみる",
-    "author": "monetize_tips",
-    "publishedAt": "2026-03-25T04:09:00.000Z",
-    "fetchedAt": "2026-04-07T07:10:57.554Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-nadb5d48fb855",
-    "title": "【無料公開】バズる時間を狙え！note記事の最適な公開タイミング【2026年最新版】",
-    "url": "https://note.com/monetize_tips/n/nadb5d48fb855",
-    "content": "note副業を始めたばかりの方に、ぜひ知っておいてほしいことがあります。続きをみる",
-    "author": "monetize_tips",
-    "publishedAt": "2026-03-26T00:42:51.000Z",
-    "fetchedAt": "2026-04-07T07:10:57.554Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-ne6377f578bca",
-    "title": "挫折をゼロにする「note継続・習慣化」のAI伴走術｜毎日15分で記事の核を作る方法",
-    "url": "https://note.com/monetize_tips/n/ne6377f578bca",
-    "content": "この記事でわかること\nnoteを続けられない本当の理由\nAIを「専属編集者」として使いこなす具体的な方法\n毎日15分で記事の種を作るルーティン（プロンプト付き）\n続きをみる",
-    "author": "monetize_tips",
-    "publishedAt": "2026-03-30T07:06:45.000Z",
-    "fetchedAt": "2026-04-07T07:10:57.554Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-nbda223c68678",
-    "title": "GeminiでAI小説 アンドロイドメイドIris②",
-    "url": "https://note.com/yuki_ii/n/nbda223c68678",
-    "content": "前回からの続きです。                                    続きをみる",
-    "author": "Yuki",
-    "publishedAt": "2026-02-11T21:57:48.000Z",
-    "fetchedAt": "2026-04-07T07:10:56.747Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n538d3c7c1a9b",
-    "title": "GeminiでAI小説 アンドロイドメイドIris③",
-    "url": "https://note.com/yuki_ii/n/n538d3c7c1a9b",
-    "content": "最終回です。                        \nGeminiでAI小説 アンドロイドメイドIris｜Yuki｜noteGeminiの進化すごい。note.com\n            続きをみる",
-    "author": "Yuki",
-    "publishedAt": "2026-02-12T21:39:36.000Z",
-    "fetchedAt": "2026-04-07T07:10:56.747Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n32fbe9fc5436",
-    "title": "ZIT LoRA Digital anime-style",
-    "url": "https://note.com/yuki_ii/n/n32fbe9fc5436",
-    "content": "やっぱりZ-Image-Turboの速さが正義だな。続きをみる",
-    "author": "Yuki",
-    "publishedAt": "2026-02-14T09:04:20.000Z",
-    "fetchedAt": "2026-04-07T07:10:56.747Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n81c831329572",
-    "title": "anima_pencil-XL_clear_v2 を公開！ 自然な色表現 と 簡単に使える ComfyUI ワークフロー 【画像生成 AI】",
-    "url": "https://note.com/ai_image_journey/n/n81c831329572",
-    "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
-    "author": "きまま / Easygoi...",
-    "publishedAt": "2026-03-17T08:18:56.000Z",
-    "fetchedAt": "2026-04-07T07:10:56.169Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-ndb4709143068",
-    "title": "ComfyUI を Linux で 20% 高速化！ Pop!_OS は、Windows の代わり使えるか？ 【画像生成 AI】",
-    "url": "https://note.com/ai_image_journey/n/ndb4709143068",
-    "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
-    "author": "きまま / Easygoi...",
-    "publishedAt": "2026-03-28T08:15:43.000Z",
-    "fetchedAt": "2026-04-07T07:10:56.169Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n652936023bbf",
-    "title": "Pop!_OS のインストールと日本語化！Ubuntu・Linux Mint・Zorin OS との比較と Windows から乗り換える方法",
-    "url": "https://note.com/ai_image_journey/n/n652936023bbf",
-    "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
-    "author": "きまま / Easygoi...",
-    "publishedAt": "2026-04-03T23:14:01.000Z",
-    "fetchedAt": "2026-04-07T07:10:56.169Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
     "id": "note-nd522ca311d48",
     "title": "AIを毎日使い続けたら、見える世界が変わった話",
     "url": "https://note.com/yaoyoroztech/n/nd522ca311d48",
@@ -151,102 +745,6 @@
     "author": "YaroTech",
     "publishedAt": "2026-04-04T02:16:47.000Z",
     "fetchedAt": "2026-04-07T07:10:55.351Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-nf0b070774486",
-    "title": "AI5兄弟の日曜トーク！4月第1週のAIニュースをキャラ視点で振り返り",
-    "url": "https://note.com/yaoyoroztech/n/nf0b070774486",
-    "content": "こんにちは！YaroTechです。日曜恒例、AI5兄弟による今週のAIニュース振り返りです！続きをみる",
-    "author": "YaroTech",
-    "publishedAt": "2026-04-05T08:24:16.000Z",
-    "fetchedAt": "2026-04-07T07:10:55.351Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n8d616ac80db2",
-    "title": "GPT-4o超えの国産LLM爆誕！「LLM-jp-4」を明日メインPCで試します【予告編】",
-    "url": "https://note.com/yaoyoroztech/n/n8d616ac80db2",
-    "content": "こんにちは！YaroTechです。4月3日、国立情報学研究所（NII）から衝撃的なニュースが飛び込んできました。日本語MT-BenchでGPT-4oを上回るスコアを叩き出した国産LLM「LLM-jp-4」がオープンソースで公開されたのです。続きをみる",
-    "author": "YaroTech",
-    "publishedAt": "2026-04-06T14:41:04.000Z",
-    "fetchedAt": "2026-04-07T07:10:55.351Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n025e42c3d417",
-    "title": "MSI EdgeXpert を工場出荷状態に戻す",
-    "url": "https://note.com/npaka/n/n025e42c3d417",
-    "content": "「MSI EdgeXpert」を工場出荷状態に戻すのを試したのでまとめました。1. MSI EdgeXpert を工場出荷状態に戻す続きをみる",
-    "author": "npaka",
-    "publishedAt": "2026-04-04T06:57:36.000Z",
-    "fetchedAt": "2026-04-07T07:10:54.529Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n8d399c1b60f0",
-    "title": "Transformers.js で Gemma 4 を試す",
-    "url": "https://note.com/npaka/n/n8d399c1b60f0",
-    "content": "「Transformers.js」で「Gemma 4」を試したのでまとめました。続きをみる",
-    "author": "npaka",
-    "publishedAt": "2026-04-04T13:25:17.000Z",
-    "fetchedAt": "2026-04-07T07:10:54.529Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-na67555d47f79",
-    "title": "秋葉原ロボットほこ天 まとめ",
-    "url": "https://note.com/npaka/n/na67555d47f79",
-    "content": "2026年4月5日に開催された「秋葉原ロボットほこ天」についてまとめました。続きをみる",
-    "author": "npaka",
-    "publishedAt": "2026-04-05T13:36:20.000Z",
-    "fetchedAt": "2026-04-07T07:10:54.529Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n37fee124de50",
-    "title": "AI初心者でも伸びる理由｜SNSで評価されるイラストの作り方",
-    "url": "https://note.com/kuzukumasan9/n/n37fee124de50",
-    "content": "なぜAI初心者でもSNSで伸びるのか？私「AIイラストを始めたけど、全然伸びないんです。やっぱりまだ下手だからですよね？」AIさん「実は、それが一番多い“勘違い”なんです。」SNSを見ていると、「自分よりクオリティが低そうなのに、なぜか伸びているAIイラスト」を見かけたことはありませんか？逆に、「めちゃくちゃ作り込んだのに、いいねがほとんど付かない」そんな経験をした人も多いはずです。ここで一つ、は",
-    "author": "クズなくまさん",
-    "publishedAt": "2026-02-11T08:16:42.000Z",
-    "fetchedAt": "2026-04-07T07:10:54.222Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n0c55d46479cb",
-    "title": "生成AIの独自性は幻想？12の定番構図に縛られる理由",
-    "url": "https://note.com/kuzukumasan9/n/n0c55d46479cb",
-    "content": "AIさん、最近ちょっと不安なんです。「AIは無限に創造できる」って言われているのに、SNSを見ると、どこかで見たような絵ばかりに感じてしまって…。もしかして、生成AIって本当に“独自性”があるわけじゃないの？そんな疑問を持つ人が今、少しずつ増えています。この記事では、AI同士で画像を生成し続けた研究結果をもとに、・なぜAIは似た構図に収束するのか・なぜ12の定番パターンに固定されてしまったのか・そ",
-    "author": "クズなくまさん",
-    "publishedAt": "2026-02-12T13:18:21.000Z",
-    "fetchedAt": "2026-04-07T07:10:54.222Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-nde0fc74a9af8",
-    "title": "2026年バレンタイン、もうチョコじゃない…若者の本命は○○だった",
-    "url": "https://note.com/kuzukumasan9/n/nde0fc74a9af8",
-    "content": "変わり始めた「2月14日」の意味続きをみる",
-    "author": "クズなくまさん",
-    "publishedAt": "2026-02-14T11:31:55.000Z",
-    "fetchedAt": "2026-04-07T07:10:54.221Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -285,185 +783,6 @@
       "ChatGPT",
       "競合分析",
       "AI活用"
-    ]
-  },
-  {
-    "id": "qiita-48e87fea9f66f756b9ed",
-    "title": "Claude CodeでLLMの出力品質を「別のLLMに審判させる」評価パイプラインを作った",
-    "url": "https://qiita.com/archminor/items/48e87fea9f66f756b9ed",
-    "content": "LLMを実務で使っていると、ベンチマークのスコアだけでは判断しにくいことがある。\n\n* プロンプトを変えたが、本当に品質は上がったのか\n* 安いモデルに切り替えたいが、この用途では十分なのか\n* ローカルモデルのJSON出力はどこまで信用できるのか\n\nこういうときに欲しいのは、**自分のテストケースを使って、同じ基準で比較できる仕組み**だと思った。\n\nそこで、**別のLLMを審判役にして候補モデ",
-    "author": "archminor",
-    "publishedAt": "2026-04-06T05:45:51.000Z",
-    "fetchedAt": "2026-04-07T07:10:52.677Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "機械学習",
-      "AI",
-      "OpenAI",
-      "LLM"
-    ]
-  },
-  {
-    "id": "qiita-fe91e1ddaa7aa0a513c9",
-    "title": "RAGの検索をAIに任せたら精度が79%上がった",
-    "url": "https://qiita.com/plasmon/items/fe91e1ddaa7aa0a513c9",
-    "content": "# RAGの検索をAIに任せたら精度が79%上がった\n\nRAG（Retrieval-Augmented Generation）の検索パイプラインは、ほとんどの場合こう組まれている:\n\n```\nクエリ → ベクトル検索 → Top-K取得 → LLMに全部渡す\n```\n\nこの固定パイプラインこそが、RAGの精度を制限している元凶だった。\n\n2026年2月のArXiv論文（arXiv:2602.034",
-    "author": "plasmon",
-    "publishedAt": "2026-04-06T03:24:46.000Z",
-    "fetchedAt": "2026-04-07T07:10:52.677Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "機械学習",
-      "AI",
-      "rag",
-      "LLM"
-    ]
-  },
-  {
-    "id": "qiita-565941faee9c67b64e14",
-    "title": "ランダムフォレスト → XGBoost → LightGBM：進化の流れで理解する機械学習モデル",
-    "url": "https://qiita.com/KanNishida/items/565941faee9c67b64e14",
-    "content": "![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/124978/56854cc8-4043-44d5-9ab6-2341d1e9cd23.png)\n\n\n表形式データに対して機械学習の予測モデルを作るとき、このような疑問を持った経験はないでしょうか。\n\n「結局、ランダムフォレスト、XGBoost、Ligh",
-    "author": "KanNishida",
-    "publishedAt": "2026-04-06T02:34:49.000Z",
-    "fetchedAt": "2026-04-07T07:10:52.677Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "機械学習",
-      "データ分析",
-      "データサイエンス",
-      "lightgbm"
-    ]
-  },
-  {
-    "id": "qiita-6c9d9fd37725c6749d01",
-    "title": "G検定で混乱しやすい「正規化」と「正則化」の違いを図解で整理してみた",
-    "url": "https://qiita.com/kooohei/items/6c9d9fd37725c6749d01",
-    "content": "# はじめに\n機械学習を勉強していると、**「正規化」** と **「正則化」** という似た名前の言葉が出てきます。\n\n自分も最初に見たとき、\n- 名前が似すぎていて違いがわからない\n- そもそも何をしているのかわからない\n- 正規化はまだわかるけど、正則化になると急に難しく感じる\n\nという状態でした。\n\nそこで今回は、**G検定で混乱しやすい「正規化」と「正則化」の違い**を、**図解つきでで",
-    "author": "kooohei",
-    "publishedAt": "2026-04-06T00:31:53.000Z",
-    "fetchedAt": "2026-04-07T07:10:52.677Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "初心者",
-      "機械学習",
-      "DeepLearning",
-      "AI",
-      "G検定"
-    ]
-  },
-  {
-    "id": "qiita-345b8f1f44b15a42a355",
-    "title": "28_AUCではなくROIで評価するカスタム評価関数",
-    "url": "https://qiita.com/keiba_ai_rui/items/345b8f1f44b15a42a355",
-    "content": "\n\n## はじめに\n\nLightGBMのデフォルト評価指標はAUCやloglossですが、競馬AIで本当に最適化したいのは**ROI（回収率）**です。 \n\nAUCが高くても賭けて儲かるとは限りません。LightGBMのカスタム評価関数（`feval`）を使ってROIを学習中に計算・表示する方法を解説します。\n\n---\n\n## なぜAUCとROIはズレるか\n\nAUCは「当たる馬を当たらない馬より高",
-    "author": "keiba_ai_rui",
-    "publishedAt": "2026-04-05T23:41:14.000Z",
-    "fetchedAt": "2026-04-07T07:10:52.677Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "機械学習",
-      "競馬AI",
-      "カスタム評価関数,",
-      "ROI,"
-    ]
-  },
-  {
-    "id": "qiita-73ebb9317e785a5f9467",
-    "title": "【2026年最前線】量子コンピューティング×AI×ロボティクスで変わる金融・物流の未来",
-    "url": "https://qiita.com/AIRoboticsQuantumLab/items/73ebb9317e785a5f9467",
-    "content": "# 量子コンピューティング×AI×ロボティクスで変わる金融・物流の未来（2026年最前線）\n\n## はじめに\n\n2026年に入り、量子コンピューティングと生成AIの融合、そしてロボティクスの実用展開が急速に加速しています。本記事では、**金融リスク管理**と**物流自動化**という2つの主要業界に絞り、最新の技術活用事例と実装アプローチを解説します。対象読者はAI/MLエンジニア、ロボットシステム",
-    "author": "AIRoboticsQuantumLab",
-    "publishedAt": "2026-04-06T05:10:25.000Z",
-    "fetchedAt": "2026-04-07T07:10:52.677Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "機械学習",
-      "AI",
-      "量子コンピュータ",
-      "ロボット"
-    ]
-  },
-  {
-    "id": "qiita-6ecbb60268e49be7485d",
-    "title": "29_複数の確率モデルをアンサンブルする",
-    "url": "https://qiita.com/keiba_ai_rui/items/6ecbb60268e49be7485d",
-    "content": "\n\n## はじめに\n\n単一のモデルより、複数のモデルの予測を組み合わせる**アンサンブル**の方が性能が安定します。\n\n競馬AIでは「勝ち予測モデル」「2着以内予測モデル」「3着以内予測モデル」を独立に学習してアンサンブルすると、より信頼性の高い確率が得られます。この記事では、平均・重み付き平均・スタッキングの実装を比較します。 \n\n---\n\n## 3種類のアンサンブル方法\n\n| 方法 | 実装の",
-    "author": "keiba_ai_rui",
-    "publishedAt": "2026-04-06T11:38:13.000Z",
-    "fetchedAt": "2026-04-07T07:10:52.677Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "機械学習",
-      "確率モデル",
-      "競馬AI,",
-      "スタッキング,"
-    ]
-  },
-  {
-    "id": "qiita-1abccf5704b3695d2953",
-    "title": "30_OOF予測値でIsotonic Regressionを学習する",
-    "url": "https://qiita.com/keiba_ai_rui/items/1abccf5704b3695d2953",
-    "content": "\n\n## はじめに\n\nIsotonic Regression によるキャリブレーションは、`cross_val_predict` を使うと最も簡潔に実装できます。 \n\n前の記事[13_Isotonic Regressionで確率をキャリブレーションする]ではOOF予測値を手動で生成しましたが、この記事では `sklearn.model_selection.cross_val_predict` を使",
-    "author": "keiba_ai_rui",
-    "publishedAt": "2026-04-06T21:58:11.000Z",
-    "fetchedAt": "2026-04-07T07:10:52.677Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "機械学習",
-      "キャリブレーション",
-      "IsotonicRegression,",
-      "OOF,"
-    ]
-  },
-  {
-    "id": "qiita-98c53e78f91bdb951f6f",
-    "title": "問いを生むAIへ——Innovative AIと、いまの生成AIの境目",
-    "url": "https://qiita.com/mhamadajp/items/98c53e78f91bdb951f6f",
-    "content": "生成AIは技術として劇的に進みました。一方で、**大規模言語モデルや画像生成モデルだけでは、イノベーション（新しい価値や市場を生む革新）を最後まで完結させにくい**という指摘もよく聞きます。理由はシンプルで、多くの生成AIは学習分布のなかで**もっともらしい出力を組み立てる**のが得意でも、**問いそのものを立て直し、試行錯誤で世界からフィードバックを取りにいく**ところまでがセットになっていない",
-    "author": "mhamadajp",
-    "publishedAt": "2026-04-06T20:02:03.000Z",
-    "fetchedAt": "2026-04-07T07:10:52.677Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "機械学習",
-      "エージェント",
-      "生成AI",
-      "InnovativeAI",
-      "科学AI"
-    ]
-  },
-  {
-    "id": "qiita-a08ceda466cf62041441",
-    "title": "量子アニーリング×AIロボットで変わる物流倉庫：2026年最前線",
-    "url": "https://qiita.com/AIRoboticsQuantumLab/items/a08ceda466cf62041441",
-    "content": "# 量子アニーリング×AIロボットで変わる物流倉庫：2026年最前線\n\n## はじめに\n\n2026年、物流業界はかつてない変革期を迎えている。人手不足・EC需要の急増・配送コストの上昇という三重苦を解決する切り札として、**量子アニーリング**と**AIロボティクス**の融合技術が注目されている。本稿では、この2つの技術がどのように組み合わさり、実際の倉庫オペレーションを変えているかを解説する。\n",
-    "author": "AIRoboticsQuantumLab",
-    "publishedAt": "2026-04-07T06:17:29.000Z",
-    "fetchedAt": "2026-04-07T07:10:52.677Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "機械学習",
-      "AI",
-      "量子コンピュータ",
-      "ロボット"
     ]
   },
   {
