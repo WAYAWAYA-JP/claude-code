@@ -1,24 +1,12 @@
 [
   {
-    "id": "note-n9200174e4af7",
-    "title": "AI人材になるには？求められるスキルと未経験から独学で成功するロードマップ",
-    "url": "https://note.com/hiro_seki/n/n9200174e4af7",
-    "content": "こんにちは！ヒロです！近年、AI（人工知能）の技術は急速に進歩しています。続きをみる",
-    "author": "hiro_seki",
-    "publishedAt": "2026-06-07T09:29:54.000Z",
-    "fetchedAt": "2026-06-10T04:12:50.013Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
     "id": "note-n43ee4001eacb",
     "title": "ChatGPTイラスト生成のプロンプトのコツと使い方！最新モデルの商用利用まで徹底解説",
     "url": "https://note.com/hiro_seki/n/n43ee4001eacb",
     "content": "こんにちは！ヒロです！現在、多くのビジネスシーンやクリエイティブ活動において、AIを活用したビジュアル制作が注目を集めています。続きをみる",
     "author": "hiro_seki",
     "publishedAt": "2026-06-08T09:14:28.000Z",
-    "fetchedAt": "2026-06-10T04:12:50.013Z",
+    "fetchedAt": "2026-06-10T09:52:30.311Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -30,7 +18,19 @@
     "content": "こんにちは！ヒロです！名古屋でAIスクールを探している方のなかには「東京や大阪に比べて通える教室が少ない」と感じている方が少なくありません。続きをみる",
     "author": "hiro_seki",
     "publishedAt": "2026-06-09T07:47:30.000Z",
-    "fetchedAt": "2026-06-10T04:12:50.013Z",
+    "fetchedAt": "2026-06-10T09:52:30.311Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-nb4a2d6f3e16d",
+    "title": "Google AI Studioは商用利用可能！著作権の帰属や規約違反の注意点",
+    "url": "https://note.com/hiro_seki/n/nb4a2d6f3e16d",
+    "content": "こんにちは！ヒロです！無料の開発者向けツールであるGoogle AI Studio（グーグルAIスタジオ）に関心を持つ方が増えています。続きをみる",
+    "author": "hiro_seki",
+    "publishedAt": "2026-06-10T06:32:37.000Z",
+    "fetchedAt": "2026-06-10T09:52:30.311Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -42,7 +42,7 @@
     "content": "「副業を始めたいけれど、リサーチだけで毎日が終わってしまう…」 「どの市場を狙えば稼げるのか、データを見るだけで頭が痛くなる…」そんな悩みを抱えていませんか？続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-05-21T06:21:01.000Z",
-    "fetchedAt": "2026-06-10T04:12:49.699Z",
+    "fetchedAt": "2026-06-10T09:52:29.997Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -54,7 +54,7 @@
     "content": "「noteで稼ぎたいけど、なんか怖い」。そう感じているあなたへ。突然アカウントを止められる人がいる一方で、地道に稼ぎ続けている人もいる。その差は、知っているかどうかだけ。この記事でわかること：続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-06-01T14:56:50.000Z",
-    "fetchedAt": "2026-06-10T04:12:49.699Z",
+    "fetchedAt": "2026-06-10T09:52:29.997Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -66,7 +66,7 @@
     "content": "noteを始めてみたものの、書いても書いても反応がない。スキもつかないし、ましてや売れるなんて遠い話。少し前の私も、まさにそうでした。でも順番を変えただけで、最初の数千円が見えてきます。今日はその順番の話。続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-06-09T11:00:29.000Z",
-    "fetchedAt": "2026-06-10T04:12:49.699Z",
+    "fetchedAt": "2026-06-10T09:52:29.997Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -78,7 +78,7 @@
     "content": "GPT-Image2.0はストーリーボードとかあんなに細かく書けるなら、生成ガチャも1枚に複数書かせたら節約になりますね。続きをみる",
     "author": "Yuki",
     "publishedAt": "2026-05-27T22:03:56.000Z",
-    "fetchedAt": "2026-06-10T04:12:49.373Z",
+    "fetchedAt": "2026-06-10T09:52:29.682Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -90,7 +90,7 @@
     "content": "ComfyUIの課金ノードでSeedance2.0を使ってみてたら、$10課金した2,110クレジットはあっという間に溶けました。続きをみる",
     "author": "Yuki",
     "publishedAt": "2026-05-31T10:21:00.000Z",
-    "fetchedAt": "2026-06-10T04:12:49.373Z",
+    "fetchedAt": "2026-06-10T09:52:29.682Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -102,7 +102,7 @@
     "content": "ComfyUIに課金して、Seedance2.0なんて使ってたら、いくらでもクレジットが溶けていきますね。まぁいいか。続きをみる",
     "author": "Yuki",
     "publishedAt": "2026-05-31T21:38:02.000Z",
-    "fetchedAt": "2026-06-10T04:12:49.373Z",
+    "fetchedAt": "2026-06-10T09:52:29.682Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -114,7 +114,7 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-05-09T23:30:25.000Z",
-    "fetchedAt": "2026-06-10T04:12:49.059Z",
+    "fetchedAt": "2026-06-10T09:52:29.367Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -126,7 +126,7 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-05-15T08:07:09.000Z",
-    "fetchedAt": "2026-06-10T04:12:49.059Z",
+    "fetchedAt": "2026-06-10T09:52:29.367Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -138,7 +138,7 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-05-29T22:51:27.000Z",
-    "fetchedAt": "2026-06-10T04:12:49.059Z",
+    "fetchedAt": "2026-06-10T09:52:29.367Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -150,7 +150,7 @@
     "content": "こんにちは！YaroTechです。日曜恒例、AI5兄弟の日曜トークの時間です。今週（6月第1週・6/1〜7）のテーマは「新作が来ない週に、AIは静かに\"手元\"と\"記憶\"を変えた」。派手な新フラッグシップモデルはほとんど来なかった\"凪\"の週でした。でも、その静けさの裏で、AIが2つの方向——\"手元\"（オンデバイス）と\"記憶\"——に、そっと降りてきた週だったんです。続きをみる",
     "author": "YaroTech",
     "publishedAt": "2026-06-07T04:58:40.000Z",
-    "fetchedAt": "2026-06-10T04:12:48.747Z",
+    "fetchedAt": "2026-06-10T09:52:29.053Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -162,7 +162,7 @@
     "content": "こんにちは！YaroTechです。継続投稿330日目、月曜日です。先週は「X1（ThinkPad）の中だけで、クラウドに声を出さずに音声会話する」というのを5日かけて作っていました。喋り出しまで1.27秒（Day327）。速さはそれなりに出せたんです。続きをみる",
     "author": "YaroTech",
     "publishedAt": "2026-06-08T14:40:45.000Z",
-    "fetchedAt": "2026-06-10T04:12:48.747Z",
+    "fetchedAt": "2026-06-10T09:52:29.053Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -174,7 +174,7 @@
     "content": "こんにちは！YaroTechです。火曜日です。継続投稿331日目になりました。続きをみる",
     "author": "YaroTech",
     "publishedAt": "2026-06-09T09:48:56.000Z",
-    "fetchedAt": "2026-06-10T04:12:48.747Z",
+    "fetchedAt": "2026-06-10T09:52:29.053Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -186,7 +186,7 @@
     "content": "「Autodesk Maya」のはじめ方をまとめました。続きをみる",
     "author": "npaka",
     "publishedAt": "2026-06-09T02:31:27.000Z",
-    "fetchedAt": "2026-06-10T04:12:48.428Z",
+    "fetchedAt": "2026-06-10T09:52:28.738Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -198,7 +198,7 @@
     "content": "「Codex」で「Autodesk Maya」の操作を試したのでまとめました。続きをみる",
     "author": "npaka",
     "publishedAt": "2026-06-10T00:32:20.000Z",
-    "fetchedAt": "2026-06-10T04:12:48.428Z",
+    "fetchedAt": "2026-06-10T09:52:28.738Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -210,7 +210,7 @@
     "content": "以下の記事が面白かったので、簡単にまとめました。・Claude Fable 5 and Claude Mythos 5\n続きをみる",
     "author": "npaka",
     "publishedAt": "2026-06-09T21:37:48.000Z",
-    "fetchedAt": "2026-06-10T04:12:48.428Z",
+    "fetchedAt": "2026-06-10T09:52:28.738Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -222,7 +222,7 @@
     "content": "森で育ったくまが、人間の世界に迷い込んで久しい。彼の名前はくまさん。ちょっとクズで、マイペースで、でもなぜか憎めない。そんなくまが今日、一枚のイラストを見てぽつりと言った。「わぁ、雲の上じゃん。なんかいいな、これ」                          \n夏の雲に乗って来た。 pic.twitter.com/t6ht0q65ZC— クズなくまさん (@kuzukumasan9) Jun",
     "author": "クズなくまさん",
     "publishedAt": "2026-06-07T11:56:18.000Z",
-    "fetchedAt": "2026-06-10T04:12:48.116Z",
+    "fetchedAt": "2026-06-10T09:52:28.426Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -234,7 +234,7 @@
     "content": "コーヒーの匂いがした。それだけで「あ、行こ」ってなる。くまさんもそういうやつだ。今回のイラストは、主が「コーヒー飲みたい」と思ったその衝動のまま作ったもの。フレンチプレスにコーヒーが注がれて、くまさんたちが匂いに釣られて集まってくる。ただそれだけの場面なのに、なんかいい。「飲みたいがそのままイラストになってる」とくまさんは言った。                          \nコーヒー飲もう",
     "author": "クズなくまさん",
     "publishedAt": "2026-06-08T09:44:49.000Z",
-    "fetchedAt": "2026-06-10T04:12:48.116Z",
+    "fetchedAt": "2026-06-10T09:52:28.426Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -246,153 +246,114 @@
     "content": "くまさんは、お皿の上にいた。コック帽をかぶって、トマトと魚と野菜に囲まれながら、ぽつんと真ん中に。「なぁなぁ、これぼくじゃん。お皿の上にいるじゃん」そう言ったくまさんの声は、どこかぼんやりしていた。このイラストは「今日は何をつくろう」というテーマで生まれた一枚だ。コック帽のくまさんを囲む食材たちは、くまさんが思い浮かべた幻覚かもしれない。レシピが浮かばず、悩み果てたすえに見えてきたビジョン。でも主",
     "author": "クズなくまさん",
     "publishedAt": "2026-06-09T08:57:54.000Z",
-    "fetchedAt": "2026-06-10T04:12:48.116Z",
+    "fetchedAt": "2026-06-10T09:52:28.426Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
   },
   {
-    "id": "qiita-4948df78d6788da7229c",
-    "title": "Claude Code hookのexit code完全ガイド——0, 1, 2を正しく使い分ける",
-    "url": "https://qiita.com/yurukusa/items/4948df78d6788da7229c",
-    "content": "## hookが「ブロックしてるつもりで素通り」していた\n\nClaude Codeのhooksで安全ガードを書いた。`rm -rf /`をブロックするやつだ。テストした。動いた。安心した。\n\n1週間後、ログを見て青くなった。**ブロックしたはずのコマンドが全部通っていた。**\n\n原因はたった1文字。`exit 1`と書くべきところを……いや、`exit 2`と書くべきところを`exit 1`にして",
-    "author": "yurukusa",
-    "publishedAt": "2026-06-10T03:00:02.000Z",
-    "fetchedAt": "2026-06-10T04:12:48.050Z",
+    "id": "qiita-13c0c286c58cd4924b95",
+    "title": "Claude Fable 5・使用一日目の見立て——道具は能力の最高値ではなく、作業との「重なり」で測る",
+    "url": "https://qiita.com/himajisan/items/13c0c286c58cd4924b95",
+    "content": "# \n\n**本記事はFable 5公開翌日、実使用一日目に書いた記録である。** 観察が貯まる前の、推論段階の見立てをそのまま残す。当たっても外れても、後の検証の基準点になる。\n\n2026年6月9日、AnthropicがClaude Fable 5を公開した。Mythosと同じ基盤モデルに安全弁を組み込み、一般に開放した最初のMythosクラスのモデルである。「これまで一般提供したどのモデルをも上",
+    "author": "himajisan",
+    "publishedAt": "2026-06-10T09:51:02.000Z",
+    "fetchedAt": "2026-06-10T09:52:28.346Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
-      "Node.js",
-      "AI",
-      "LLM",
-      "プロンプトエンジニアリング",
-      "ClaudeCode"
-    ]
-  },
-  {
-    "id": "qiita-022a2bcd955884f76e9d",
-    "title": "MCP・RAG・コンテキストの違いと使い分けを図解してみた",
-    "url": "https://qiita.com/shimitaro/items/022a2bcd955884f76e9d",
-    "content": "## はじめに\n\nKiro や Cursor、Claude Code などのAIコーディングツールを使っていると、こういう場面に遭遇しませんか？\n\n- 「CDKは1ファイル1責務で書いて」と毎回伝えるのが面倒\n- 社内ドキュメントが数百ファイルあるのに、プロンプトに全部入らない\n- 「今月のAWSコストいくら？」と聞きたいけど、リアルタイムな値はファイルには書かれていない\n\n自分は2026年の頭か",
-    "author": "shimitaro",
-    "publishedAt": "2026-06-10T02:46:49.000Z",
-    "fetchedAt": "2026-06-10T04:12:48.050Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "AI",
-      "MCP",
-      "rag",
-      "生成AI",
-      "LLM"
-    ]
-  },
-  {
-    "id": "qiita-f74b982e9f7c250b1ba6",
-    "title": "【2026年6月】Claude Fable 5がリリース！Mythosクラス初の一般公開・ベンチマーク・API利用まとめ",
-    "url": "https://qiita.com/htani0817/items/f74b982e9f7c250b1ba6",
-    "content": "## はじめに\n \n2026年6月9日、Anthropicが新世代モデル **Claude Fable 5** を発表しました。これは2026年4月に限定公開された最上位ティア「**Mythosクラス**」のモデルが、一般ユーザー向けに提供される初めてのケースです。\n \nMythosクラスは従来のフラッグシップである **Opus クラスのさらに上位**に位置づけられるモデル群で、これまで Cla",
-    "author": "htani0817",
-    "publishedAt": "2026-06-10T02:33:15.000Z",
-    "fetchedAt": "2026-06-10T04:12:48.050Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
+      "ポエム",
       "AI",
       "生成AI",
       "LLM",
-      "Claude",
-      "ClaudeCode"
-    ]
-  },
-  {
-    "id": "qiita-46d65586a6f9a668dc84",
-    "title": "Claude Fable 5の料金は出力$50より入力で決まる: 1コール実測",
-    "url": "https://qiita.com/hironakamura_ai/items/46d65586a6f9a668dc84",
-    "content": "「Fable 5はまずベンチを見ろ」は、たぶん逆だ。先に見るべきは料金、もっと言えば自分の請求額の構造だと思う。実際に1コール投げて実測したら、費用の8割が「出力以外」で発生していた。\n\n昨日(2026-06-09)、AnthropicがClaude Fable 5を一般公開した([公式発表](https://www.anthropic.com/news/claude-fable-5-mythos",
-    "author": "hironakamura_ai",
-    "publishedAt": "2026-06-10T02:30:29.000Z",
-    "fetchedAt": "2026-06-10T04:12:48.050Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "AI",
-      "LLM",
-      "Claude",
-      "ClaudeCode"
-    ]
-  },
-  {
-    "id": "qiita-080ec3256f25737ec60b",
-    "title": "Claude Fable 5 と Opus の使い分けを、個人開発者のコスト目線で整理する",
-    "url": "https://qiita.com/Rapls/items/080ec3256f25737ec60b",
-    "content": "今朝、Claude Fable 5 が公開されました。数日がかりのタスクを自分で動かし続ける、というモデルです。新機能を網羅する記事ではなく、WordPress プラグインを一人で作っている立場から、Fable 5 と Opus をいつ使い分けるか、をコスト目線で整理します。\n\n:::note info\nこの記事の立ち位置です。Fable 5 は公開当日で、まだ実機で数日動かしてはいません。発表（",
-    "author": "Rapls",
-    "publishedAt": "2026-06-10T02:11:14.000Z",
-    "fetchedAt": "2026-06-10T04:12:48.050Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "AI",
-      "個人開発",
-      "LLM",
-      "Claude",
-      "ClaudeCode"
-    ]
-  },
-  {
-    "id": "qiita-2f34aa67cfe045ba5109",
-    "title": "LLMアプリの「静かなデグレ」をCIで検知する llm-canary の使い方",
-    "url": "https://qiita.com/okssusucha/items/2f34aa67cfe045ba5109",
-    "content": "# TL;DR\n\n- プロンプト変更・RAG修正・モデル乗り換えによる**振る舞いのデグレは普通のCIでは検知できない**\n- [llm-canary](https://github.com/okssusucha/llm-canary) はYAMLでLLMの振る舞いテストを宣言し、CIをゲートするOSS\n- 正解データなしの回帰検知(ベースライン+意味的類似度)と、**エージェント行動ログのポリシ",
-    "author": "okssusucha",
-    "publishedAt": "2026-06-10T02:05:50.000Z",
-    "fetchedAt": "2026-06-10T04:12:48.050Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "テスト",
-      "CI",
-      "AI",
-      "OSS",
-      "LLM"
-    ]
-  },
-  {
-    "id": "qiita-4076b4d0dba6c358d90e",
-    "title": "【2026年保存版】プロンプトエンジニアリングはもう古い？「コンテキストエンジニアリング」という新しい生存戦略",
-    "url": "https://qiita.com/emi_ndk/items/4076b4d0dba6c358d90e",
-    "content": "「プロンプトエンジニアリングはもう古い」——2026年、この言葉を耳にする機会が一気に増えました。\nかつて「魔法の呪文」と呼ばれた巧みな言い回しは、いまや誰でも書けるコモディティになりつつあります。\nでは、本当のスキルはどこへ消えたのか？答えは「コンテキストエンジニアリング」です。\n\n## 結論から言うと\n\n- **「どう聞くか（How to ask）」の時代は終わり、「何を渡すか（What to",
-    "author": "emi_ndk",
-    "publishedAt": "2026-06-10T02:05:36.000Z",
-    "fetchedAt": "2026-06-10T04:12:48.050Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "AI",
-      "rag",
-      "LLM",
-      "プロンプトエンジニアリング",
       "Claude"
     ]
   },
   {
-    "id": "qiita-a490de261efaa9331e41",
-    "title": "【衝撃】AIエージェントがついに\"科学者\"になった ― Natureに載った自動科学発見システム「Robin」の全貌",
-    "url": "https://qiita.com/emi_ndk/items/a490de261efaa9331e41",
-    "content": "「次の実験は、これをやるべきだ」――そう提案したのは、人間ではなくAIだった。\n2026年6月、Natureに掲載された論文が、AIエージェント界隈を静かに、しかし確実に揺らした。\nマルチエージェントシステム「Robin」が、**仮説生成からデータ解析までを完全自動化**し、実在する難病の治療候補を見つけ出したのだ。\n\n## 結論から言うと\n\n:::note info\n**Robinは「科学の発見",
-    "author": "emi_ndk",
-    "publishedAt": "2026-06-10T02:04:36.000Z",
-    "fetchedAt": "2026-06-10T04:12:48.050Z",
+    "id": "qiita-91f6858345e20ca4038b",
+    "title": "最新AIに記事を採点させたら、外からの一言で72点が90点台に変わった",
+    "url": "https://qiita.com/himajisan/items/91f6858345e20ca4038b",
+    "content": "# \n\n## ——Claude Fable 5公開二日目の実験記録\n\n2026年6月9日、AnthropicがClaude Fable 5を公開した。Mythosクラスと呼ばれる、同社の最上位モデルである。\n\n公開翌日、私はこのモデルにある実験をした。正確に言うと、最初は実験のつもりではなかった。やり取りの途中で「これは実験になる」と気づき、最後まで走らせた。\n\n結果を先に書く。**最新・最上位の",
+    "author": "himajisan",
+    "publishedAt": "2026-06-10T09:45:16.000Z",
+    "fetchedAt": "2026-06-10T09:52:28.346Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
-      "MachineLearning",
-      "論文",
+      "AI",
+      "生成AI",
+      "ChatGPT",
+      "LLM",
+      "Claude"
+    ]
+  },
+  {
+    "id": "qiita-dde817900be258c46a9a",
+    "title": "Appleの新AI推論フレームワーク Core AI に最速でOSSを建てた",
+    "url": "https://qiita.com/john-rocky/items/dde817900be258c46a9a",
+    "content": "**Appleの新しいAIフレームワーク、CoreAIが公開されました。**\n好きなAI/LLMモデルをCoreAI形式に変換して、iOSやMacOSで使用することができます。\n\nApple公式の[CoreAI-Models](https://github.com/apple/coreai-models)はGemma3やQwen3などの変換方法をサポートしています。\n\n僕は**CoreAIの兄貴分",
+    "author": "john-rocky",
+    "publishedAt": "2026-06-10T08:43:12.000Z",
+    "fetchedAt": "2026-06-10T09:52:28.346Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "iOS",
       "AI",
       "LLM",
-      "AIエージェント"
+      "LocalLLM",
+      "CoreAI"
+    ]
+  },
+  {
+    "id": "qiita-64eab021a614a109b5f5",
+    "title": "AIモデル能力深掘り #2：7つの次元、最強モデルはどれ？",
+    "url": "https://qiita.com/lhjjjk4/items/64eab021a614a109b5f5",
+    "content": "![Cover](https://files.catbox.moe/hx17jt.png)\n\n![Cover](https://files.catbox.moe/hx17jt.png)\n\n> **8分で読める** · AIモデル比較シリーズ 第2回（全4回）\n\n前回の全体ランキングでわかったこと：Claude Opus 4.8が95点、GPT-5.5が91点、そして4モデルが4点差でひしめく。\n\n",
+    "author": "lhjjjk4",
+    "publishedAt": "2026-06-10T07:44:42.000Z",
+    "fetchedAt": "2026-06-10T09:52:28.346Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "LLM",
+      "Claude",
+      "Agentic"
+    ]
+  },
+  {
+    "id": "qiita-eda8459e81fd7ade7f3c",
+    "title": "AIモデル能力深掘り #2：7つの次元で各モデルの強みを徹底比較",
+    "url": "https://qiita.com/lhjjjk4/items/eda8459e81fd7ade7f3c",
+    "content": "![Cover](https://files.catbox.moe/hx17jt.png)\n\n![Cover](https://files.catbox.moe/hx17jt.png)\n\n> **8分で読める** · AIモデル比較シリーズ 第2回（全4回）\n\n前回の全体ランキングでわかったこと：Claude Opus 4.8が95点、GPT-5.5が91点、そして4モデルが4点差でひしめく。\n\n",
+    "author": "lhjjjk4",
+    "publishedAt": "2026-06-10T07:44:02.000Z",
+    "fetchedAt": "2026-06-10T09:52:28.346Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "LLM"
+    ]
+  },
+  {
+    "id": "qiita-05519f08933b64a9e0ff",
+    "title": "AIで論文っぽい文章は作れた。でも論文にはならなかった ― 実証の谷と品質テーラリングの話",
+    "url": "https://qiita.com/Azarashi_struct/items/05519f08933b64a9e0ff",
+    "content": "## はじめに：AIに整えさせた\"設計ドキュメント\"は、どこまで通用するか\n\nADRや設計ドキュメント、技術選定の比較メモを、AIに整えてもらった経験はありませんか。バラついた考えを投げると、主張・根拠・代替案を持った整然としたドキュメントが返ってくる。書く過程で自分の理解の穴も見える。とても便利な\"考える道具\"です。\n\n私も同じ使い方をしています。**思いついたことをボイスでAIに投げて、論文形",
+    "author": "Azarashi_struct",
+    "publishedAt": "2026-06-10T07:38:53.000Z",
+    "fetchedAt": "2026-06-10T09:52:27.915Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "ポエム",
+      "設計",
+      "AI",
+      "生成AI",
+      "ChatGPT"
     ]
   },
   {
@@ -402,7 +363,7 @@
     "content": "## ステップ5：現場への導入（PoC）とビジネス価値の証明\n\n> **前のステップ（ステップ4）でできるようになったこと：**\n> PyTorchモデルをONNX形式に変換し、PyTorch環境なしでエッジデバイス（Raspberry Pi 5等）でAI推論を実行できるようになりました。いよいよ実際の工場ラインに設置して検証します。\n\nhttps://qiita.com/Toshiaki0315",
     "author": "Toshiaki0315",
     "publishedAt": "2026-06-08T07:26:32.000Z",
-    "fetchedAt": "2026-06-10T04:12:46.682Z",
+    "fetchedAt": "2026-06-10T09:52:27.509Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -420,7 +381,7 @@
     "content": "# はじめに\n機械学習を学び始めると、「最適化」に関する用語が多く登場します。\nそれぞれ単体では理解できても、用語同士の関係性が分かりづらいと感じることがありました。\n\n本記事では、G検定対策として、最適化に関する用語を体系的に整理します。\n\n\n# 最適化とは何か\n最適化とは、モデルの予測誤差（損失関数）を最小化するために、パラメータを調整するプロセスです。\n\nこの「最適化手法」という大きな枠の中",
     "author": "kooohei",
     "publishedAt": "2026-06-08T06:11:41.000Z",
-    "fetchedAt": "2026-06-10T04:12:46.682Z",
+    "fetchedAt": "2026-06-10T09:52:27.509Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -438,7 +399,7 @@
     "content": "\n> **この記事の位置づけ（先に必ず読んでください）**\n> これは「やってみる前の調査メモ」です。**まだ自分では検証していません。**\n> 下に書いた精度・料金・挙動はすべて公式ドキュメントや第三者ベンチマークの「受け売り」で、自分の環境で再現したものではありません。\n> なので **「これで動く」「これが正解」とは一切言えません。** 真似する場合は、必ずご自身の環境とデータで試してから判",
     "author": "ussu_ussu_ussu",
     "publishedAt": "2026-06-08T13:32:42.000Z",
-    "fetchedAt": "2026-06-10T04:12:46.682Z",
+    "fetchedAt": "2026-06-10T09:52:27.509Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -455,7 +416,7 @@
     "content": "## このチートシートの使い方\n\n「2群の平均を比べたい→正規分布に従う？→t検定 or Mann-Whitney検定」のように、データの種類と知りたいことを答えるだけで検定を選べる構成にしています。数式・使用条件・Pythonコードをセットで掲載します。\n\n---\n\n## 検定の選び方フローチャート\n\n```\nデータの種類は？\n├─ 連続値・量的データ\n│   └─ 群の数は？\n│       ",
     "author": "ai_lab_datascientist",
     "publishedAt": "2026-06-08T12:55:22.000Z",
-    "fetchedAt": "2026-06-10T04:12:46.682Z",
+    "fetchedAt": "2026-06-10T09:52:27.509Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -472,7 +433,7 @@
     "content": "音声合成AI（TTS、テキストを読み上げるAI）は、いま画像や文章を作るAIと同じくTransformerを土台にするのが当たり前だ。ところが、本番で動くTTSに、あえて主流を外した製品がある。米Cartesiaの「Sonic 3」だ。土台に選んだのは「State Space Model（SSM、状態空間モデル）」という別系統の設計で、リアルタイムに喋るAIに触れたことがあるなら、この選択は他人事",
     "author": "Yushi88",
     "publishedAt": "2026-06-08T12:01:09.000Z",
-    "fetchedAt": "2026-06-10T04:12:46.682Z",
+    "fetchedAt": "2026-06-10T09:52:27.509Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -490,7 +451,7 @@
     "content": "# CatBoostとは？LightGBMやXGBoostとの違いをわかりやすく解説\n\n![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/124978/d7ed4b23-fc5e-4dae-988e-c2b13c934bf6.png)\n\n\nビジネスの現場で扱うデータの多くは、きれいに数値だけで構成されて",
     "author": "KanNishida",
     "publishedAt": "2026-06-08T22:11:37.000Z",
-    "fetchedAt": "2026-06-10T04:12:46.682Z",
+    "fetchedAt": "2026-06-10T09:52:27.509Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -506,7 +467,7 @@
     "content": "機械学習において「カーネルモデル」と「カーネルトリック」は密接に関連していますが、**指している対象（概念のレイヤー）** が異なります。\n\n# 一言で言うと\nカーネルモデルは「仕組み（モデルの構造）」であり、カーネルトリックは「それを効率的に計算するための計算手法（アルゴリズムの裏技）」です。\n\n# カーネルモデル\n「高次元空間にデータを飛ばして、複雑な境界線で分類・回帰するモデルの総称」です。",
     "author": "IT-Engineer-K",
     "publishedAt": "2026-06-09T06:58:24.000Z",
-    "fetchedAt": "2026-06-10T04:12:46.682Z",
+    "fetchedAt": "2026-06-10T09:52:27.509Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -524,7 +485,7 @@
     "content": "メモ書きである．\n\n幾何学的機械学習（Geometric Machine/Deep Learning）という言葉を聞く機会が増えてきた．\n\nいまのところ，問題の構造を保存するような機械学習モデルのことをこのように呼んでいるのだろう，と解釈している（間違っているかもしれない）．\n\n\n\n\nhttps://geometricdeeplearning.com/lectures/\n\n\nhttps://www",
     "author": "ShotaDeguchi",
     "publishedAt": "2026-06-09T12:20:13.000Z",
-    "fetchedAt": "2026-06-10T04:12:46.682Z",
+    "fetchedAt": "2026-06-10T09:52:27.509Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -538,7 +499,7 @@
     "content": "## はじめに\n\n最近、\n\n「AIが仕事を奪う」\n\nという話をよく耳にします。\n\n実際、生成AIの進化は非常に速く、\n\n* コード生成\n* 統計解析\n* レポート作成\n* データ分析\n\nなど、多くの業務を支援できるようになりました。\n\n私自身、20年以上メカ設計に携わった後、品質部門へ異動し、Python、統計、機械学習を学んできました。\n\n当初は、\n\n**AIを学べば業務は大きく変わる**\n\nと",
     "author": "massy0123",
     "publishedAt": "2026-06-09T23:19:30.000Z",
-    "fetchedAt": "2026-06-10T04:12:46.682Z",
+    "fetchedAt": "2026-06-10T09:52:27.509Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -556,7 +517,7 @@
     "content": "\n# Mojo 1.0のSIMD・parallelizeで実装するMLカーネルとPythonベンチマーク比較\n\nPythonで書いた行列積が遅い——MLエンジニアなら一度は直面する課題です。NumPyやPyTorchに逃げるのが定石ですが、「カスタムカーネルを書きたいがCUDA/C++は学習コストが高い」というジレンマもあります。Mojo 1.0はこの問題に正面から取り組む言語です。Python互",
     "author": "0h-n0",
     "publishedAt": "2026-06-09T23:11:46.000Z",
-    "fetchedAt": "2026-06-10T04:12:46.682Z",
+    "fetchedAt": "2026-06-10T09:52:27.509Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -568,13 +529,354 @@
     ]
   },
   {
+    "id": "qiita-d15393a07f430fe64333",
+    "title": "AI media workflow references 20260610093143",
+    "url": "https://qiita.com/mryangsd/items/d15393a07f430fe64333",
+    "content": "# Practical AI media and custom song workflow references\n\nThis public reference note collects a small set of AI media and custom-song tools that are useful for testing video, music, and personalized a",
+    "author": "mryangsd",
+    "publishedAt": "2026-06-10T09:32:54.000Z",
+    "fetchedAt": "2026-06-10T09:52:27.121Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Video",
+      "AI",
+      "music"
+    ]
+  },
+  {
+    "id": "qiita-815beef798bd6e3b344e",
+    "title": "AI企業はなぜ今、上場へ向かうのか──SpaceX・OpenAI・AnthropicのIPOラッシュを読む",
+    "url": "https://qiita.com/comty/items/815beef798bd6e3b344e",
+    "content": "![ChatGPT Image 2026年6月10日 18_16_59.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4006596/6e8a5a67-6d8e-4ea2-8859-e202aa61ce16.png)\n\n\n\n\n## はじめに\n\nAI企業のニュースを追っていると、少し前までは「どのモデルが賢いか」とい",
+    "author": "comty",
+    "publishedAt": "2026-06-10T09:17:59.000Z",
+    "fetchedAt": "2026-06-10T09:52:27.121Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "IPO",
+      "spacex",
+      "Anthropic"
+    ]
+  },
+  {
+    "id": "qiita-89ec3a776119c388c67a",
+    "title": "アーキテクト開発者のためのClaude Code設定10選",
+    "url": "https://qiita.com/yuma_morita/items/89ec3a776119c388c67a",
+    "content": "6ヶ月間、Claude Code を毎日使う中で、10個の設定パターンにたどり着きました。これらがないと、エージェントが誤った方向に進んだ箇所を直すために、月に10〜15時間を失っていました。設定を入れてからは、その時間が目に見えて減っています。\n\nこれは「Claude Code とは何か」を説明するチュートリアルではありません。すでにこのツールを使っていて、そこからもっと引き出したい人のための設",
+    "author": "yuma_morita",
+    "publishedAt": "2026-06-10T08:27:54.000Z",
+    "fetchedAt": "2026-06-10T09:52:27.121Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "生成AI",
+      "ClaudeCode"
+    ]
+  },
+  {
+    "id": "qiita-c8737fa31279361115ae",
+    "title": "人間が答え、AIが矛盾を探し、また人間が答える実験",
+    "url": "https://qiita.com/R-7777/items/c8737fa31279361115ae",
+    "content": "![ChatGPT Image 2026年6月10日 16_48_35.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4427207/e2766794-b52b-41ec-ab12-99e0dd576a20.png)\n\n私はAIアライメントや人間理解について考えている中で、AIに答えを求めるのではなく、AIに矛盾を",
+    "author": "R-7777",
+    "publishedAt": "2026-06-10T08:05:28.000Z",
+    "fetchedAt": "2026-06-10T09:52:27.121Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "考察"
+    ]
+  },
+  {
+    "id": "zenn-595831",
+    "title": "\"天気アプリで「大宮」がウガンダになった話 — WeatherAPIからGoogle Places APIへ移行するまでの四苦八苦\"",
+    "url": "https://zenn.dev/konatsu_mops/articles/b40b0b201676cb",
+    "content": "13579文字",
+    "author": "こなつ",
+    "publishedAt": "2026-06-10T09:51:05.167Z",
+    "fetchedAt": "2026-06-10T09:52:26.600Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-595867",
+    "title": "Claudeのメモリ機能で試してみた小さな工夫",
+    "url": "https://zenn.dev/atware/articles/7ea5fcac17bdcb",
+    "content": "1631文字",
+    "author": "Nishikawa",
+    "publishedAt": "2026-06-10T09:30:29.867Z",
+    "fetchedAt": "2026-06-10T09:52:26.600Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-595530",
+    "title": "実務で使えるMySQLパフォーマンスチューニングガイド",
+    "url": "https://zenn.dev/yx_xy/articles/9a5264a6a08c18",
+    "content": "6339文字",
+    "author": "Yoshi",
+    "publishedAt": "2026-06-10T09:30:08.735Z",
+    "fetchedAt": "2026-06-10T09:52:26.600Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-595571",
+    "title": "今からJavaを始めるなら僕ならこうする話",
+    "url": "https://zenn.dev/yamu_official/articles/0fa40fd448bce1",
+    "content": "13197文字",
+    "author": "やむぅ。｜8年目エンジニア",
+    "publishedAt": "2026-06-10T09:10:48.604Z",
+    "fetchedAt": "2026-06-10T09:52:26.600Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-595865",
+    "title": "BetterLeaks を pre-commit で使う時の工夫",
+    "url": "https://zenn.dev/raki/articles/2026-06-10_betterleaks",
+    "content": "1847文字",
+    "author": "raki",
+    "publishedAt": "2026-06-10T09:03:58.610Z",
+    "fetchedAt": "2026-06-10T09:52:26.600Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-595864",
+    "title": "LLM Provider 接続：CLI に最初のモデル呼び出しを完了させる",
+    "url": "https://zenn.dev/lienjack/articles/00-07-llm-provider-cli-first-call",
+    "content": "25596文字",
+    "author": "ケツ",
+    "publishedAt": "2026-06-10T09:03:38.866Z",
+    "fetchedAt": "2026-06-10T09:52:26.600Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-509006",
+    "title": "Azure Container Apps のリビジョンとラベルを理解する",
+    "url": "https://zenn.dev/georgeosddev/articles/azure-container-apps-revisions",
+    "content": "21450文字",
+    "author": "georgeosddev",
+    "publishedAt": "2026-06-10T09:01:19.259Z",
+    "fetchedAt": "2026-06-10T09:52:26.600Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-595606",
+    "title": "AI時代、人間の価値は「根拠」にある",
+    "url": "https://zenn.dev/rust_health/articles/5b8ada8d4dcb19",
+    "content": "2250文字",
+    "author": "nagoya_manaka",
+    "publishedAt": "2026-06-10T09:00:07.909Z",
+    "fetchedAt": "2026-06-10T09:52:26.600Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-595842",
+    "title": "第2章：よくあるサイバー攻撃",
+    "url": "https://zenn.dev/zerquor/articles/5562a7dcb07f0d",
+    "content": "2471文字",
+    "author": "Zerquor",
+    "publishedAt": "2026-06-10T08:34:23.679Z",
+    "fetchedAt": "2026-06-10T09:52:26.600Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-595851",
+    "title": "決定品質と結果品質を別軸で記録する — 自動化システムを「運」で評価しないためのログ設計",
+    "url": "https://zenn.dev/techquant/articles/decision-quality-vs-result-quality",
+    "content": "7224文字",
+    "author": "Tech Quant",
+    "publishedAt": "2026-06-10T08:34:20.427Z",
+    "fetchedAt": "2026-06-10T09:52:26.600Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n9200174e4af7",
+    "title": "AI人材になるには？求められるスキルと未経験から独学で成功するロードマップ",
+    "url": "https://note.com/hiro_seki/n/n9200174e4af7",
+    "content": "こんにちは！ヒロです！近年、AI（人工知能）の技術は急速に進歩しています。続きをみる",
+    "author": "hiro_seki",
+    "publishedAt": "2026-06-07T09:29:54.000Z",
+    "fetchedAt": "2026-06-10T04:12:41.281Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "qiita-4948df78d6788da7229c",
+    "title": "Claude Code hookのexit code完全ガイド——0, 1, 2を正しく使い分ける",
+    "url": "https://qiita.com/yurukusa/items/4948df78d6788da7229c",
+    "content": "## hookが「ブロックしてるつもりで素通り」していた\n\nClaude Codeのhooksで安全ガードを書いた。`rm -rf /`をブロックするやつだ。テストした。動いた。安心した。\n\n1週間後、ログを見て青くなった。**ブロックしたはずのコマンドが全部通っていた。**\n\n原因はたった1文字。`exit 1`と書くべきところを……いや、`exit 2`と書くべきところを`exit 1`にして",
+    "author": "yurukusa",
+    "publishedAt": "2026-06-10T03:00:02.000Z",
+    "fetchedAt": "2026-06-10T04:12:37.795Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Node.js",
+      "AI",
+      "LLM",
+      "プロンプトエンジニアリング",
+      "ClaudeCode"
+    ]
+  },
+  {
+    "id": "qiita-022a2bcd955884f76e9d",
+    "title": "MCP・RAG・コンテキストの違いと使い分けを図解してみた",
+    "url": "https://qiita.com/shimitaro/items/022a2bcd955884f76e9d",
+    "content": "## はじめに\n\nKiro や Cursor、Claude Code などのAIコーディングツールを使っていると、こういう場面に遭遇しませんか？\n\n- 「CDKは1ファイル1責務で書いて」と毎回伝えるのが面倒\n- 社内ドキュメントが数百ファイルあるのに、プロンプトに全部入らない\n- 「今月のAWSコストいくら？」と聞きたいけど、リアルタイムな値はファイルには書かれていない\n\n自分は2026年の頭か",
+    "author": "shimitaro",
+    "publishedAt": "2026-06-10T02:46:49.000Z",
+    "fetchedAt": "2026-06-10T04:12:37.795Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "MCP",
+      "rag",
+      "生成AI",
+      "LLM"
+    ]
+  },
+  {
+    "id": "qiita-f74b982e9f7c250b1ba6",
+    "title": "【2026年6月】Claude Fable 5がリリース！Mythosクラス初の一般公開・ベンチマーク・API利用まとめ",
+    "url": "https://qiita.com/htani0817/items/f74b982e9f7c250b1ba6",
+    "content": "## はじめに\n \n2026年6月9日、Anthropicが新世代モデル **Claude Fable 5** を発表しました。これは2026年4月に限定公開された最上位ティア「**Mythosクラス**」のモデルが、一般ユーザー向けに提供される初めてのケースです。\n \nMythosクラスは従来のフラッグシップである **Opus クラスのさらに上位**に位置づけられるモデル群で、これまで Cla",
+    "author": "htani0817",
+    "publishedAt": "2026-06-10T02:33:15.000Z",
+    "fetchedAt": "2026-06-10T04:12:37.795Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "生成AI",
+      "LLM",
+      "Claude",
+      "ClaudeCode"
+    ]
+  },
+  {
+    "id": "qiita-46d65586a6f9a668dc84",
+    "title": "Claude Fable 5の料金は出力$50より入力で決まる: 1コール実測",
+    "url": "https://qiita.com/hironakamura_ai/items/46d65586a6f9a668dc84",
+    "content": "「Fable 5はまずベンチを見ろ」は、たぶん逆だ。先に見るべきは料金、もっと言えば自分の請求額の構造だと思う。実際に1コール投げて実測したら、費用の8割が「出力以外」で発生していた。\n\n昨日(2026-06-09)、AnthropicがClaude Fable 5を一般公開した([公式発表](https://www.anthropic.com/news/claude-fable-5-mythos",
+    "author": "hironakamura_ai",
+    "publishedAt": "2026-06-10T02:30:29.000Z",
+    "fetchedAt": "2026-06-10T04:12:37.795Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "AI",
+      "LLM",
+      "Claude",
+      "ClaudeCode"
+    ]
+  },
+  {
+    "id": "qiita-080ec3256f25737ec60b",
+    "title": "Claude Fable 5 と Opus の使い分けを、個人開発者のコスト目線で整理する",
+    "url": "https://qiita.com/Rapls/items/080ec3256f25737ec60b",
+    "content": "今朝、Claude Fable 5 が公開されました。数日がかりのタスクを自分で動かし続ける、というモデルです。新機能を網羅する記事ではなく、WordPress プラグインを一人で作っている立場から、Fable 5 と Opus をいつ使い分けるか、をコスト目線で整理します。\n\n:::note info\nこの記事の立ち位置です。Fable 5 は公開当日で、まだ実機で数日動かしてはいません。発表（",
+    "author": "Rapls",
+    "publishedAt": "2026-06-10T02:11:14.000Z",
+    "fetchedAt": "2026-06-10T04:12:37.795Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "個人開発",
+      "LLM",
+      "Claude",
+      "ClaudeCode"
+    ]
+  },
+  {
+    "id": "qiita-2f34aa67cfe045ba5109",
+    "title": "LLMアプリの「静かなデグレ」をCIで検知する llm-canary の使い方",
+    "url": "https://qiita.com/okssusucha/items/2f34aa67cfe045ba5109",
+    "content": "# TL;DR\n\n- プロンプト変更・RAG修正・モデル乗り換えによる**振る舞いのデグレは普通のCIでは検知できない**\n- [llm-canary](https://github.com/okssusucha/llm-canary) はYAMLでLLMの振る舞いテストを宣言し、CIをゲートするOSS\n- 正解データなしの回帰検知(ベースライン+意味的類似度)と、**エージェント行動ログのポリシ",
+    "author": "okssusucha",
+    "publishedAt": "2026-06-10T02:05:50.000Z",
+    "fetchedAt": "2026-06-10T04:12:37.795Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "テスト",
+      "CI",
+      "AI",
+      "OSS",
+      "LLM"
+    ]
+  },
+  {
+    "id": "qiita-4076b4d0dba6c358d90e",
+    "title": "【2026年保存版】プロンプトエンジニアリングはもう古い？「コンテキストエンジニアリング」という新しい生存戦略",
+    "url": "https://qiita.com/emi_ndk/items/4076b4d0dba6c358d90e",
+    "content": "「プロンプトエンジニアリングはもう古い」——2026年、この言葉を耳にする機会が一気に増えました。\nかつて「魔法の呪文」と呼ばれた巧みな言い回しは、いまや誰でも書けるコモディティになりつつあります。\nでは、本当のスキルはどこへ消えたのか？答えは「コンテキストエンジニアリング」です。\n\n## 結論から言うと\n\n- **「どう聞くか（How to ask）」の時代は終わり、「何を渡すか（What to",
+    "author": "emi_ndk",
+    "publishedAt": "2026-06-10T02:05:36.000Z",
+    "fetchedAt": "2026-06-10T04:12:37.795Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "rag",
+      "LLM",
+      "プロンプトエンジニアリング",
+      "Claude"
+    ]
+  },
+  {
+    "id": "qiita-a490de261efaa9331e41",
+    "title": "【衝撃】AIエージェントがついに\"科学者\"になった ― Natureに載った自動科学発見システム「Robin」の全貌",
+    "url": "https://qiita.com/emi_ndk/items/a490de261efaa9331e41",
+    "content": "「次の実験は、これをやるべきだ」――そう提案したのは、人間ではなくAIだった。\n2026年6月、Natureに掲載された論文が、AIエージェント界隈を静かに、しかし確実に揺らした。\nマルチエージェントシステム「Robin」が、**仮説生成からデータ解析までを完全自動化**し、実在する難病の治療候補を見つけ出したのだ。\n\n## 結論から言うと\n\n:::note info\n**Robinは「科学の発見",
+    "author": "emi_ndk",
+    "publishedAt": "2026-06-10T02:04:36.000Z",
+    "fetchedAt": "2026-06-10T04:12:37.795Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "MachineLearning",
+      "論文",
+      "AI",
+      "LLM",
+      "AIエージェント"
+    ]
+  },
+  {
     "id": "qiita-184014b9a041fd3e88fd",
     "title": "Claude Codeを「貼り付いて見守る」運用から卒業する：/goal・agentsビュー・auto mode実務導入ガイド",
     "url": "https://qiita.com/YushiYamamoto/items/184014b9a041fd3e88fd",
     "content": "\n## この記事でわかること\n\n- Claude Codeに2026年春以降追加された「放置運用」系機能（`claude agents` / `/goal` / auto mode / Monitor / Routines）の役割分担\n- 複数セッションを並列で走らせるときに、どの機能をどの順で導入すべきか\n- 自動承認（auto mode）を業務リポジトリで使う前に決めておくべき境界線\n\n情報源",
     "author": "YushiYamamoto",
     "publishedAt": "2026-06-10T03:51:28.000Z",
-    "fetchedAt": "2026-06-10T04:12:46.192Z",
+    "fetchedAt": "2026-06-10T04:12:34.817Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -592,7 +894,7 @@
     "content": "# AI自動化導入コンサルティングについての考察\n\n本記事では、ビジネスワークフローへの自律AIエージェントのインテグレーション支援。について技術的視点から解説します。実用的な導入方法や、それを取り巻くエコシステムについて深掘りしていきましょう。\n",
     "author": "muttyan",
     "publishedAt": "2026-06-10T03:23:35.000Z",
-    "fetchedAt": "2026-06-10T04:12:46.192Z",
+    "fetchedAt": "2026-06-10T04:12:34.817Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -607,7 +909,7 @@
     "content": "477文字",
     "author": "rnkv",
     "publishedAt": "2026-06-10T04:03:37.537Z",
-    "fetchedAt": "2026-06-10T04:12:45.543Z",
+    "fetchedAt": "2026-06-10T04:12:34.153Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -619,7 +921,7 @@
     "content": "4922文字",
     "author": "wellPicker",
     "publishedAt": "2026-06-10T04:00:09.404Z",
-    "fetchedAt": "2026-06-10T04:12:45.543Z",
+    "fetchedAt": "2026-06-10T04:12:34.153Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -631,7 +933,7 @@
     "content": "2888文字",
     "author": "アルパカ芋けんぴ",
     "publishedAt": "2026-06-10T03:54:34.043Z",
-    "fetchedAt": "2026-06-10T04:12:45.543Z",
+    "fetchedAt": "2026-06-10T04:12:34.153Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -643,7 +945,7 @@
     "content": "13283文字",
     "author": "Atsushi Eno",
     "publishedAt": "2026-06-10T03:52:42.313Z",
-    "fetchedAt": "2026-06-10T04:12:45.543Z",
+    "fetchedAt": "2026-06-10T04:12:34.153Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -655,7 +957,7 @@
     "content": "8450文字",
     "author": "continuity-model",
     "publishedAt": "2026-06-10T03:37:31.187Z",
-    "fetchedAt": "2026-06-10T04:12:45.543Z",
+    "fetchedAt": "2026-06-10T04:12:34.153Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -667,7 +969,7 @@
     "content": "2553文字",
     "author": "ユート",
     "publishedAt": "2026-06-10T03:36:47.167Z",
-    "fetchedAt": "2026-06-10T04:12:45.543Z",
+    "fetchedAt": "2026-06-10T04:12:34.153Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -679,7 +981,7 @@
     "content": "10682文字",
     "author": "Ryoichi Izumi",
     "publishedAt": "2026-06-10T03:34:36.804Z",
-    "fetchedAt": "2026-06-10T04:12:45.543Z",
+    "fetchedAt": "2026-06-10T04:12:34.153Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -691,7 +993,7 @@
     "content": "2500文字",
     "author": "NovaSolver",
     "publishedAt": "2026-06-10T03:33:54.258Z",
-    "fetchedAt": "2026-06-10T04:12:45.543Z",
+    "fetchedAt": "2026-06-10T04:12:34.153Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -703,7 +1005,7 @@
     "content": "4902文字",
     "author": "Yu Kiyota",
     "publishedAt": "2026-06-10T03:33:25.933Z",
-    "fetchedAt": "2026-06-10T04:12:45.543Z",
+    "fetchedAt": "2026-06-10T04:12:34.153Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -715,7 +1017,7 @@
     "content": "3123文字",
     "author": "中村 啓｜LLMエンジニア",
     "publishedAt": "2026-06-10T03:30:01.269Z",
-    "fetchedAt": "2026-06-10T04:12:45.543Z",
+    "fetchedAt": "2026-06-10T04:12:34.153Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
