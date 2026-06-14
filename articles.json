@@ -1,12 +1,132 @@
 [
   {
+    "id": "zenn-597980",
+    "title": "SSOT + LoRA + RAG 統合アーキテクチャ（紹介）",
+    "url": "https://zenn.dev/dx_junkyard/articles/rag-multiagent-build-summary",
+    "content": "2662文字",
+    "author": "りゅうきん",
+    "publishedAt": "2026-06-14T09:27:08.218Z",
+    "fetchedAt": "2026-06-14T09:28:28.533Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-597979",
+    "title": "CLAUDE.mdを太らせるな——ルールは必要な瞬間に読ませろ",
+    "url": "https://zenn.dev/generald/articles/claude-rules-context-diet",
+    "content": "7607文字",
+    "author": "船長",
+    "publishedAt": "2026-06-14T09:25:21.626Z",
+    "fetchedAt": "2026-06-14T09:28:28.533Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-596426",
+    "title": "結局、どれをどこに入れるのか — EMI 対策部品の羅針盤 (3) 選定フロー編",
+    "url": "https://zenn.dev/logicia32/articles/2026-06-13-emi-compass-3-flow",
+    "content": "11762文字",
+    "author": "K. NISHIMURA",
+    "publishedAt": "2026-06-14T09:24:09.132Z",
+    "fetchedAt": "2026-06-14T09:28:28.533Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-597973",
+    "title": "コンテキスト(仕様)が増えると、Claudeは何を忘れるか — 1,300行→7,000行で測った「優先枠」の話",
+    "url": "https://zenn.dev/mumihatsu/articles/6aeb897666a724",
+    "content": "7169文字",
+    "author": "りょうさん",
+    "publishedAt": "2026-06-14T09:22:41.756Z",
+    "fetchedAt": "2026-06-14T09:28:28.533Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-597964",
+    "title": "AIと一緒に海外情報メディアを作った話【Mirai Signal】",
+    "url": "https://zenn.dev/mqs/articles/7e512563160dce",
+    "content": "2364文字",
+    "author": "MqS",
+    "publishedAt": "2026-06-14T09:16:44.646Z",
+    "fetchedAt": "2026-06-14T09:28:28.533Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-597938",
+    "title": "Github Copilot のトークン消費を抑えるコツ",
+    "url": "https://zenn.dev/ihdk77/articles/2f25c077c2c54d",
+    "content": "10433文字",
+    "author": "ダックスフント",
+    "publishedAt": "2026-06-14T09:16:29.026Z",
+    "fetchedAt": "2026-06-14T09:28:28.533Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-597925",
+    "title": "プロジェクトとの再会が楽しいテスト駆動個人開発 〜Forth言語編〜",
+    "url": "https://zenn.dev/toghisumasu/articles/90b2e62cbc2787",
+    "content": "2151文字",
+    "author": "とぎすます",
+    "publishedAt": "2026-06-14T09:02:05.046Z",
+    "fetchedAt": "2026-06-14T09:28:28.533Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-592989",
+    "title": "Playwright CLIをMCPと比較しながら試してみた",
+    "url": "https://zenn.dev/643866/articles/4508aefce3552d",
+    "content": "4761文字",
+    "author": "shun",
+    "publishedAt": "2026-06-14T09:00:08.373Z",
+    "fetchedAt": "2026-06-14T09:28:28.533Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-597896",
+    "title": "自撮り1枚から、70歳の自分と話せる - Future Self Interview",
+    "url": "https://zenn.dev/rushyhirosan/articles/f7f10df0e29b53",
+    "content": "5905文字",
+    "author": "rushyhirosan",
+    "publishedAt": "2026-06-14T08:58:05.063Z",
+    "fetchedAt": "2026-06-14T09:28:28.533Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-597956",
+    "title": "Rancher Desktop ではじめる Docker 入門 - 自作アプリをコンテナで動かすまで",
+    "url": "https://zenn.dev/m2lab/articles/rancher-desktop-docker",
+    "content": "8128文字",
+    "author": "Masa0209",
+    "publishedAt": "2026-06-14T08:57:15.499Z",
+    "fetchedAt": "2026-06-14T09:28:28.533Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
     "id": "note-ndca759c84241",
     "title": "Nano Banana Proで動画を生成できる？画像を動画化する方法や注意点まで網羅",
     "url": "https://note.com/hiro_seki/n/ndca759c84241",
     "content": "こんにちは！ヒロです！「Nano Banana Proを使って、クオリティの高い動画コンテンツを作りたい」と考えるクリエイターやマーケターの方は多いのではないでしょうか。続きをみる",
     "author": "hiro_seki",
     "publishedAt": "2026-06-11T12:15:19.000Z",
-    "fetchedAt": "2026-06-14T04:44:09.856Z",
+    "fetchedAt": "2026-06-14T04:44:00.195Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -18,7 +138,7 @@
     "content": "こんにちは！ヒロです！2026年6月10日、AI開発大手のAnthropic（アンソロピック）から待望の最新モデル「Claude Fable 5（クロード フェーブル ファイブ）」が日本時間でついに公開されました。続きをみる",
     "author": "hiro_seki",
     "publishedAt": "2026-06-12T09:47:16.000Z",
-    "fetchedAt": "2026-06-14T04:44:09.856Z",
+    "fetchedAt": "2026-06-14T04:44:00.195Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -30,7 +150,7 @@
     "content": "こんにちは！ヒロです！画像生成AIの進化によって、誰でも簡単に高品質なイラストや画像を作れる時代になりました。続きをみる",
     "author": "hiro_seki",
     "publishedAt": "2026-06-13T09:41:17.000Z",
-    "fetchedAt": "2026-06-14T04:44:09.856Z",
+    "fetchedAt": "2026-06-14T04:44:00.195Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -42,7 +162,7 @@
     "content": "副業を始めたいけど、何から手をつければいいかわからない。私も半年前まで、ずっとそう思っていた。そう思ってnoteを後回しにしているなら、今がチャンスを逃すタイミングかもしれないと思う。続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-06-11T11:00:33.000Z",
-    "fetchedAt": "2026-06-14T04:44:09.497Z",
+    "fetchedAt": "2026-06-14T04:43:59.368Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -54,7 +174,7 @@
     "content": "「もっとうまく書けたら投稿しよう」と思いながら、気づけば3ヶ月が経っていた。あなたにも、そんな経験はないだろうか。私も最初はそうだった。うまく書けなかったら読者に失礼、お金をもらうのが怖い、そんな気持ちが手を止めていた。少なくとも私には、完璧な記事は必要なかった。私がこの記事に書いたのは、完璧を待つのをやめた話と、AIを使って実験の数を増やした話、それだけだ。続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-06-12T11:00:30.000Z",
-    "fetchedAt": "2026-06-14T04:44:09.497Z",
+    "fetchedAt": "2026-06-14T04:43:59.368Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -66,7 +186,7 @@
     "content": "「生成AIって、なんとなく怖い」「自分には関係ない気がする」──そう思いながら、今日もいつもの作業を続けていない?続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-06-13T11:00:30.000Z",
-    "fetchedAt": "2026-06-14T04:44:09.497Z",
+    "fetchedAt": "2026-06-14T04:43:59.368Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -78,7 +198,7 @@
     "content": "GPT-Image2.0はストーリーボードとかあんなに細かく書けるなら、生成ガチャも1枚に複数書かせたら節約になりますね。続きをみる",
     "author": "Yuki",
     "publishedAt": "2026-05-27T22:03:56.000Z",
-    "fetchedAt": "2026-06-14T04:44:09.138Z",
+    "fetchedAt": "2026-06-14T04:43:58.457Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -90,7 +210,7 @@
     "content": "ComfyUIの課金ノードでSeedance2.0を使ってみてたら、$10課金した2,110クレジットはあっという間に溶けました。続きをみる",
     "author": "Yuki",
     "publishedAt": "2026-05-31T10:21:00.000Z",
-    "fetchedAt": "2026-06-14T04:44:09.138Z",
+    "fetchedAt": "2026-06-14T04:43:58.457Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -102,7 +222,7 @@
     "content": "ComfyUIに課金して、Seedance2.0なんて使ってたら、いくらでもクレジットが溶けていきますね。まぁいいか。続きをみる",
     "author": "Yuki",
     "publishedAt": "2026-05-31T21:38:02.000Z",
-    "fetchedAt": "2026-06-14T04:44:09.138Z",
+    "fetchedAt": "2026-06-14T04:43:58.457Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -114,7 +234,7 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-05-15T08:07:09.000Z",
-    "fetchedAt": "2026-06-14T04:44:08.781Z",
+    "fetchedAt": "2026-06-14T04:43:57.837Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -126,7 +246,7 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-05-29T22:51:27.000Z",
-    "fetchedAt": "2026-06-14T04:44:08.781Z",
+    "fetchedAt": "2026-06-14T04:43:57.837Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -138,7 +258,7 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-06-12T23:08:51.000Z",
-    "fetchedAt": "2026-06-14T04:44:08.781Z",
+    "fetchedAt": "2026-06-14T04:43:57.837Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -150,7 +270,7 @@
     "content": "こんにちは！YaroTechです。金曜日です。継続投稿331日目から数えて、今日でちょうど333日目。ゾロ目の節目になりました。続きをみる",
     "author": "YaroTech",
     "publishedAt": "2026-06-12T14:54:38.000Z",
-    "fetchedAt": "2026-06-14T04:44:08.423Z",
+    "fetchedAt": "2026-06-14T04:43:57.237Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -162,7 +282,7 @@
     "content": "こんにちは！YaroTechです。実はこの3日間、私はClaude Fable 5で大はしゃぎでした。一昨日は「史上最強が来た」と興奮し、昨日は「Fable 5にやらせたいこと」を6つも書き出したばかり。ところが、その翌日――数時間前のことです。当のFable 5が、突然使えなくなりました。続きをみる",
     "author": "YaroTech",
     "publishedAt": "2026-06-13T04:49:29.000Z",
-    "fetchedAt": "2026-06-14T04:44:08.423Z",
+    "fetchedAt": "2026-06-14T04:43:57.237Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -174,7 +294,7 @@
     "content": "こんにちは！YaroTechです。日曜恒例、AI5兄弟の日曜トークの時間です。今週（6月第2週・6/8〜14）のテーマは「史上最強が、国に止められた一週間」。先週は派手な新作が来ない\"凪\"の週で、AIが静かに\"手元\"と\"記憶\"に降りてきた、なんて話をしました。ところが今週は、その真逆。「史上最強」と騒がれたモデルが登場し、数日で姿を消すという、ジェットコースターみたいな一週間でした。続きをみる",
     "author": "YaroTech",
     "publishedAt": "2026-06-14T04:23:20.000Z",
-    "fetchedAt": "2026-06-14T04:44:08.423Z",
+    "fetchedAt": "2026-06-14T04:43:57.237Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -186,7 +306,7 @@
     "content": "「Suno」の使いはじめ方をまとめました。続きをみる",
     "author": "npaka",
     "publishedAt": "2026-06-12T02:23:05.000Z",
-    "fetchedAt": "2026-06-14T04:44:08.064Z",
+    "fetchedAt": "2026-06-14T04:43:56.628Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -198,7 +318,7 @@
     "content": "「Codex」でプレゼン資料の作成を試してみたのでまとめました。続きをみる",
     "author": "npaka",
     "publishedAt": "2026-06-11T16:02:10.000Z",
-    "fetchedAt": "2026-06-14T04:44:08.064Z",
+    "fetchedAt": "2026-06-14T04:43:56.628Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -210,7 +330,7 @@
     "content": "「OpenCV 5」の新機能についてまとめました。続きをみる",
     "author": "npaka",
     "publishedAt": "2026-06-12T06:14:11.000Z",
-    "fetchedAt": "2026-06-14T04:44:08.064Z",
+    "fetchedAt": "2026-06-14T04:43:56.628Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -222,7 +342,7 @@
     "content": "深い青の中に、ぽつんと白い泡が浮かんでいる。その中で、くまさんがじっとこちらを見ていた。添えられた言葉は、たった四文字。「逃げてきた」。くまさんは、もともと森で動物たちと暮らしていたくまだ。あるとき人間の世界に移り住み、今は「主」と呼ばれる友達と一緒に暮らしている。マイペースで、ちょっとクズで、でも素直で憎めない。そんなくまさんが今回、深海の底から、思いがけず深い話を連れてきた。         ",
     "author": "クズなくまさん",
     "publishedAt": "2026-06-11T10:34:45.000Z",
-    "fetchedAt": "2026-06-14T04:44:07.740Z",
+    "fetchedAt": "2026-06-14T04:43:56.271Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -234,7 +354,7 @@
     "content": "何もしない時間が、なぜか少し怖い。そう感じたことはないだろうか。くまさんは、海にぷかりと浮かんでいた。顔だけ水面から出して、あとは全部、青のなか。森で育った、ちょっとクズでかわいいくま。今は人間の町で、友達の「主」と暮らしている。その主が、ある日くまさんから一枚の絵を受け取った。海に浮かぶ、くまさん自身の絵だった。「これぼくじゃん。海に浮かんでる〜」暑いのが嫌いな彼にとって、涼しげな海はそれだけで",
     "author": "クズなくまさん",
     "publishedAt": "2026-06-12T08:50:34.000Z",
-    "fetchedAt": "2026-06-14T04:44:07.740Z",
+    "fetchedAt": "2026-06-14T04:43:56.271Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -246,7 +366,7 @@
     "content": "朝の光がやわらかく差し込む台所に、その絵はあった。テーブルの上で、ふわふわの茶色いくまがサッカーボールの上にちょこんと座っている。床にはもう一匹、背中を向けて。タイトルは「食卓の戦い」。たぶん片方が「くまさん」だ。森で育って、今は人間の世界で暮らす、ちょっとクズで憎めないくま。主はその友達。二人はよく、絵を眺めながらとりとめのない話をする。                          \n食卓",
     "author": "クズなくまさん",
     "publishedAt": "2026-06-13T22:58:33.000Z",
-    "fetchedAt": "2026-06-14T04:44:07.740Z",
+    "fetchedAt": "2026-06-14T04:43:56.271Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -258,7 +378,7 @@
     "content": "## セッション再開しただけで$342\n\nGitHub Issueに衝撃的な報告が上がった。\n\n[#38029](https://github.com/anthropics/claude-code/issues/38029)——ユーザーがセッションを再開しただけで、65万出力トークンが一瞬で消えた。$342。ユーザーは何も入力していない。再開しただけだ。\n\n「resume my last sess",
     "author": "yurukusa",
     "publishedAt": "2026-06-14T03:00:01.000Z",
-    "fetchedAt": "2026-06-14T04:44:07.589Z",
+    "fetchedAt": "2026-06-14T04:43:55.900Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -276,7 +396,7 @@
     "content": "\n## はじめに\n\n2025年5月から2026年6月にかけて、Anthropic は Claude API に大規模な変更を加えました。最新モデル **Claude Fable 5 / Mythos 5** の登場、**Claude Opus 4.8** のリリース、そして複数の旧モデル廃止が同時進行しています。\n\n特に Fable 5 では**同じテキストでトークン数が約30%増加**という破壊",
     "author": "picnic",
     "publishedAt": "2026-06-13T19:48:48.000Z",
-    "fetchedAt": "2026-06-14T04:44:07.589Z",
+    "fetchedAt": "2026-06-14T04:43:55.900Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -294,7 +414,7 @@
     "content": "※ この記事はZennにも同内容を投稿しています。\n\n## はじめに\n\nLLMを使ったアプリケーションを開発していると、こんな疑問が生まれませんか？\n\n- GPT-4oとClaude 3.5 Sonnet、どちらの出力品質が高いか数値で比較したい\n- プロンプトを変えたら本当に出力が改善されたのか確認したい\n- 正解テキストがない場合でもLLMの出力を評価したい\n\n既存のライブラリ（`lm-eva",
     "author": "swoswoyuu1156",
     "publishedAt": "2026-06-13T04:24:16.000Z",
-    "fetchedAt": "2026-06-14T04:44:05.919Z",
+    "fetchedAt": "2026-06-14T04:43:54.953Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -312,7 +432,7 @@
     "content": "## はじめに\n\n2026年W杯（北中米大会）が本日開幕しました。48チーム・104試合、史上最大規模です。\n\n最近切り替えたばかりの新型モデル **fable-5** に、最も誤魔化しの効かないタスクを与えてみました——**優勝チームの予測**です。1ヶ月後には決勝トーナメントが始まり、答え合わせから逃げられません。\n\n## 入力データ\n\n雰囲気ではなく、開幕日の実データを与えました。\n\n| デ",
     "author": "mguozhen",
     "publishedAt": "2026-06-12T05:18:52.000Z",
-    "fetchedAt": "2026-06-14T04:44:05.919Z",
+    "fetchedAt": "2026-06-14T04:43:54.953Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -329,7 +449,7 @@
     "content": "# 1. はじめに\n\n本記事では、NVIDIA（NVDA）、Microsoft（MSFT）、S&P500（SPY）の株価データを取得し、株価推移分析、リターン分析、リスク・リターン分析を行いました。\n\nさらに、RandomForestを用いてNVIDIAの翌営業日の終値を予測し、その予測精度をRMSEで評価しました。\n\n# 2. 使用ライブラリ\n\n- pandas\n- numpy\n- matplo",
     "author": "takuya229",
     "publishedAt": "2026-06-12T06:01:05.000Z",
-    "fetchedAt": "2026-06-14T04:44:05.919Z",
+    "fetchedAt": "2026-06-14T04:43:54.953Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -347,7 +467,7 @@
     "content": "\n\n> 📝 この記事は [Zenn](https://zenn.dev/umascore/articles/e4c45439ea246d) で先に公開した記事の再掲です。最新版とコメントは Zenn をご参照ください。\n\n## TL;DR\n\n- 個人開発の競馬予想ML（[UmaScore](https://umascore.com)）を**2026-04-18からフォワードテスト（FT）に投入*",
     "author": "umascore",
     "publishedAt": "2026-06-12T10:18:52.000Z",
-    "fetchedAt": "2026-06-14T04:44:05.919Z",
+    "fetchedAt": "2026-06-14T04:43:54.953Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -365,7 +485,7 @@
     "content": "# はじめに\n今回は解説記事ではなく、コラム的な内容です\nAIの精度を上げる難しさや、その要因となりうる事象について話せればと思います\n\n# 今なにをしているのか\n現在の案件で僕は、クレジットカードの不正検知AIのさらなる精度向上を実現するために、様々なPoCを行うといった業務をしています\n今までの経歴的には、AIの専門学科卒業後、クラウドやドローンの案件など様々な案件に携わっており、業務でのAI",
     "author": "riku1220",
     "publishedAt": "2026-06-12T18:49:44.000Z",
-    "fetchedAt": "2026-06-14T04:44:05.919Z",
+    "fetchedAt": "2026-06-14T04:43:54.953Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -375,31 +495,13 @@
     ]
   },
   {
-    "id": "qiita-08ce12612101704b0851",
-    "title": "AIエージェントが「群れ」になる日、老化は書き換えられる——2026年6月、技術の前提が揺れている",
-    "url": "https://qiita.com/agenticdev/items/08ce12612101704b0851",
-    "content": "## はじめに\n\n6月第2週、技術の世界では静かだが確実な地殻変動が起きている。AIエージェントが単体から「群れ」へと進化しつつある問題、生物学的老化を「再プログラム」するという発想が臨床試験に入ったこと、そしてオープンソースAIコミュニティの台頭——これらは一見バラバラな話題に見えるが、根底にある問いは共通している。「既存の前提をどこまで書き換えられるか」だ。\n\nエンジニアや技術経営者にとって、",
-    "author": "agenticdev",
-    "publishedAt": "2026-06-13T04:17:31.000Z",
-    "fetchedAt": "2026-06-14T04:44:05.919Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "機械学習",
-      "AI",
-      "オープンソース",
-      "テクノロジートレンド",
-      "マルチエージェント"
-    ]
-  },
-  {
     "id": "qiita-31e541c3284254cbc24c",
     "title": "PyTorch の Adam の検算",
     "url": "https://qiita.com/CookieBox26/items/31e541c3284254cbc24c",
     "content": "[torch.optim.Adam](https://docs.pytorch.org/docs/2.12/generated/torch.optim.Adam.html) が、[Adam](https://arxiv.org/abs/1412.6980) の更新式通りにパラメータを更新してくれているかを簡単な例で確認するスクリプトを書きました。\n\n入出力が 1 次元の線形モデル `y(x) = ",
     "author": "CookieBox26",
     "publishedAt": "2026-06-13T13:07:45.000Z",
-    "fetchedAt": "2026-06-14T04:44:05.918Z",
+    "fetchedAt": "2026-06-14T04:43:54.953Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -417,7 +519,7 @@
     "content": "顧客の解約、不正な取引、設備の故障——「表(テーブル)にまとまったデータから次を当てたい」場面は業種を問わず多い。その予測で10年近く王座だったのが、XGBoostやLightGBMに代表される「勾配ブースト木」——決定木を積み上げて誤差を直していく手法だ。そこへ、追加学習をまったくしないのに、その王者をベンチマークで初めて上回ったと報告されるモデルが現れた。テーブルデータ向けの基盤モデル(Tab",
     "author": "Yushi88",
     "publishedAt": "2026-06-13T07:45:54.000Z",
-    "fetchedAt": "2026-06-14T04:44:05.918Z",
+    "fetchedAt": "2026-06-14T04:43:54.953Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -429,13 +531,31 @@
     ]
   },
   {
+    "id": "qiita-08ce12612101704b0851",
+    "title": "AIエージェントが「群れ」になる日、老化は書き換えられる——2026年6月、技術の前提が揺れている",
+    "url": "https://qiita.com/agenticdev/items/08ce12612101704b0851",
+    "content": "## はじめに\n\n6月第2週、技術の世界では静かだが確実な地殻変動が起きている。AIエージェントが単体から「群れ」へと進化しつつある問題、生物学的老化を「再プログラム」するという発想が臨床試験に入ったこと、そしてオープンソースAIコミュニティの台頭——これらは一見バラバラな話題に見えるが、根底にある問いは共通している。「既存の前提をどこまで書き換えられるか」だ。\n\nエンジニアや技術経営者にとって、",
+    "author": "agenticdev",
+    "publishedAt": "2026-06-13T04:17:31.000Z",
+    "fetchedAt": "2026-06-14T04:43:54.953Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "機械学習",
+      "AI",
+      "オープンソース",
+      "テクノロジートレンド",
+      "マルチエージェント"
+    ]
+  },
+  {
     "id": "qiita-bd3d618233da937aac2e",
     "title": "圏論で学習を組み立て直す ── Compositional Learning 入門：Backprop as Functor と「学習を部品から組み立てる」世界へ",
     "url": "https://qiita.com/etale_cohomology/items/bd3d618233da937aac2e",
     "content": "![thumbnail_picture.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4375223/173e6a5b-4ef2-4316-a415-aed3eb1f7885.jpeg)\n\n> この記事は、架空の大学「圏峰（けんぽう）工科大学」の研究室を舞台にした、ひとつの対話篇です。\n> \n> 登場するのは、機械",
     "author": "etale_cohomology",
     "publishedAt": "2026-06-13T17:59:42.000Z",
-    "fetchedAt": "2026-06-14T04:44:05.918Z",
+    "fetchedAt": "2026-06-14T04:43:54.953Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -453,7 +573,7 @@
     "content": "### **日本中のハッカソン情報を自動収集するプラットフォームを作りました！**\n\n日本で開催されるハッカソン情報を **毎日自動収集・整理**し、\nさらに **AI で賞金やテーマを補完**し、**チーム募集・参加レポート・DM までできる** \nコミュニティプラットフォームになっています！\n\n👉 **[https://hackathon.zzzzico.click](https://hac",
     "author": "zzzzico",
     "publishedAt": "2026-06-14T04:41:03.000Z",
-    "fetchedAt": "2026-06-14T04:44:05.374Z",
+    "fetchedAt": "2026-06-14T04:43:54.056Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -471,7 +591,7 @@
     "content": "# ⚙️ Converse APIとは\n:::note\n世界中の家電（AIモデル）をそのまま挿せる『万能マルチ変換プラグ』\n:::\nAWSの`Amazon Bedrock`には、Anthropic社の`Claude`とか、Meta社の`Llama`とか、いろんな会社の優秀なAIモデルが集まっとる。\n\n昔は、`Claude`に話しかけるときと、`Llama`に話しかけるときで、Pythonのコードの",
     "author": "maritime",
     "publishedAt": "2026-06-14T04:35:13.000Z",
-    "fetchedAt": "2026-06-14T04:44:05.374Z",
+    "fetchedAt": "2026-06-14T04:43:54.056Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -489,7 +609,7 @@
     "content": "# 本書籍を購入した理由・目的\n\n前著の『世界一流エンジニアの思考法』が日々の実務において非常に参考になったため、\n今回の新刊『部下としてのAI 世界一流エンジニアの進化術』も購入しました。\n\nコーディングエージェントなどのAIツールが当たり前になるこれからの時代において、\nエンジニアとしてどうAIと付き合い、キャリアを築いていけばいいのか。\nその具体的な指針を探るのが本書を手にとった一番の目的で",
     "author": "gentarou",
     "publishedAt": "2026-06-14T04:13:55.000Z",
-    "fetchedAt": "2026-06-14T04:44:05.374Z",
+    "fetchedAt": "2026-06-14T04:43:54.056Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -504,7 +624,7 @@
     "content": "\n## はじめに\n\n2025年、カターレ富山はJ2リーグで**17位**に終わった。\n\n最終節まで残留争いに巻き込まれ、他クラブの結果次第というギリギリの残留だった。正直、次のシーズンへの不安の方が大きかった。\n\nところが翌2026年のシーズン開幕前、J2・J3百年構想特別大会が行われた。\n\nJ1・J2・J3合わせて全60クラブが参加するこの大会で、カターレ富山はJ2・J3クラブ内**3位**、全",
     "author": "d94231",
     "publishedAt": "2026-06-14T03:59:52.000Z",
-    "fetchedAt": "2026-06-14T04:44:05.374Z",
+    "fetchedAt": "2026-06-14T04:43:54.056Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -522,7 +642,7 @@
     "content": "\n> **データ**: 気象庁 月別平均気温 1950〜2024年、47都道府県  \n> **分析コード**: Python (pandas / scipy / matplotlib)\n\n---\n\n## はじめに：みんなが毎年言う、あの話\n\n「最近、春と秋が短くなった気がする」\n\nSNSで毎年秋になると流れてくる。体感としてはわかる。でも誰も測っていない。\n\n気象データがあるなら測れるはずだ。そう",
     "author": "d94231",
     "publishedAt": "2026-06-14T03:58:31.000Z",
-    "fetchedAt": "2026-06-14T04:44:05.374Z",
+    "fetchedAt": "2026-06-14T04:43:54.056Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -540,7 +660,7 @@
     "content": "## 会話の途中で勝手にモデルが変わる、その正体\n\nClaude Code を使っていて、こんな経験はないでしょうか。\n\n- セキュリティ調査やデバッグなど、正当な作業を頼んだのに、会話の途中で応答の雰囲気が急に変わった。\n- 固定したつもりのモデルと違う挙動になり、費用も想定より膨らんだ。\n- 何が起きたのか画面には明確な説明が出ない。\n\nこの一因が、本記事で扱う**「安全装置がメッセージをフラ",
     "author": "yurukusa",
     "publishedAt": "2026-06-14T03:21:31.000Z",
-    "fetchedAt": "2026-06-14T04:44:05.374Z",
+    "fetchedAt": "2026-06-14T04:43:54.056Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -557,7 +677,7 @@
     "content": "月500万件を超えるレシート処理をAIが肩代わりし、財務エージェント全体で月あたり約4,200時間もの手作業を減らす——米国の支出管理サービス **Ramp**(ランプ)の事例だ(数値は開発元の公式事例による)。調達のエージェントを立ち上げたのは、わずか3人のチームだった。\n\n相手のサイトに **API**(プログラムから操作する公式の窓口)が無く、人手に頼るしかなかった業務を、ブラウザを操作する",
     "author": "Yushi88",
     "publishedAt": "2026-06-14T03:08:10.000Z",
-    "fetchedAt": "2026-06-14T04:44:05.374Z",
+    "fetchedAt": "2026-06-14T04:43:54.056Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -575,7 +695,7 @@
     "content": "\n## この記事でやること\n\nCSR（クライアントサイドレンダリング）の SPA は、サーバーが返す初期 HTML の `<body>` が空っぽになりがちです。Googlebot は JS を実行して最終的に本文を読みますが、**GPTBot / ClaudeBot / PerplexityBot は JS を実行するか公式に明記していません**。つまり「JS 実行前の HTML」に本文が無いと",
     "author": "masakazuimai",
     "publishedAt": "2026-06-14T02:58:16.000Z",
-    "fetchedAt": "2026-06-14T04:44:05.374Z",
+    "fetchedAt": "2026-06-14T04:43:54.056Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -593,7 +713,7 @@
     "content": "## 「スキルを作ったのに自動で起動しない」の本当の原因\n\nClaude Code でスキル(Skills)を自作したのに、いざ会話で関連する作業を頼んでも自動で発火しない。とくに日本語で話しかけると起動しない。こういう経験はないでしょうか。\n\n私(ゆるくさ)も同じところで何度もつまずきました。よく勧められる回避策は「英語で書いた `description` のうしろに日本語のトリガー語を足す」と",
     "author": "yurukusa",
     "publishedAt": "2026-06-14T02:27:38.000Z",
-    "fetchedAt": "2026-06-14T04:44:05.374Z",
+    "fetchedAt": "2026-06-14T04:43:54.056Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -610,7 +730,7 @@
     "content": "2541文字",
     "author": "poketaro3",
     "publishedAt": "2026-06-14T04:38:32.604Z",
-    "fetchedAt": "2026-06-14T04:44:04.998Z",
+    "fetchedAt": "2026-06-14T04:43:53.276Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -622,7 +742,7 @@
     "content": "20222文字",
     "author": "JiNenn",
     "publishedAt": "2026-06-14T04:33:02.798Z",
-    "fetchedAt": "2026-06-14T04:44:04.998Z",
+    "fetchedAt": "2026-06-14T04:43:53.276Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -634,7 +754,7 @@
     "content": "4212文字",
     "author": "0x00",
     "publishedAt": "2026-06-14T04:32:12.789Z",
-    "fetchedAt": "2026-06-14T04:44:04.998Z",
+    "fetchedAt": "2026-06-14T04:43:53.276Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -646,7 +766,7 @@
     "content": "648文字",
     "author": "CDLE - E資格勉強グループ",
     "publishedAt": "2026-06-14T04:31:59.421Z",
-    "fetchedAt": "2026-06-14T04:44:04.998Z",
+    "fetchedAt": "2026-06-14T04:43:53.276Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -658,7 +778,7 @@
     "content": "2175文字",
     "author": "いくら",
     "publishedAt": "2026-06-14T04:27:35.863Z",
-    "fetchedAt": "2026-06-14T04:44:04.998Z",
+    "fetchedAt": "2026-06-14T04:43:53.276Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -670,7 +790,7 @@
     "content": "6998文字",
     "author": "kashi-j",
     "publishedAt": "2026-06-14T04:23:37.268Z",
-    "fetchedAt": "2026-06-14T04:44:04.998Z",
+    "fetchedAt": "2026-06-14T04:43:53.276Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -682,7 +802,7 @@
     "content": "1745文字",
     "author": "continuity-model",
     "publishedAt": "2026-06-14T04:21:29.708Z",
-    "fetchedAt": "2026-06-14T04:44:04.998Z",
+    "fetchedAt": "2026-06-14T04:43:53.276Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -694,7 +814,7 @@
     "content": "9282文字",
     "author": "M_M",
     "publishedAt": "2026-06-14T04:21:05.052Z",
-    "fetchedAt": "2026-06-14T04:44:04.998Z",
+    "fetchedAt": "2026-06-14T04:43:53.276Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -706,7 +826,7 @@
     "content": "7699文字",
     "author": "satoh-y-0323",
     "publishedAt": "2026-06-14T04:20:06.038Z",
-    "fetchedAt": "2026-06-14T04:44:04.998Z",
+    "fetchedAt": "2026-06-14T04:43:53.276Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -718,7 +838,7 @@
     "content": "2095文字",
     "author": "totosasa",
     "publishedAt": "2026-06-14T04:18:46.948Z",
-    "fetchedAt": "2026-06-14T04:44:04.998Z",
+    "fetchedAt": "2026-06-14T04:43:53.276Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
