@@ -6,7 +6,7 @@
     "content": "こんにちは！ヒロです！生成AIの進化により、副業や起業の始め方は大きく変わりました。続きをみる",
     "author": "hiro_seki",
     "publishedAt": "2026-07-02T09:39:58.000Z",
-    "fetchedAt": "2026-07-05T03:56:33.376Z",
+    "fetchedAt": "2026-07-05T08:48:18.841Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -18,7 +18,7 @@
     "content": "こんにちは！ヒロです！「Codexをもっと自由に使いたい」「ChatGPTの利用上限を気にせず開発したい」続きをみる",
     "author": "hiro_seki",
     "publishedAt": "2026-07-03T08:39:00.000Z",
-    "fetchedAt": "2026-07-05T03:56:33.376Z",
+    "fetchedAt": "2026-07-05T08:48:18.841Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -30,7 +30,7 @@
     "content": "こんにちは！ヒロです！近年、ChatGPTやGemini、Claudeなどの登場によって、「生成AI」という言葉を耳にする機会が急速に増えました。続きをみる",
     "author": "hiro_seki",
     "publishedAt": "2026-07-04T12:43:29.000Z",
-    "fetchedAt": "2026-07-05T03:56:33.376Z",
+    "fetchedAt": "2026-07-05T08:48:18.841Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -42,7 +42,7 @@
     "content": "「副業を始めたいけれど、何から手をつけていいかわからない」と悩んでいませんか。会社員として働きながら、自分の経験をお金に変えるのは決して夢物語ではありません。特別な才能がなくても、月1万円の壁を越えるためのロードマップを公開します。この記事でわかること・稼げるテーマの見つけ方・読まれる記事の構成テンプレート・収益化を加速させる販売戦略続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-07-02T11:00:32.000Z",
-    "fetchedAt": "2026-07-05T03:56:33.050Z",
+    "fetchedAt": "2026-07-05T08:48:18.494Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -54,7 +54,7 @@
     "content": "無料記事をせっせと書いても、なかなか有料記事が売れない。そんな悩みを持っていませんか。読者の興味を引きつけつつ、自然に有料部分へ誘導するのは少しのコツが必要です。今日は誰でも今日から使える、売れる導線の作り方を解説します。この記事でわかること・無料と有料を分ける場所の正しい決め方・読者の期待値を裏切らない見出しの書き方・購入率を上げるための具体的な誘導の言葉続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-07-03T11:00:30.000Z",
-    "fetchedAt": "2026-07-05T03:56:33.050Z",
+    "fetchedAt": "2026-07-05T08:48:18.494Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -66,19 +66,7 @@
     "content": "noteを始めてみたけれど、価格設定で迷うこと、ありますよね。無料にすべきか、それとも有料にするか。いざ値段を決めようとすると、自分の記事に価値があるのか不安になるもの。今回は、副業初心者でも迷わない、適正価格の決め方を具体的に解説します。この記事でわかること続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-07-04T11:00:31.000Z",
-    "fetchedAt": "2026-07-05T03:56:33.050Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n8f19aad1369f",
-    "title": "LTX-2.3でどこまでSeedance2.0に迫れる？",
-    "url": "https://note.com/yuki_ii/n/n8f19aad1369f",
-    "content": "ComfyUIの課金ノードでSeedance2.0を使ってみてたら、$10課金した2,110クレジットはあっという間に溶けました。続きをみる",
-    "author": "Yuki",
-    "publishedAt": "2026-05-31T10:21:00.000Z",
-    "fetchedAt": "2026-07-05T03:56:32.724Z",
+    "fetchedAt": "2026-07-05T08:48:18.494Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -90,7 +78,7 @@
     "content": "ComfyUIに課金して、Seedance2.0なんて使ってたら、いくらでもクレジットが溶けていきますね。まぁいいか。続きをみる",
     "author": "Yuki",
     "publishedAt": "2026-05-31T21:38:02.000Z",
-    "fetchedAt": "2026-07-05T03:56:32.724Z",
+    "fetchedAt": "2026-07-05T08:48:18.146Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -102,7 +90,19 @@
     "content": "ついにAIがまともに喋るようになった。続きをみる",
     "author": "Yuki",
     "publishedAt": "2026-06-16T08:11:54.000Z",
-    "fetchedAt": "2026-07-05T03:56:32.724Z",
+    "fetchedAt": "2026-07-05T08:48:18.146Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-ne875c111c516",
+    "title": "ComfyUIにもSeedance2.0 mini がやってきた",
+    "url": "https://note.com/yuki_ii/n/ne875c111c516",
+    "content": "ComfyUIの課金ノードから、Seedance2.0 mini が選べるようになっていますね。コストが下がってありがたいです。480pの5秒で、53クレジットです。Seedance2.0が106クレジットなのでちょうど半分です。Seedance2.0 Fastだと85クレジットです。続きをみる",
+    "author": "Yuki",
+    "publishedAt": "2026-07-05T07:35:41.000Z",
+    "fetchedAt": "2026-07-05T08:48:18.146Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -114,7 +114,7 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-05-29T22:51:27.000Z",
-    "fetchedAt": "2026-07-05T03:56:32.398Z",
+    "fetchedAt": "2026-07-05T08:48:17.799Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -126,7 +126,7 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-06-12T23:08:51.000Z",
-    "fetchedAt": "2026-07-05T03:56:32.398Z",
+    "fetchedAt": "2026-07-05T08:48:17.799Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -138,19 +138,7 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-07-03T08:20:38.000Z",
-    "fetchedAt": "2026-07-05T03:56:32.398Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n26f9ee39345a",
-    "title": "PCを点けたら、受付役が勝手に店を開けていた ― 手動起動をやめて\"完全常設\"にした",
-    "url": "https://note.com/yaoyoroztech/n/n26f9ee39345a",
-    "content": "こんにちは！YaroTechです。木曜日です。継続投稿352日目になりました。続きをみる",
-    "author": "YaroTech",
-    "publishedAt": "2026-07-02T10:55:29.000Z",
-    "fetchedAt": "2026-07-05T03:56:32.070Z",
+    "fetchedAt": "2026-07-05T08:48:17.799Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -162,7 +150,7 @@
     "content": "こんにちは！YaroTechです。Day334で「まさかの使用停止」を書いてから、今日でちょうど19日。あの伝説級モデル、Claude Fable 5が帰ってきました。しかも今回は、7月7日までの1週間限定で\"ちょっとしたお祭り\"つきです。続きをみる",
     "author": "YaroTech",
     "publishedAt": "2026-07-02T14:04:46.000Z",
-    "fetchedAt": "2026-07-05T03:56:32.070Z",
+    "fetchedAt": "2026-07-05T08:48:17.453Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -174,7 +162,19 @@
     "content": "こんにちは！YaroTechです。これまで、うちの相棒・クロ助（Claude Desktop）は、PAD（Power Automate Desktop）のコードを書けるようになり、そのノウハウをAIのスキルに畳んできました。RPAの世界で、クロ助はもう「書ける」「覚えている」ところまで来ています。続きをみる",
     "author": "YaroTech",
     "publishedAt": "2026-07-03T13:26:40.000Z",
-    "fetchedAt": "2026-07-05T03:56:32.070Z",
+    "fetchedAt": "2026-07-05T08:48:17.453Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-nbb3f76160f90",
+    "title": "起動レースは、手動の勝ちだった ― それでもAIにRPAを渡してよかった理由",
+    "url": "https://note.com/yaoyoroztech/n/nbb3f76160f90",
+    "content": "こんにちは！YaroTechです。前回（構想編）で、「クロ助（Claude Desktop）にRPAを\"自分の手\"で動かしてもらう」ための設計図を広げました。Power Automate Desktop（以下PAD）のフローを、AIへの一言で起動する自作MCP「pad-mcp」の構想です。そして今回、いよいよ実機で作って、動かして、ストップウォッチで測りました。続きをみる",
+    "author": "YaroTech",
+    "publishedAt": "2026-07-05T03:58:01.000Z",
+    "fetchedAt": "2026-07-05T08:48:17.453Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -186,19 +186,7 @@
     "content": "以下の記事が面白かったので、簡単にまとめました。・Introducing Claude Sonnet 5\n続きをみる",
     "author": "npaka",
     "publishedAt": "2026-06-30T21:59:24.000Z",
-    "fetchedAt": "2026-07-05T03:56:31.744Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-neccb293a0236",
-    "title": "Nano Banana 2 Lite と Gemini Omni Flash の概要",
-    "url": "https://note.com/npaka/n/neccb293a0236",
-    "content": "以下の記事が面白かったので、簡単にまとめました。・Start building with Nano Banana 2 Lite and Gemini Omni Flash\n続きをみる",
-    "author": "npaka",
-    "publishedAt": "2026-06-30T21:42:25.000Z",
-    "fetchedAt": "2026-07-05T03:56:31.744Z",
+    "fetchedAt": "2026-07-05T08:48:17.105Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -210,7 +198,19 @@
     "content": "ロボットで重いものを運ぶときの電流制限とプログラム制御についてまとめました。続きをみる",
     "author": "npaka",
     "publishedAt": "2026-07-02T23:41:01.000Z",
-    "fetchedAt": "2026-07-05T03:56:31.744Z",
+    "fetchedAt": "2026-07-05T08:48:17.105Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n3fc7350604d2",
+    "title": "Box3D のクイックスタート",
+    "url": "https://note.com/npaka/n/n3fc7350604d2",
+    "content": "「Box3D」のクイックスタートをまとめました。続きをみる",
+    "author": "npaka",
+    "publishedAt": "2026-07-05T06:27:31.000Z",
+    "fetchedAt": "2026-07-05T08:48:17.105Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -222,7 +222,7 @@
     "content": "いらっしゃい。 pic.twitter.com/8po8dW1ZWw— クズなくまさん (@kuzukumasan9) June 18, 2026\n              緑だらけの店に、森のにおいがした続きをみる",
     "author": "クズなくまさん",
     "publishedAt": "2026-06-19T02:34:46.000Z",
-    "fetchedAt": "2026-07-05T03:56:31.421Z",
+    "fetchedAt": "2026-07-05T08:48:16.782Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -234,7 +234,7 @@
     "content": "「割っちゃった」くまさんがぽつりと言った。足元を見ると、白いかけらが床いっぱいに散らばっている。さっきまで何かの形をしていたものが、もう元に戻らない形になっていた。光が斜めに差し込んでいて、床がところどころ、きらきら光っている。こぼれた何かが、まだ乾かずに残っているらしい。                          \n割っちゃった pic.twitter.com/y8qXLFT4Iw— ク",
     "author": "クズなくまさん",
     "publishedAt": "2026-06-23T12:23:49.000Z",
-    "fetchedAt": "2026-07-05T03:56:31.421Z",
+    "fetchedAt": "2026-07-05T08:48:16.782Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -246,7 +246,7 @@
     "content": "一枚のイラストから、始まった。木々の隙間から光が差し込む森を抜けた先に、白い花でいっぱいの原っぱが広がっている。小さなくまが、大きなくまに向かって小さな手を伸ばしている。「やっと会えたね」——短いその言葉に、二匹のあいだにあった時間の分だけの重みが乗っていた。                          \nやっと会えたね🙌 pic.twitter.com/9sXAH757f4— クズなくま",
     "author": "クズなくまさん",
     "publishedAt": "2026-07-01T21:59:53.000Z",
-    "fetchedAt": "2026-07-05T03:56:31.421Z",
+    "fetchedAt": "2026-07-05T08:48:16.782Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -258,7 +258,7 @@
     "content": "# DeepSeek V4 Pro を Codex に直接接続して失敗した理由：Claude Code では動くのに Codex では推奨できない\n\n![AI API gateway](https://cdn.jsdelivr.net/gh/xujfcn/images@main/blog-covers/ai-api-gateway-9e4e6d.webp)\n\nCodex、Claude Code、D",
     "author": "xujfcn",
     "publishedAt": "2026-07-05T03:20:03.000Z",
-    "fetchedAt": "2026-07-05T03:56:31.320Z",
+    "fetchedAt": "2026-07-05T08:48:16.626Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -270,39 +270,93 @@
     ]
   },
   {
-    "id": "qiita-b51eb5435825609b0274",
-    "title": "AIにはコードではなくデータを渡せ——71%トークン削減の実測と通用しない6つの条件\"",
-    "url": "https://qiita.com/TheGateBreaker/items/b51eb5435825609b0274",
-    "content": "## TL;DR: \nAIワーカーが毎回同じボイラープレートコードを書き直しているなら、得ているのは知能ではなく繰り返し料金だ。描画ロジックをツールに固定し、AIにはJSONコンフィグだけを書かせることで、図1枚あたりのトークン消費が71%削減された（Anthropic APIの`usage`フィールドで実測）。ただしこの数字は狭い条件下のものだ——繰り返し・低推論・浅いスキーマのタスクに限られ、",
-    "author": "TheGateBreaker",
-    "publishedAt": "2026-07-05T03:13:56.000Z",
-    "fetchedAt": "2026-07-05T03:56:31.320Z",
+    "id": "qiita-b78460ea15dddab30779",
+    "title": "Claude Fable 5のトークンを溶かす犯人が実証で判明 — outputではなくcache readだった",
+    "url": "https://qiita.com/House-lovers7/items/b78460ea15dddab30779",
+    "content": "> **2026-07-05 全面改稿**: 初出（7/2）から追記を2回重ねた時系列構成を、実測が出そろった時点で体系構成に整理し直しました。数値はすべて全日確定値に更新しています。速報時の経緯や生データは、リポジトリの `docs/verification-2026-07-04.md` / `docs/verification-2026-07-05.md` に残してあります。\n\n## 概要\n\n",
+    "author": "House-lovers7",
+    "publishedAt": "2026-07-05T07:18:56.000Z",
+    "fetchedAt": "2026-07-05T08:48:16.626Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
       "AI",
-      "ソフトウェア設計",
-      "生成AI",
+      "Cache",
+      "コスト削減",
       "LLM",
-      "AIエージェント"
+      "Fable"
     ]
   },
   {
-    "id": "qiita-c6adb0f5f73404497264",
-    "title": "NVIDIAを1枚も使わず訓練した1.6兆パラメータのLongCat-2.0",
-    "url": "https://qiita.com/okssusucha/items/c6adb0f5f73404497264",
-    "content": "OpenRouterの利用ランキングを2か月ほど、正体不明の「Owl Alpha」というモデルが上位で走り続けていた。エージェント系のコーディング用途で妙に評判がよく、しかしどこの誰が出しているのかは伏せられたまま。その中身が6月末に明かされた。中国の生活サービス大手Meituanが公開した **LongCat-2.0** である。\n\n食事デリバリーの会社がなぜ1.6兆パラメータの巨大言語モデルを",
-    "author": "okssusucha",
-    "publishedAt": "2026-07-05T00:09:06.000Z",
-    "fetchedAt": "2026-07-05T03:56:31.320Z",
+    "id": "qiita-8852e2293353fc13e812",
+    "title": "LLMの基礎をまとめていこう",
+    "url": "https://qiita.com/viuk/items/8852e2293353fc13e812",
+    "content": "## はじめに\n\n最近、ChatGPT、Claude、Gemini、ローカルLLMなど、さまざまな生成AIが使われるようになりました。\n\nその中心にある技術が **LLM** です。\n\nLLMは **Large Language Model** の略で、日本語では **大規模言語モデル** と呼ばれます。\n\nこの記事では、LLMについて以下の内容を整理します。\n\n* LLMとは何か\n* LLMが文",
+    "author": "viuk",
+    "publishedAt": "2026-07-05T06:51:26.000Z",
+    "fetchedAt": "2026-07-05T08:48:16.626Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
-      "OpenSource",
       "AI",
-      "LLM",
-      "MoE",
-      "SGLang"
+      "rag",
+      "Transformer",
+      "ChatGPT",
+      "LLM"
+    ]
+  },
+  {
+    "id": "qiita-6c6711e60c8c97dcf96e",
+    "title": "音声対話AIをコマンド1つで動かすHugging Face speech-to-speech",
+    "url": "https://qiita.com/okssusucha/items/6c6711e60c8c97dcf96e",
+    "content": "音声で話しかけて返事が返るまでの数百ミリ秒。この「間(ま)」がほんの少し伸びるだけで、対話AIは途端に機械と喋っている感触になる。逆にここが詰まると、会話は不思議と生き物めいてくる。Hugging FaceとCerebrasが7月1日に公開した [`speech-to-speech`](https://github.com/huggingface/speech-to-speech) は、その間を実",
+    "author": "okssusucha",
+    "publishedAt": "2026-07-05T04:36:29.000Z",
+    "fetchedAt": "2026-07-05T08:48:16.626Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "音声認識",
+      "OSS",
+      "huggingface",
+      "LLM"
+    ]
+  },
+  {
+    "id": "qiita-fc4743e4a2fc864acc97",
+    "title": "IndexNowをNodeスクリプト1本で実装する ― 記事公開を検索エンジンに即時通知（ChatGPT検索対策にも）",
+    "url": "https://qiita.com/TOSHIMITSU_MIYACHI/items/fc4743e4a2fc864acc97",
+    "content": "IndexNowは、URLの追加・更新を検索エンジンに即時通知できるプロトコルです。BingやYandexなどが対応しています。新規ドメインだとクロール頻度が低く、記事を公開してもなかなか見つけてもらえないので、公開フローに組み込む価値があります。\n\nもう1つの動機は**ChatGPT検索**です。ChatGPTの検索はBingのインデックスを使うため、Bingに早く正しく載ることはAI検索経由の",
+    "author": "TOSHIMITSU_MIYACHI",
+    "publishedAt": "2026-07-04T23:09:30.000Z",
+    "fetchedAt": "2026-07-05T08:48:16.112Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Node.js",
+      "bing",
+      "SEO",
+      "ChatGPT",
+      "IndexNow"
+    ]
+  },
+  {
+    "id": "qiita-fe742c72d15203289fef",
+    "title": "Nvidiaに挑むEtched(推論専用ASIC)とTenstorrent(汎用RISC-V):新興2社の思想の違いを整理",
+    "url": "https://qiita.com/quotidia/items/fe742c72d15203289fef",
+    "content": "> 本記事は筆者が運営する [AI Quotidia](https://ai.quotidia.jp?utm_source=qiita&utm_medium=referral) の海外ニュース解説記事です。\n\n<strong>「AIチップの最大手Nvidiaに、新興企業が挑む」というニュースは、もう珍しくありません。</strong>\n\n完全版は[こちら](https://ai.quotidia.",
+    "author": "quotidia",
+    "publishedAt": "2026-07-04T21:01:42.000Z",
+    "fetchedAt": "2026-07-05T08:48:16.112Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "半導体",
+      "生成AI",
+      "ChatGPT",
+      "LLM"
     ]
   },
   {
@@ -312,7 +366,7 @@
     "content": "# GPU付きPCの納品を待つ間に、CPUでできることを全部やってみた\n\n![多数の二足歩行を同時進化させている様子](https://raw.githubusercontent.com/furuse-kazufumi/fullsense/main/docs/articles/assets/qiita_48/multiwalker_humanoid_x24.gif)\n\n> RTX 5090 付きの",
     "author": "furuse-kazufumi",
     "publishedAt": "2026-07-04T22:12:38.000Z",
-    "fetchedAt": "2026-07-05T03:56:31.320Z",
+    "fetchedAt": "2026-07-05T08:48:15.659Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -330,7 +384,7 @@
     "content": "投機的デコード(speculative decoding)は、この2年ですっかり定番の高速化テクになった。小さな「ドラフトモデル」に先の数トークンを予想させ、本命の大きなモデルにまとめて答え合わせさせる。当たっていた分だけ一気に進むので、出力品質を一切変えずに生成が速くなる。理屈はきれいだ。ところが手元で回すと、期待したほど速くならない場面が多い。消費者向けGPUやMoE構成では「速度がほぼ変わら",
     "author": "okssusucha",
     "publishedAt": "2026-07-04T12:05:31.000Z",
-    "fetchedAt": "2026-07-05T03:56:29.668Z",
+    "fetchedAt": "2026-07-05T08:48:15.659Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -348,7 +402,7 @@
     "content": "長時間動くAIエージェントを一度でも運用したことがあれば、この壁にぶつかっているはずだ。ツール呼び出しと思考ログが延々と積み上がり、やがてコンテキストウィンドウが溢れる。数十ステップ前に一度だけ見たディレクトリ一覧や、とっくに解決済みのサブ課題のデバッグ出力が、いつまでも文脈に居座って場所を食う。\n\n現場での定番の対処は「要約(コンパクション)」だ。Claude Codeの自動コンパクションのよう",
     "author": "okssusucha",
     "publishedAt": "2026-07-04T00:31:08.000Z",
-    "fetchedAt": "2026-07-05T03:56:29.668Z",
+    "fetchedAt": "2026-07-05T08:48:15.659Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -359,31 +413,13 @@
     ]
   },
   {
-    "id": "qiita-8fafc5cc522b5eb655da",
-    "title": "このプロンプトをAIエージェントに貼り付けて、Kaggleのベースラインを作ろう！",
-    "url": "https://qiita.com/Isaka-code/items/8fafc5cc522b5eb655da",
-    "content": "## はじめに\n\n3年ほど前に、「[Kaggleのハードルを下げたい！](https://qiita.com/Isaka-code/items/3935cdb2a0bda331e07c)」という記事を執筆しました。あの頃から時は流れ、強力なAIエージェント（Claude Code、Codex、Cursorなど）の普及によって、Kaggleに取り組む最初のステップは劇的に様変わりしています。\n\n環境",
-    "author": "Isaka-code",
-    "publishedAt": "2026-07-03T10:20:29.000Z",
-    "fetchedAt": "2026-07-05T03:56:29.668Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "機械学習",
-      "Kaggle",
-      "codex",
-      "AIエージェント",
-      "ClaudeCode"
-    ]
-  },
-  {
     "id": "qiita-e0c0d5829eaafd2b949a",
     "title": "過学習は「特徴量を減らせば直る」——それ、嘘でした",
     "url": "https://qiita.com/Morimiso_pyt/items/e0c0d5829eaafd2b949a",
     "content": "> この記事は Zenn に投稿したものの再掲です。初出: [過学習は「特徴量を減らせば直る」——それ、嘘でした](https://zenn.dev/morimiso/articles/d811bd6cd5b11c)\n>\n> 系列トレードの検証で踏む罠を扱う連載の第4回（山場）です。第1回（[未来参照バグ](https://qiita.com/Morimiso_py/items/f5f607f50",
     "author": "Morimiso_pyt",
     "publishedAt": "2026-07-04T03:00:45.000Z",
-    "fetchedAt": "2026-07-05T03:56:29.668Z",
+    "fetchedAt": "2026-07-05T08:48:15.659Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -395,49 +431,13 @@
     ]
   },
   {
-    "id": "qiita-c636d08cb4e91bc9d6e9",
-    "title": "最急降下法を用いたサポートベクターマシーン（SVM）による2値分類について",
-    "url": "https://qiita.com/arairuca/items/c636d08cb4e91bc9d6e9",
-    "content": "# はじめに\nサポートベクターマシーン（SVM）は、分類問題で使用される。ニューラルネットワークと比較すると単純なアルゴリズムな上に、かなりの精度が得られる。しかし、アルゴリズム上、データの標準化が必須となる。そこで、今回は、最急降下法を用いたSVMにより2値分類を行う。\n\n![SVMによる2値分類.png](https://qiita-image-store.s3.ap-northeast-1.",
-    "author": "arairuca",
-    "publishedAt": "2026-07-03T21:44:07.000Z",
-    "fetchedAt": "2026-07-05T03:56:29.668Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "機械学習",
-      "数学",
-      "統計学",
-      "大学数学"
-    ]
-  },
-  {
-    "id": "qiita-0a5d06e68398bb7182ef",
-    "title": "【書評】 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition",
-    "url": "https://qiita.com/io0323/items/0a5d06e68398bb7182ef",
-    "content": "## はじめに\n\n本書は、機械学習の基礎概念から深層学習の実装まで、Aurélien Gérón氏が体系的にまとめた実践書です。\nscikit-learn・Keras・TensorFlowという業界標準ツールを軸に、理論と実装の両輪で学べる構成になっています。\n第I部でクラシックな機械学習、第II部でニューラルネットワーク・深層学習を扱います。\n\n---\n\n## 第I部：機械学習の基礎\n\n### ",
-    "author": "io0323",
-    "publishedAt": "2026-07-03T15:15:20.000Z",
-    "fetchedAt": "2026-07-05T03:56:29.668Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "機械学習",
-      "scikit-learn",
-      "Keras",
-      "TensorFlow"
-    ]
-  },
-  {
     "id": "qiita-39fd579660ac1a2138c0",
     "title": "dera AI Weekly Vol.31 — 2026/5/18",
     "url": "https://qiita.com/dera_news_/items/39fd579660ac1a2138c0",
     "content": "**今週のAI業界を一言で表すなら？**\n\nAnthropicが年換算売上300億ドルという驚異的な80倍成長を達成しAIエージェントの企業導入が現実のものとなりました。\n\nこれは主にAIコーディングツール「Claude Code」の急速な普及によるもので、わずか3年足らずでSalesforceが20年かけた売上水準に迫る勢いを見せています。\n\n---\n\n## 📊 今週知っておくべきこと\n\n今週",
     "author": "dera_news_",
     "publishedAt": "2026-07-04T05:00:41.000Z",
-    "fetchedAt": "2026-07-05T03:56:29.668Z",
+    "fetchedAt": "2026-07-05T08:48:15.659Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -453,7 +453,7 @@
     "content": "# 時系列データの異常値検知を5ステップで考えてみる\n## 〜ロバスト統計から予測残差・AI拡張まで〜\n\n## はじめに\n\n時系列データの異常値検出は、センサー監視、防災、水文データ、設備保全、IoT、ログ監視など、さまざまな分野で重要になります。\n\n従来は、\n\n- 平均値から大きく外れた値\n- 標準偏差で見た外れ値\n- 上限値・下限値を超えた値\n\nを検出する考え方が中心でした。\n\nしかし、現在の",
     "author": "rino_yume",
     "publishedAt": "2026-07-05T00:11:42.000Z",
-    "fetchedAt": "2026-07-05T03:56:29.668Z",
+    "fetchedAt": "2026-07-05T08:48:15.659Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -471,7 +471,7 @@
     "content": "## 本書の概要\n\n「ディープラーニングを始める前に」というサブタイトルが示すとおり、本書はAIの基礎技術を幅広くカバーした一冊です。教師あり学習・教師なし学習・推薦システム・論理プログラミング・ヒューリスティック探索・遺伝的アルゴリズム・NLP・音声認識・物体検出・強化学習・ニューラルネットワーク・畳み込みニューラルネットまで、15のテーマを Python と scikit-learn を中心と",
     "author": "io0323",
     "publishedAt": "2026-07-04T15:01:35.000Z",
-    "fetchedAt": "2026-07-05T03:56:29.668Z",
+    "fetchedAt": "2026-07-05T08:48:15.659Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -483,13 +483,381 @@
     ]
   },
   {
+    "id": "qiita-913354641395182dff1b",
+    "title": "dera AI Weekly Vol.32 — 2026/5/25",
+    "url": "https://qiita.com/dera_news_/items/913354641395182dff1b",
+    "content": "2026-05-25号\n\n**今週のAI業界を一言で表すなら？**\nAI業界は人材の流動とエージェント技術の進化が加速し、競争が激化しています。\nOpenAI共同創業者アンドレイ・カルパシー氏のAnthropic移籍は、この動きを象徴する出来事です。Google I/Oでの新発表や大手企業の計算資源投資も相次ぎ、AIの「エージェント時代」が本格化しています。\n\n---\n\n## 📊 今週知っておく",
+    "author": "dera_news_",
+    "publishedAt": "2026-07-05T05:01:30.000Z",
+    "fetchedAt": "2026-07-05T08:48:15.659Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "機械学習",
+      "AI",
+      "生成AI"
+    ]
+  },
+  {
+    "id": "qiita-36534c4a04557aa62fbb",
+    "title": "圏論はラングランズプログラムの基盤たりうるか？ ── 集合論から関数的圏論世界観へ、ブルバキ・シリーズの停止が示すもの",
+    "url": "https://qiita.com/etale_cohomology/items/36534c4a04557aa62fbb",
+    "content": "![thumbnail_pic.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4375223/49e7fc77-8603-4902-a297-84c123b8a58e.jpeg)\n\n\n**TL;DR（３行要約）** :pencil:\n- ラングランズ・プログラムとは、**数論・幾何・物理という別々の世界を翻訳しあう",
+    "author": "etale_cohomology",
+    "publishedAt": "2026-07-05T04:29:10.000Z",
+    "fetchedAt": "2026-07-05T08:48:15.659Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "圏論",
+      "機械学習",
+      "数学",
+      "AI"
+    ]
+  },
+  {
+    "id": "qiita-62882afd11565d3f1a02",
+    "title": "AIの知見で人間の苦悩を考える",
+    "url": "https://qiita.com/nakamura795/items/62882afd11565d3f1a02",
+    "content": "## 動機\n\nAI・機械学習の主要な分野は、脳の働きを模して実現されている。\nここでは逆に、機械学習の知見を元にして人間の苦悩を理解していく。\n\n![suffer2.avif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/184338/6b82e96d-8c57-476a-a867-bb63d99965fc.avif)\n\n",
+    "author": "nakamura795",
+    "publishedAt": "2026-07-05T07:50:21.000Z",
+    "fetchedAt": "2026-07-05T08:48:15.659Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "機械学習",
+      "複雑系",
+      "哲学"
+    ]
+  },
+  {
+    "id": "qiita-e60b2a125bb176b06a8b",
+    "title": "Claude Code、その使い方はもったいない ― 実践TIPS集（随時更新）",
+    "url": "https://qiita.com/homhom44/items/e60b2a125bb176b06a8b",
+    "content": "Anthropic の CLI コーディングエージェント **Claude Code** の実用 TIPS をまとめた索引だ。\n各 TIPS の本文は PaPoo の記事に置き、このページからリンクしている（随時追加・更新）。\n\nこの記事は各 TIPS の要点だけを並べた索引だ。手順・依頼文の例・注意点まで入った完全版は PaPoo の記事にある（原文＝カノニカル）。\n\n## Claude Cod",
+    "author": "homhom44",
+    "publishedAt": "2026-07-05T07:41:53.000Z",
+    "fetchedAt": "2026-07-05T08:48:14.737Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "CLI",
+      "AI",
+      "生産性",
+      "Claude",
+      "ClaudeCode"
+    ]
+  },
+  {
+    "id": "qiita-a6bf13f9ca981b2ca5f3",
+    "title": "Claude Codeの記憶設計 — CLAUDE.md・rules・自動メモリの置き場所を早見表で決める",
+    "url": "https://qiita.com/ujunja/items/a6bf13f9ca981b2ca5f3",
+    "content": "# Claude Codeの記憶設計 — CLAUDE.md・rules・自動メモリの置き場所を早見表で決める\n\n> **対象読者**: とりあえず効く CLAUDE.md を1つ作りたい入門者／スコープ・import・自動メモリまで含めた「メモリ設計」を整理したい開発者\n> **前提知識**: Claude Code がインストール済みであること。git の基本操作（コミット）に触れたことがある",
+    "author": "ujunja",
+    "publishedAt": "2026-07-05T06:53:36.000Z",
+    "fetchedAt": "2026-07-05T08:48:14.737Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "開発効率化",
+      "生成AI",
+      "Claude",
+      "ClaudeCode"
+    ]
+  },
+  {
+    "id": "qiita-8fcd7cb4f556cdff5cdb",
+    "title": "AIでe-Stat分析を100倍速くして気づいた。データ分析は\"安泰な仕事\"ではなかった──後から知ったが業界も同じ結論だった",
+    "url": "https://qiita.com/d94231/items/8fcd7cb4f556cdff5cdb",
+    "content": "\n## はじめに：私は「データ分析こそ安全地帯」だと本気で信じていた\n\n「AIでホワイトカラーの仕事がなくなる」\n\nこの手の話は、もうネットに溢れている。不安を煽るとPVが伸びるから、というのもあるだろう。正直、私も最初は他人事として読んでいた。\n\nなぜなら、こう思っていたからだ。\n\n> IT業界がどれだけAI化しても、**データ分析だけは生き残る**。\n\nデータを読み、仮説を立て、意味を取り出す",
+    "author": "d94231",
+    "publishedAt": "2026-07-05T06:30:30.000Z",
+    "fetchedAt": "2026-07-05T08:48:14.737Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "データ分析",
+      "AI",
+      "統計学",
+      "キャリア",
+      "生成AI"
+    ]
+  },
+  {
+    "id": "qiita-22ebff4d92fb934aba9e",
+    "title": "『縁の下のUIデザイン』を読んで404ページと向き合った話",
+    "url": "https://qiita.com/vincentmango_wen/items/22ebff4d92fb934aba9e",
+    "content": "![cover.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4280390/13eb8f63-07a6-4350-9255-f091f1bdd27d.png)\n『縁の下のUIデザイン』という本を読んだ。UIの細部だけを集めた実践TIPS集で、その中に「待ち時間のデザイン」を扱った章がある。終わり時間を示すか示さな",
+    "author": "vincentmango_wen",
+    "publishedAt": "2026-07-05T06:17:46.000Z",
+    "fetchedAt": "2026-07-05T08:48:14.737Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "フロントエンド",
+      "UIデザイン",
+      "アクセシビリティ",
+      "ClaudeCode"
+    ]
+  },
+  {
+    "id": "zenn-609978",
+    "title": "電通大を辞めて医学部を再受験した話",
+    "url": "https://zenn.dev/itoushiyou/articles/d713eb1e463db4",
+    "content": "1306文字",
+    "author": "kohs2021",
+    "publishedAt": "2026-07-05T08:47:15.245Z",
+    "fetchedAt": "2026-07-05T08:48:13.646Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-543957",
+    "title": "Next.js 外部データの扱い方(取得方法)について理解する",
+    "url": "https://zenn.dev/ycode/articles/b28d11cfe05204",
+    "content": "25987文字",
+    "author": "y",
+    "publishedAt": "2026-07-05T08:46:05.119Z",
+    "fetchedAt": "2026-07-05T08:48:13.646Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-609942",
+    "title": "丸ノ内サディスティック進行のギターをPythonコードで再現",
+    "url": "https://zenn.dev/fibujrsl/articles/fddd6f6e58bd50",
+    "content": "33761文字",
+    "author": "名前決めてね",
+    "publishedAt": "2026-07-05T08:40:06.642Z",
+    "fetchedAt": "2026-07-05T08:48:13.646Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-609967",
+    "title": "買い物リスト・メモアプリ「Lisble リスブル 」各デバイスのインストール方法",
+    "url": "https://zenn.dev/arieight/articles/8608e24dae8abb",
+    "content": "2461文字",
+    "author": "Arieight",
+    "publishedAt": "2026-07-05T08:39:21.374Z",
+    "fetchedAt": "2026-07-05T08:48:13.646Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-609980",
+    "title": "harnessを整備しすぎたら、AIも俺もサボりだした話",
+    "url": "https://zenn.dev/hrmtz/articles/over-provisioned-harness-slack",
+    "content": "4227文字",
+    "author": "hrmtz",
+    "publishedAt": "2026-07-05T08:33:19.650Z",
+    "fetchedAt": "2026-07-05T08:48:13.646Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-609977",
+    "title": "# Fable 5を分析したら、定額のOpusでもかなり再現できた話",
+    "url": "https://zenn.dev/udowan/articles/d0056e01ff6986",
+    "content": "9657文字",
+    "author": "udowan / 勝又",
+    "publishedAt": "2026-07-05T08:26:19.195Z",
+    "fetchedAt": "2026-07-05T08:48:13.646Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-609949",
+    "title": "Claude Code の嘘の完了報告への対処法—日本語環境の文字化けとDropbox運用環境の落とし穴",
+    "url": "https://zenn.dev/tier1kun/articles/d2bad905349903",
+    "content": "5314文字",
+    "author": "てぃあわん🐶",
+    "publishedAt": "2026-07-05T08:16:58.225Z",
+    "fetchedAt": "2026-07-05T08:48:13.646Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-609966",
+    "title": "【ゲーム開発の本質：AI時代の美しい設計】",
+    "url": "https://zenn.dev/andu/articles/b132d3f69b4d57",
+    "content": "15063文字",
+    "author": "＆U",
+    "publishedAt": "2026-07-05T08:13:39.741Z",
+    "fetchedAt": "2026-07-05T08:48:13.646Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-608963",
+    "title": "【IROS2022論文解説】グラフ理論に基づく3D地図・Visualタグの自動対応付け",
+    "url": "https://zenn.dev/koide3/articles/iros2022_koide",
+    "content": "2689文字",
+    "author": "koide3",
+    "publishedAt": "2026-07-05T08:08:21.028Z",
+    "fetchedAt": "2026-07-05T08:48:13.646Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-609954",
+    "title": "Gemma 4 12B UnifiedをCore ML化して、低メモリiPhoneでマルチモーダル経路だけ通す",
+    "url": "https://zenn.dev/lube8163/articles/89d24e671d1eaa",
+    "content": "7117文字",
+    "author": "アジサシ",
+    "publishedAt": "2026-07-05T08:05:40.451Z",
+    "fetchedAt": "2026-07-05T08:48:13.646Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n8f19aad1369f",
+    "title": "LTX-2.3でどこまでSeedance2.0に迫れる？",
+    "url": "https://note.com/yuki_ii/n/n8f19aad1369f",
+    "content": "ComfyUIの課金ノードでSeedance2.0を使ってみてたら、$10課金した2,110クレジットはあっという間に溶けました。続きをみる",
+    "author": "Yuki",
+    "publishedAt": "2026-05-31T10:21:00.000Z",
+    "fetchedAt": "2026-07-05T03:56:21.821Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n26f9ee39345a",
+    "title": "PCを点けたら、受付役が勝手に店を開けていた ― 手動起動をやめて\"完全常設\"にした",
+    "url": "https://note.com/yaoyoroztech/n/n26f9ee39345a",
+    "content": "こんにちは！YaroTechです。木曜日です。継続投稿352日目になりました。続きをみる",
+    "author": "YaroTech",
+    "publishedAt": "2026-07-02T10:55:29.000Z",
+    "fetchedAt": "2026-07-05T03:56:20.229Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-neccb293a0236",
+    "title": "Nano Banana 2 Lite と Gemini Omni Flash の概要",
+    "url": "https://note.com/npaka/n/neccb293a0236",
+    "content": "以下の記事が面白かったので、簡単にまとめました。・Start building with Nano Banana 2 Lite and Gemini Omni Flash\n続きをみる",
+    "author": "npaka",
+    "publishedAt": "2026-06-30T21:42:25.000Z",
+    "fetchedAt": "2026-07-05T03:56:19.388Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "qiita-b51eb5435825609b0274",
+    "title": "AIにはコードではなくデータを渡せ——71%トークン削減の実測と通用しない6つの条件\"",
+    "url": "https://qiita.com/TheGateBreaker/items/b51eb5435825609b0274",
+    "content": "## TL;DR: \nAIワーカーが毎回同じボイラープレートコードを書き直しているなら、得ているのは知能ではなく繰り返し料金だ。描画ロジックをツールに固定し、AIにはJSONコンフィグだけを書かせることで、図1枚あたりのトークン消費が71%削減された（Anthropic APIの`usage`フィールドで実測）。ただしこの数字は狭い条件下のものだ——繰り返し・低推論・浅いスキーマのタスクに限られ、",
+    "author": "TheGateBreaker",
+    "publishedAt": "2026-07-05T03:13:56.000Z",
+    "fetchedAt": "2026-07-05T03:56:18.608Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "ソフトウェア設計",
+      "生成AI",
+      "LLM",
+      "AIエージェント"
+    ]
+  },
+  {
+    "id": "qiita-c6adb0f5f73404497264",
+    "title": "NVIDIAを1枚も使わず訓練した1.6兆パラメータのLongCat-2.0",
+    "url": "https://qiita.com/okssusucha/items/c6adb0f5f73404497264",
+    "content": "OpenRouterの利用ランキングを2か月ほど、正体不明の「Owl Alpha」というモデルが上位で走り続けていた。エージェント系のコーディング用途で妙に評判がよく、しかしどこの誰が出しているのかは伏せられたまま。その中身が6月末に明かされた。中国の生活サービス大手Meituanが公開した **LongCat-2.0** である。\n\n食事デリバリーの会社がなぜ1.6兆パラメータの巨大言語モデルを",
+    "author": "okssusucha",
+    "publishedAt": "2026-07-05T00:09:06.000Z",
+    "fetchedAt": "2026-07-05T03:56:18.608Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "OpenSource",
+      "AI",
+      "LLM",
+      "MoE",
+      "SGLang"
+    ]
+  },
+  {
+    "id": "qiita-8fafc5cc522b5eb655da",
+    "title": "このプロンプトをAIエージェントに貼り付けて、Kaggleのベースラインを作ろう！",
+    "url": "https://qiita.com/Isaka-code/items/8fafc5cc522b5eb655da",
+    "content": "## はじめに\n\n3年ほど前に、「[Kaggleのハードルを下げたい！](https://qiita.com/Isaka-code/items/3935cdb2a0bda331e07c)」という記事を執筆しました。あの頃から時は流れ、強力なAIエージェント（Claude Code、Codex、Cursorなど）の普及によって、Kaggleに取り組む最初のステップは劇的に様変わりしています。\n\n環境",
+    "author": "Isaka-code",
+    "publishedAt": "2026-07-03T10:20:29.000Z",
+    "fetchedAt": "2026-07-05T03:56:17.374Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "機械学習",
+      "Kaggle",
+      "codex",
+      "AIエージェント",
+      "ClaudeCode"
+    ]
+  },
+  {
+    "id": "qiita-c636d08cb4e91bc9d6e9",
+    "title": "最急降下法を用いたサポートベクターマシーン（SVM）による2値分類について",
+    "url": "https://qiita.com/arairuca/items/c636d08cb4e91bc9d6e9",
+    "content": "# はじめに\nサポートベクターマシーン（SVM）は、分類問題で使用される。ニューラルネットワークと比較すると単純なアルゴリズムな上に、かなりの精度が得られる。しかし、アルゴリズム上、データの標準化が必須となる。そこで、今回は、最急降下法を用いたSVMにより2値分類を行う。\n\n![SVMによる2値分類.png](https://qiita-image-store.s3.ap-northeast-1.",
+    "author": "arairuca",
+    "publishedAt": "2026-07-03T21:44:07.000Z",
+    "fetchedAt": "2026-07-05T03:56:17.374Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "機械学習",
+      "数学",
+      "統計学",
+      "大学数学"
+    ]
+  },
+  {
+    "id": "qiita-0a5d06e68398bb7182ef",
+    "title": "【書評】 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition",
+    "url": "https://qiita.com/io0323/items/0a5d06e68398bb7182ef",
+    "content": "## はじめに\n\n本書は、機械学習の基礎概念から深層学習の実装まで、Aurélien Gérón氏が体系的にまとめた実践書です。\nscikit-learn・Keras・TensorFlowという業界標準ツールを軸に、理論と実装の両輪で学べる構成になっています。\n第I部でクラシックな機械学習、第II部でニューラルネットワーク・深層学習を扱います。\n\n---\n\n## 第I部：機械学習の基礎\n\n### ",
+    "author": "io0323",
+    "publishedAt": "2026-07-03T15:15:20.000Z",
+    "fetchedAt": "2026-07-05T03:56:17.374Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "機械学習",
+      "scikit-learn",
+      "Keras",
+      "TensorFlow"
+    ]
+  },
+  {
     "id": "qiita-14beeeed88f965cd25b5",
     "title": "2026/07/05 今日のQiitaトレンド記事をポッドキャストで聴こう！",
     "url": "https://qiita.com/ennagara128/items/14beeeed88f965cd25b5",
     "content": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n\n↓こちらから\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/EGFohqwGsaQ\" frameb",
     "author": "ennagara128",
     "publishedAt": "2026-07-05T03:08:41.000Z",
-    "fetchedAt": "2026-07-05T03:56:29.106Z",
+    "fetchedAt": "2026-07-05T03:56:16.757Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -507,7 +875,7 @@
     "content": "最近の coding agent は、外部 repo の調査から setup までかなり自然にやってくれます。\n\nREADME を読んで、依存関係を入れて、dev server を起動して、エラーが出たら直す。個人開発だと、ここを任せられるだけでかなり楽です。\n\nでも、未知の repo でいきなり `npm install` させるのは、ちょっと雑だと思っています。\n\n危ないのは `rm -rf ",
     "author": "heftykoo",
     "publishedAt": "2026-07-05T02:19:04.000Z",
-    "fetchedAt": "2026-07-05T03:56:29.106Z",
+    "fetchedAt": "2026-07-05T03:56:16.757Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -525,7 +893,7 @@
     "content": "# M-PrologにおけるSCBM方式コンパイラ\n\nM-Prologは、私が開発しているProlog処理系 N-Prolog の後継となる処理系です。近年、このM-Prologのコンパイラを設計・実装してきましたが、ようやく基本方式がまとまり、ある程度の成果が得られました。\n\n本稿では、そのコンパイラ方式である **SCBM (Sasagawa & Chat Backtracking Mecha",
     "author": "sym_num",
     "publishedAt": "2026-07-05T01:55:00.000Z",
-    "fetchedAt": "2026-07-05T03:56:29.106Z",
+    "fetchedAt": "2026-07-05T03:56:16.757Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -540,7 +908,7 @@
     "content": "![banner107.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4453197/3f99371d-e52d-4b3f-af75-ed9dbede4a30.png)\n\nClaude Codeを使い始めると、必ず出てくるのが\n\n「MCPサーバーって何を入れればいいの？」\n\nという疑問です。\n\nMCP（Model ",
     "author": "LunaLink",
     "publishedAt": "2026-07-05T01:51:57.000Z",
-    "fetchedAt": "2026-07-05T03:56:29.106Z",
+    "fetchedAt": "2026-07-05T03:56:16.757Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -558,7 +926,7 @@
     "content": "# はじめに\n\nみなさん、Claude Code の `/loop` はもう試してみましたか？\n\n`/loop` は「指定したプロンプトやスラッシュコマンドを、一定間隔で繰り返し実行してくれる」機能です。デプロイの完了監視や PR のステータスチェックのような繰り返し作業を Claude にまかせられるもので、Claude Code v2.1.72 以降で利用できます。詳しい仕様は[公式ドキュメン",
     "author": "miwashutaro0611",
     "publishedAt": "2026-07-05T01:25:36.000Z",
-    "fetchedAt": "2026-07-05T03:56:29.106Z",
+    "fetchedAt": "2026-07-05T03:56:16.757Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -574,7 +942,7 @@
     "content": "Last updated: 2026-06-18\n\n---\n\n2024年の9月。クライアントから「動画制作の見積もりをください」というメールを受け取ってから、10日間何もできなかった。\n\n返信ボタンは見える。見積もり金額も計算済みだ。でも指が動かない。「高すぎると思われたらどうしよう」「連絡が途絶えたら」「値下げ交渉で自分の時給が下がったら」——頭の中で無限ループが始まる。朝起きてメールを見る。昼",
     "author": "th19930828",
     "publishedAt": "2026-07-05T01:00:07.000Z",
-    "fetchedAt": "2026-07-05T03:56:29.106Z",
+    "fetchedAt": "2026-07-05T03:56:16.757Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -590,7 +958,7 @@
     "content": "![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3932781/a2ea749c-2e62-4ebf-a23e-7ce140c6a43a.png)\n\n\n## 初めに \n\n最近、HuggingFace Space で公開されているデモを触る機会がかなり増えました。ブラウザで試せるのは便利なのですが、Ze",
     "author": "engchina",
     "publishedAt": "2026-07-05T00:05:44.000Z",
-    "fetchedAt": "2026-07-05T03:56:29.106Z",
+    "fetchedAt": "2026-07-05T03:56:16.757Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -608,7 +976,7 @@
     "content": "2256文字",
     "author": "アクア",
     "publishedAt": "2026-07-05T03:42:39.154Z",
-    "fetchedAt": "2026-07-05T03:56:28.527Z",
+    "fetchedAt": "2026-07-05T03:56:15.575Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -620,7 +988,7 @@
     "content": "16806文字",
     "author": "Koukyosyumei",
     "publishedAt": "2026-07-05T03:37:52.340Z",
-    "fetchedAt": "2026-07-05T03:56:28.527Z",
+    "fetchedAt": "2026-07-05T03:56:15.575Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -632,7 +1000,7 @@
     "content": "3434文字",
     "author": "アルパカ芋けんぴ",
     "publishedAt": "2026-07-05T03:33:44.318Z",
-    "fetchedAt": "2026-07-05T03:56:28.527Z",
+    "fetchedAt": "2026-07-05T03:56:15.575Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -644,7 +1012,7 @@
     "content": "2402文字",
     "author": "maehashi",
     "publishedAt": "2026-07-05T03:27:52.988Z",
-    "fetchedAt": "2026-07-05T03:56:28.527Z",
+    "fetchedAt": "2026-07-05T03:56:15.575Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -656,7 +1024,7 @@
     "content": "3516文字",
     "author": "樹データ",
     "publishedAt": "2026-07-05T03:26:02.222Z",
-    "fetchedAt": "2026-07-05T03:56:28.527Z",
+    "fetchedAt": "2026-07-05T03:56:15.575Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -668,7 +1036,7 @@
     "content": "5862文字",
     "author": "さだかね | Symbol / NEM",
     "publishedAt": "2026-07-05T03:25:06.596Z",
-    "fetchedAt": "2026-07-05T03:56:28.527Z",
+    "fetchedAt": "2026-07-05T03:56:15.575Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -680,7 +1048,7 @@
     "content": "11368文字",
     "author": "ぱくぱく",
     "publishedAt": "2026-07-05T03:24:33.950Z",
-    "fetchedAt": "2026-07-05T03:56:28.527Z",
+    "fetchedAt": "2026-07-05T03:56:15.575Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -692,7 +1060,7 @@
     "content": "5637文字",
     "author": "fukuyan",
     "publishedAt": "2026-07-05T03:16:39.858Z",
-    "fetchedAt": "2026-07-05T03:56:28.527Z",
+    "fetchedAt": "2026-07-05T03:56:15.575Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -704,7 +1072,7 @@
     "content": "5398文字",
     "author": "tatsumura",
     "publishedAt": "2026-07-05T03:11:08.060Z",
-    "fetchedAt": "2026-07-05T03:56:28.527Z",
+    "fetchedAt": "2026-07-05T03:56:15.575Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -716,7 +1084,7 @@
     "content": "8161文字",
     "author": "tatsumura",
     "publishedAt": "2026-07-05T03:11:07.562Z",
-    "fetchedAt": "2026-07-05T03:56:28.527Z",
+    "fetchedAt": "2026-07-05T03:56:15.575Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
