@@ -6,7 +6,7 @@
     "content": "こんにちは！ヒロです！あなたは、営業リストの整理や商談準備、提案後のメール作成に時間を取られていませんか。続きをみる",
     "author": "hiro_seki",
     "publishedAt": "2026-08-26T11:11:23.000Z",
-    "fetchedAt": "2026-08-28T10:45:54.852Z",
+    "fetchedAt": "2026-08-28T18:09:01.631Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -18,7 +18,7 @@
     "content": "こんにちは！ヒロです！Claude Codeで文章を作成したり、CSVを集計したりするだけでは、「思ったほど業務が自動化されない」と感じる方もいるでしょう。続きをみる",
     "author": "hiro_seki",
     "publishedAt": "2026-08-27T11:06:20.000Z",
-    "fetchedAt": "2026-08-28T10:45:54.852Z",
+    "fetchedAt": "2026-08-28T18:09:01.631Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -30,19 +30,7 @@
     "content": "こんにちは！ヒロです！「Microsoft AI資格にはどんな種類がある？」「AIエンジニア向けの資格はどれ？」「Copilotを仕事で使うなら何を取得すればいい？」続きをみる",
     "author": "hiro_seki",
     "publishedAt": "2026-08-28T09:56:10.000Z",
-    "fetchedAt": "2026-08-28T10:45:54.852Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-nb4ca77c78855",
-    "title": "noteのタグ選びに悩むあなたへ。検索から読まれるためのコツ",
-    "url": "https://note.com/monetize_tips/n/nb4ca77c78855",
-    "content": "せっかく書いた大切な記事。誰にも見つけてもらえないのは、少しさみしいですよね。「どんなハッシュタグを付ければいいんだろう？」と、投稿画面で手が止まってしまうこと、私にもよくありました。この記事でわかること・検索されやすくなるタグ選びの基本ルール・読者がついクリックしたくなるタグの組み合わせ方・今日から使える、記事ごとのタグ設定手順続きをみる",
-    "author": "monetize_tips",
-    "publishedAt": "2026-08-25T11:00:30.000Z",
-    "fetchedAt": "2026-08-28T10:45:54.143Z",
+    "fetchedAt": "2026-08-28T18:09:01.631Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -54,7 +42,7 @@
     "content": "「記事は書いたけれど、そのまま放置していませんか？」投稿が増えるたび、過去の作品はどんどん下へ流れていきます。読みたい記事を探すのが大変で、読者さんが離れてしまうのはもったいないこと。マガジンを使えば、あなたのnoteがもっと読みやすく、もっと親切な場所になりますよ。続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-08-26T11:00:31.000Z",
-    "fetchedAt": "2026-08-28T10:45:54.143Z",
+    "fetchedAt": "2026-08-28T18:09:00.839Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -66,7 +54,19 @@
     "content": "noteを書き始めて、少しずつ記事が溜まってきたとき。ふと「有料記事に挑戦してみたいけれど、どこからお金をもらえばいいんだろう？」と迷うことはありませんか。無料公開でいい内容と、お金をいただく内容の境界線。ここが分からずに悩んでしまうのは、あなたが読者に真摯に向き合っている証拠です。続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-08-27T11:00:26.000Z",
-    "fetchedAt": "2026-08-28T10:45:54.143Z",
+    "fetchedAt": "2026-08-28T18:09:00.839Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n3ea88c226100",
+    "title": "読み終わったあと、また戻ってきたくなるnoteの終わり方",
+    "url": "https://note.com/monetize_tips/n/n3ea88c226100",
+    "content": "せっかく最後まで記事を読んでもらったのに、最後に「はい、おわり」と投げ出していませんか。実は、記事の終わり方は読者との信頼関係を深める大切な場所。ここで工夫をするだけで、あなたのファンが増え、また次の記事を読みに来てくれる確率がグンと上がります。この記事でわかること・読者が最後に期待している「小さなギフト」の正体・読み終わったあとに迷わせない、次に選んでほしい記事への誘導法・今日から使える、読者の",
+    "author": "monetize_tips",
+    "publishedAt": "2026-08-28T11:00:32.000Z",
+    "fetchedAt": "2026-08-28T18:09:00.839Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -78,7 +78,7 @@
     "content": "MiniMaxから音楽生成も出たようですね。                                            続きをみる",
     "author": "Yuki",
     "publishedAt": "2026-08-16T06:33:39.000Z",
-    "fetchedAt": "2026-08-28T10:45:53.633Z",
+    "fetchedAt": "2026-08-28T18:09:00.032Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -90,7 +90,7 @@
     "content": "ComfyUIを0.33.1にアップデートしたら、MiniMax H3がOOMで落ちるようになってしまって、0.32.0に戻してます。うちだけだろうか。続きをみる",
     "author": "Yuki",
     "publishedAt": "2026-08-18T14:47:53.000Z",
-    "fetchedAt": "2026-08-28T10:45:53.633Z",
+    "fetchedAt": "2026-08-28T18:09:00.032Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -102,7 +102,7 @@
     "content": "MiniMax H3でいろいろ作って楽しんでいますが、低RAM環境ではいろいろ制約もあって、歯がゆいところでもあります。生成画質も0.4MPくらいがいいところです。続きをみる",
     "author": "Yuki",
     "publishedAt": "2026-08-22T02:36:58.000Z",
-    "fetchedAt": "2026-08-28T10:45:53.633Z",
+    "fetchedAt": "2026-08-28T18:09:00.032Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -114,7 +114,7 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-08-08T06:38:20.000Z",
-    "fetchedAt": "2026-08-28T10:45:53.072Z",
+    "fetchedAt": "2026-08-28T18:08:59.437Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -126,7 +126,7 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-08-15T02:32:58.000Z",
-    "fetchedAt": "2026-08-28T10:45:53.071Z",
+    "fetchedAt": "2026-08-28T18:08:59.437Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -138,7 +138,594 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-08-21T08:43:05.000Z",
-    "fetchedAt": "2026-08-28T10:45:53.071Z",
+    "fetchedAt": "2026-08-28T18:08:59.437Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n72a3bd244ea3",
+    "title": "27Bは夜勤に向いている ― 遅いローカルLLMの「夜間バッチ」に、何を頼むかを先に決めた",
+    "url": "https://note.com/yaoyoroztech/n/n72a3bd244ea3",
+    "content": "こんにちは！YaroTechです。先週、手元のノートPCで27B級（＝270億パラメータ級）のローカルLLMを2回測りました。結論はどちらも同じで、「日中の作業には置けない」。挨拶の返事に28秒かかるモデルを、打ち合わせの合間に呼び出す気にはなれません。続きをみる",
+    "author": "YaroTech",
+    "publishedAt": "2026-08-25T22:00:00.000Z",
+    "fetchedAt": "2026-08-28T18:08:58.880Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-nfecf88ee5d50",
+    "title": "TTFTって何？から始める夜間バッチ ― ローカルLLM実測の前日に、手順と用語を先にそろえた",
+    "url": "https://note.com/yaoyoroztech/n/nfecf88ee5d50",
+    "content": "こんにちは！YaroTechです。昨日の記事の最後に、「明日はメインPCで夜間バッチを一晩まわします」と書きました。先に正直なところを書くと、実測は明日に延ばします。今日はまとまった実行時間が取れませんでした。続きをみる",
+    "author": "YaroTech",
+    "publishedAt": "2026-08-27T14:36:42.000Z",
+    "fetchedAt": "2026-08-28T18:08:58.880Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n7633e5c19d3f",
+    "title": "今から、27Bを夜勤に出します ― ローカルLLM夜間バッチ検証、開始の合図だけ先に",
+    "url": "https://note.com/yaoyoroztech/n/n7633e5c19d3f",
+    "content": "こんにちは！YaroTechです。先にお断りしておきます。この記事は、検証開始の合図だけです。結果はまだ何もありません。数字は明日の記事で。続きをみる",
+    "author": "YaroTech",
+    "publishedAt": "2026-08-28T14:43:13.000Z",
+    "fetchedAt": "2026-08-28T18:08:58.880Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-nec1c1fb7000b",
+    "title": "ローカルLLM向けの NVIDIA GPU の選び方",
+    "url": "https://note.com/npaka/n/nec1c1fb7000b",
+    "content": "ローカルLLM向けの NVIDIA GPU の選び方をまとめました。続きをみる",
+    "author": "npaka",
+    "publishedAt": "2026-08-26T22:56:21.000Z",
+    "fetchedAt": "2026-08-28T18:08:58.002Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-ncd1fb2c1105e",
+    "title": "MHS (Model Hardware Standard) の概要",
+    "url": "https://note.com/npaka/n/ncd1fb2c1105e",
+    "content": "「MHS」(Model Hardware Standard) の概要 をまとめました。続きをみる",
+    "author": "npaka",
+    "publishedAt": "2026-08-27T22:25:46.000Z",
+    "fetchedAt": "2026-08-28T18:08:58.002Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n684c227ec7e4",
+    "title": "Project SuperDex の概要",
+    "url": "https://note.com/npaka/n/n684c227ec7e4",
+    "content": "「Project SuperDex」の概要をまとめました。続きをみる",
+    "author": "npaka",
+    "publishedAt": "2026-08-28T12:37:17.000Z",
+    "fetchedAt": "2026-08-28T18:08:58.002Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-nf0e7858caddf",
+    "title": "とっくりを割ったくまさんが、お魚だけ握りしめていた話",
+    "url": "https://note.com/kuzukumasan9/n/nf0e7858caddf",
+    "content": "「割っちゃった」くまさんがぽつりと言った。足元を見ると、白いかけらが床いっぱいに散らばっている。さっきまで何かの形をしていたものが、もう元に戻らない形になっていた。光が斜めに差し込んでいて、床がところどころ、きらきら光っている。こぼれた何かが、まだ乾かずに残っているらしい。                          \n割っちゃった pic.twitter.com/y8qXLFT4Iw— ク",
+    "author": "クズなくまさん",
+    "publishedAt": "2026-06-23T12:23:49.000Z",
+    "fetchedAt": "2026-08-28T18:08:57.190Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n57a37776dffa",
+    "title": "花畑で再会したくまさんと、GPSより先に信じる力の話",
+    "url": "https://note.com/kuzukumasan9/n/n57a37776dffa",
+    "content": "一枚のイラストから、始まった。木々の隙間から光が差し込む森を抜けた先に、白い花でいっぱいの原っぱが広がっている。小さなくまが、大きなくまに向かって小さな手を伸ばしている。「やっと会えたね」——短いその言葉に、二匹のあいだにあった時間の分だけの重みが乗っていた。                          \nやっと会えたね🙌 pic.twitter.com/9sXAH757f4— クズなくま",
+    "author": "クズなくまさん",
+    "publishedAt": "2026-07-01T21:59:53.000Z",
+    "fetchedAt": "2026-08-28T18:08:57.190Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n71dc734557b6",
+    "title": "最後に、理由もなく飛び込んだのはいつだった？",
+    "url": "https://note.com/kuzukumasan9/n/n71dc734557b6",
+    "content": "「満タンまで待てない……」そうつぶやいた主に、くまさんはすぐ食いついた。大きなくまがホースを構え、小さなくまが待ちきれない顔で水を見つめている一枚。もくもくの入道雲が空を占領し、遠くには飛行機雲が一本、まっすぐ伸びていく。絶好の水遊び日和だった。ふたりの視線は、自然とあの水しぶきに吸い寄せられていった。                          \n満タンまで待てない… pic.twitte",
+    "author": "クズなくまさん",
+    "publishedAt": "2026-07-09T10:07:22.000Z",
+    "fetchedAt": "2026-08-28T18:08:57.190Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "qiita-6f427c11cd36e2c382d1",
+    "title": "LLM の出力の縛り方を6段階に並べたら、強い順になっていなかった",
+    "url": "https://qiita.com/ykosuda/items/6f427c11cd36e2c382d1",
+    "content": "---\ntitle: \"LLM の出力の縛り方を6段階に並べたら、強い順になっていなかった\"\nemoji: \"🗺️\"\ntype: \"tech\"\ntopics: [\"ai\", \"llm\", \"設計\", \"オントロジー\", \"jsonschema\"]\npublished: true\n---\n\n前回まででオントロジーという言葉の意味は整理できたのですが、いざ自分のボットに入れようとしたところで手が止ま",
+    "author": "ykosuda",
+    "publishedAt": "2026-08-28T14:51:20.000Z",
+    "fetchedAt": "2026-08-28T18:08:56.579Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "LLM",
+      "設計"
+    ]
+  },
+  {
+    "id": "qiita-09dcb18d1fa837a4ff9f",
+    "title": "「オントロジー」を原典4件で読み比べたら、実行を含むのは1件だけだった",
+    "url": "https://qiita.com/ykosuda/items/09dcb18d1fa837a4ff9f",
+    "content": "---\ntitle: \"「オントロジー」を原典4件で読み比べたら、実行を含むのは1件だけだった\"\nemoji: \"📖\"\ntype: \"tech\"\ntopics: [\"ai\", \"llm\", \"オントロジー\", \"設計\", \"knowledgegraph\"]\npublished: true\n---\n\n自分の作った収集ボットに統制語彙を入れるかどうか検討していたとき、「オントロジー」という言葉に何度",
+    "author": "ykosuda",
+    "publishedAt": "2026-08-28T14:51:17.000Z",
+    "fetchedAt": "2026-08-28T18:08:56.579Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "LLM",
+      "設計"
+    ]
+  },
+  {
+    "id": "qiita-9641df49aa23b9759f14",
+    "title": "ローカルモデルのファインチューニングを完全自動化する方法",
+    "url": "https://qiita.com/volcane/items/9641df49aa23b9759f14",
+    "content": "![d28bda4f-31e7-46f8-aeb2-75b3ac3cf245.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4436414/296a4644-b3f5-469b-8d17-4bc7cf58dcf4.png)\n\n# はじめに\n私は現在、`MicroCode`というIDEを開発中です。\nIDE自体はほぼ",
+    "author": "volcane",
+    "publishedAt": "2026-08-28T14:11:38.000Z",
+    "fetchedAt": "2026-08-28T18:08:56.579Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "LLM",
+      "Python",
+      "機械学習",
+      "FineTuning,",
+      "自動化"
+    ]
+  },
+  {
+    "id": "qiita-35b398bc0e05d7815a17",
+    "title": "なぜAIは、専門家でなくても使えるようになったのか",
+    "url": "https://qiita.com/haru-qiita/items/35b398bc0e05d7815a17",
+    "content": "AIにおすすめの店を聞いたら、実在しない店名が返ってきたことがありませんか？根拠として挙がった論文名も、検索するとどこにもありませんでした。\n\n不思議なのは、その同じAIが、込み入った質問にはきちんと答えることです。知らないなら知らないと言えばいい。知っているのに、なぜ細部だけが作り物になるのか。この現象にはハルシネーションという名前までついていますが、名前がついたところで、なぜ起きるのかはわかり",
+    "author": "haru-qiita",
+    "publishedAt": "2026-08-27T14:53:35.000Z",
+    "fetchedAt": "2026-08-28T18:08:55.294Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "LLM",
+      "生成AI",
+      "機械学習",
+      "ニューラルネットワーク"
+    ]
+  },
+  {
+    "id": "qiita-f31335bbac7b5b9e404e",
+    "title": "階層型言語モデル PHOTON を論文から実装し、RTX4090で再現できたこと・できなかったこと",
+    "url": "https://qiita.com/arumada-5u/items/f31335bbac7b5b9e404e",
+    "content": "[PHOTON](https://aclanthology.org/2026.acl-long.1778/) という階層型言語モデルを、公開論文を手掛かりに実装してきました。公式実装の移植ではなく、論文の数式と付録表から構造を組み直し、vanilla Transformer や Block Transformer と同じパイプラインで比較するための検証実装です。\n\n> 本記事は、生成AIを利用しな",
+    "author": "arumada-5u",
+    "publishedAt": "2026-08-27T14:00:43.000Z",
+    "fetchedAt": "2026-08-28T18:08:55.294Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "LLM",
+      "PyTorch",
+      "huggingface",
+      "機械学習",
+      "論文実装"
+    ]
+  },
+  {
+    "id": "qiita-4a4ffffb2468ef54074d",
+    "title": "LLMのTrainingとInferenceを「検量線を引く・使う」で理解する",
+    "url": "https://qiita.com/lowgain/items/4a4ffffb2468ef54074d",
+    "content": "# LLMのTrainingとInferenceを「検量線を引く・使う」で理解する\n\nLLMについて勉強していると、\n\n* Training（学習）\n* Inference（推論）\n\nという言葉が出てきます。\n\n説明だけ読むと、\n\n> Trainingはモデルを学習すること\n> Inferenceは学習済みモデルから回答を生成すること\n\nとなります。\n\nもちろん正しいのですが、これだけだと両者の違",
+    "author": "lowgain",
+    "publishedAt": "2026-08-27T02:42:50.000Z",
+    "fetchedAt": "2026-08-28T18:08:55.294Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "LLM",
+      "生成AI",
+      "機械学習",
+      "DeepLearning",
+      "AI"
+    ]
+  },
+  {
+    "id": "qiita-48e8b4ae5151146aaa9c",
+    "title": "因果推論 Day 14／全30回　反事実の計算、SCMで「もしあの時」を解く",
+    "url": "https://qiita.com/akiralab/items/48e8b4ae5151146aaa9c",
+    "content": "\n## この連載について\n\n因果推論を「本を読んだ」で終わらせず、**自分の言葉で説明でき、コードで再現できる状態**まで落とす30日連載です。前回の[Day 13](https://qiita.com/akiralab/items/0982a8414fd1a9fa630c)では、交絡因子がどうしても観測できなくても、処置からアウトカムへの影響を媒介変数のチェーンで丸ごと捉えられれば因果効果を点で",
+    "author": "akiralab",
+    "publishedAt": "2026-08-27T07:34:01.000Z",
+    "fetchedAt": "2026-08-28T18:08:55.294Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "因果推論",
+      "統計",
+      "Python",
+      "機械学習"
+    ]
+  },
+  {
+    "id": "qiita-b2d32b05fda1c2554f32",
+    "title": "【技術解説】【完全ガイド】yfinanceのPythonインストール方法と金融データ活用法",
+    "url": "https://qiita.com/sugarfree/items/b2d32b05fda1c2554f32",
+    "content": "# yfinanceのインストール手順と基本的な使い方\n\nyfinanceは、Yahoo Financeから金融データを取得するためのPythonライブラリです。このライブラリは、特に株式データの取得に優れており、データ分析や自動売買システムの開発に役立ちます。本記事では、yfinanceのインストール方法と基本的な使い方について詳しく解説します。\n\n## yfinanceのインストール\n\nyfi",
+    "author": "sugarfree",
+    "publishedAt": "2026-08-27T02:00:19.000Z",
+    "fetchedAt": "2026-08-28T18:08:55.294Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "自動売買",
+      "機械学習"
+    ]
+  },
+  {
+    "id": "qiita-f9eb8b70bcf8554b5335",
+    "title": "【技術解説】【完全ガイド】PythonでMT5のバックテストを実行する方法とエラー解決",
+    "url": "https://qiita.com/sugarfree/items/f9eb8b70bcf8554b5335",
+    "content": "# PythonでMT5のバックテストを実行する方法\n\nMetaTrader 5（MT5）とPythonを組み合わせることで、トレード戦略の有効性を客観的に評価できます。本記事では、Pythonを用いたMT5のバックテストの実装方法と、よくあるエラーの対策を解説します。\n\n## PythonでMT5を利用したバックテスト環境の構築\n\nPythonでMT5のバックテストを行うには、`MetaTrad",
+    "author": "sugarfree",
+    "publishedAt": "2026-08-28T02:01:16.000Z",
+    "fetchedAt": "2026-08-28T18:08:55.294Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "自動売買",
+      "機械学習"
+    ]
+  },
+  {
+    "id": "qiita-4bdb99b9b750acffb1f1",
+    "title": "因果推論 Day 15／全30回　DoWhyの4ステップ、仮定を書き推定し反証する",
+    "url": "https://qiita.com/akiralab/items/4bdb99b9b750acffb1f1",
+    "content": "\n## この連載について\n\n因果推論を「本を読んだ」で終わらせず、**自分の言葉で説明でき、コードで再現できる状態**まで落とす30日連載です。直前の[Day 14](https://qiita.com/akiralab/items/48e8b4ae5151146aaa9c)では、SCMのノイズを個体ごとに復元して「もしあの時」を解く、反事実の3ステップを実装しました。今日はPhase 2（DAG",
+    "author": "akiralab",
+    "publishedAt": "2026-08-27T23:42:53.000Z",
+    "fetchedAt": "2026-08-28T18:08:55.294Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "因果推論",
+      "統計",
+      "Python",
+      "機械学習"
+    ]
+  },
+  {
+    "id": "qiita-c878b37ab8e1973df729",
+    "title": "因果推論 Day 16／全30回　回帰は主力、線形回帰の不合理な有効性",
+    "url": "https://qiita.com/akiralab/items/c878b37ab8e1973df729",
+    "content": "\n## この連載について\n\n因果推論を「本を読んだ」で終わらせず、**自分の言葉で説明でき、コードで再現できる状態**まで落とす30日連載です。直前の[Day 15](https://qiita.com/akiralab/items/4bdb99b9b750acffb1f1)では、DoWhyの4ステップで「仮定→識別→推定→反証」を1本のワークフローに束ねました。今日からPhase 3、計量経済の",
+    "author": "akiralab",
+    "publishedAt": "2026-08-28T16:53:13.000Z",
+    "fetchedAt": "2026-08-28T18:08:55.294Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "因果推論",
+      "統計",
+      "Python",
+      "機械学習"
+    ]
+  },
+  {
+    "id": "qiita-a474d3234ca4b6e26b5b",
+    "title": "Microsoft Mage-VLをMLXへ独立移植する――4経路のfloat32一致と、固定動画で最悪3.48秒の応答",
+    "url": "https://qiita.com/kiarina/items/a474d3234ca4b6e26b5b",
+    "content": "こんにちは、皆さん。\n\nカメラを向けたら、そこで今なにが起きているかを言葉で返してくる。そういう装置は、モデルの賢さよりも「何秒で返ってくるか」で使えるかどうかが決まります。3秒なら見守りに使えますが、30秒なら過去のログにしかなりません。\n\nさて、今日はMicrosoftのMage-VLを、mlx-vlmに依存しない独立したMLX実装としてApple Siliconへ移植し、静止画・frame-",
+    "author": "kiarina",
+    "publishedAt": "2026-08-28T15:54:21.000Z",
+    "fetchedAt": "2026-08-28T18:08:55.294Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "mlx",
+      "AppleSilicon",
+      "Python",
+      "vlm",
+      "機械学習"
+    ]
+  },
+  {
+    "id": "qiita-0d1bde5d7c18cf24a858",
+    "title": "埋め込みモデルのEmbedding vectorsのばらつきをどう比較するか考えてみた",
+    "url": "https://qiita.com/k-omae/items/0d1bde5d7c18cf24a858",
+    "content": "RAGにおける検索をはじめとして、埋め込みモデルはAI開発の至るところで活躍しています。このメモは、異なる埋め込みモデルを統計的に評価したいと思った際に整理したものです（間違いに気づいた方がいらっしゃったら、ぜひ教えてください）。\n\n## 散らばりの指標\n### 記号の準備\n埋め込みモデルを$m$、入力対象(文などのテキスト)を$i$とする。次元$d_m$の埋め込みモデルは対象$i$をベクトル$x",
+    "author": "k-omae",
+    "publishedAt": "2026-08-28T16:43:04.000Z",
+    "fetchedAt": "2026-08-28T18:08:54.765Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "embedding",
+      "statistics",
+      "rag"
+    ]
+  },
+  {
+    "id": "qiita-590453d836ba9d9c6f66",
+    "title": "LINE×AIで楽に生活を管理させたい",
+    "url": "https://qiita.com/ei_1263_/items/590453d836ba9d9c6f66",
+    "content": "# LINE×AIで楽に生活を管理させたい\n\n## はじめに\n\n「月曜日は何ごみだっけ？」\n\n「制服、最後に洗濯したのいつだっけ？」\n\n「トイレ掃除、いつやったっけ？」\n\n一人暮らしをしていると、このようなことを意外と考える機会があります。\n\nもちろん、カレンダーやメモ帳などに記録しておけば解決できます。\n\nただ、個人的には、\n\n> **そもそもこういうことを自分で覚えておいたり、記録を探したりす",
+    "author": "ei_1263_",
+    "publishedAt": "2026-08-28T13:33:30.000Z",
+    "fetchedAt": "2026-08-28T18:08:54.765Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "cloudflare",
+      "LINEmessagingAPI",
+      "個人開発"
+    ]
+  },
+  {
+    "id": "qiita-9c47915aebbc3bbaee11",
+    "title": "エージェントに仕事させるなら、まず AGENTS.md を1枚置け",
+    "url": "https://qiita.com/yasasisugirutokikata/items/9c47915aebbc3bbaee11",
+    "content": "README は人間向け。エージェント向けの入口は、リポジトリ直下の `AGENTS.md`。\n\n「テストコマンドは？」「`dist/` は触るな」「`git push` はするな」。これをチャットのたびに書いてるなら、仕事はまだ始まってない。モデルを差し替える前に、同じリポジトリを開いたエージェントが最初に読む1枚を置け。\n\n## README と AGENTS.md は読者が違う\n\nREADM",
+    "author": "yasasisugirutokikata",
+    "publishedAt": "2026-08-28T13:10:58.000Z",
+    "fetchedAt": "2026-08-28T18:08:54.765Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "cursor",
+      "ClaudeCode",
+      "AI",
+      "開発環境",
+      "AGENTS.md"
+    ]
+  },
+  {
+    "id": "qiita-d2bc12f8098f5b6fb44c",
+    "title": "【Seed-VC / Sinsy】学術用楽器音源（フルート）をZero-shot参照音声として用いた歌唱音声合成パイプラインの構築",
+    "url": "https://qiita.com/Hibi_furuto_ccessia/items/d2bc12f8098f5b6fb44c",
+    "content": "![tachie.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4493123/d4ca7b7a-a981-40ff-bcfb-44aa05ba389b.png)\n\n# 【Seed-VC / Sinsy】学術用楽器音源（フルート）をZero-shot参照音声として用いた歌唱音声合成パイプラインの構築\n\n## 1. ",
+    "author": "Hibi_furuto_ccessia",
+    "publishedAt": "2026-08-28T12:12:11.000Z",
+    "fetchedAt": "2026-08-28T18:08:54.765Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "SeedVC",
+      "音声合成",
+      "VoiceConversion",
+      "Sinsy",
+      "AI"
+    ]
+  },
+  {
+    "id": "qiita-ef15062233f8cb154ee7",
+    "title": "許可ルールを152件ためこんでいた。完全一致で書かれた92件は、10万9762回の実行で一度も効かなかった",
+    "url": "https://qiita.com/Tsutomu_eng/items/ef15062233f8cb154ee7",
+    "content": "> この記事は [Zenn に投稿したもの](https://zenn.dev/tsutomusaito/articles/permission-rules-decay-ja) の再掲です。内容は同じで、更新も両方に反映します。\n\n\nClaude Code で「このコマンドを許可しますか」と聞かれて **Yes, and don't ask again** を押すと、`~/.claude/sett",
+    "author": "Tsutomu_eng",
+    "publishedAt": "2026-08-28T11:37:46.000Z",
+    "fetchedAt": "2026-08-28T18:08:54.765Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "ClaudeCode",
+      "AI",
+      "Security",
+      "運用",
+      "生成AI"
+    ]
+  },
+  {
+    "id": "qiita-2d3c590553a4f2461e56",
+    "title": "Backlog公式MCPがうまくいかない人へ。AIエージェントでBacklogをスイスイ操作できるスキルを公開します",
+    "url": "https://qiita.com/kawamon-idealive/items/2d3c590553a4f2461e56",
+    "content": "\nAIエージェント（Claude Code / Codex）からBacklogを操作したくて公式MCPサーバー（nulab/backlog-mcp-server）を入れたものの、こんな状態になっていませんか。\n\n- 大量のツール定義が毎回コンテキストに載って、**Backlogを触らないタスクでもトークンを消費し続ける**（tool overload）\n- 動かすのに**Dockerと常駐プロセス",
+    "author": "kawamon-idealive",
+    "publishedAt": "2026-08-28T11:31:02.000Z",
+    "fetchedAt": "2026-08-28T18:08:54.765Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Backlog",
+      "AI",
+      "ClaudeCode",
+      "codex",
+      "MCP"
+    ]
+  },
+  {
+    "id": "qiita-8b7ac7751411f79a41d7",
+    "title": "「ハーネス」ってなんぞ？ Claudeに“性格”と“記憶”を持たせる仕組みを、おじさんでも分かるように調べてみた",
+    "url": "https://qiita.com/OnuuuumaX/items/8b7ac7751411f79a41d7",
+    "content": "## はじめに\n\n最近、AIにコーディングを手伝ってもらう文脈で「ハーネス」という言葉を見かけるようになりました。専門用語っぽくて身構えてしまいますが、中身はとてもシンプルらしいです。\n\n難しい記事を漁りましたが、頭の中で整理しきれなかったので、Claudeに教えてもらいつつまとめ上げました。\n\n> 「毎回言うことが違う新人」と「一度教えたことはちゃんと守り続けてくれるベテラン」の違いは何か\n\nこ",
+    "author": "OnuuuumaX",
+    "publishedAt": "2026-08-28T11:16:19.000Z",
+    "fetchedAt": "2026-08-28T18:08:54.765Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "ClaudeCode",
+      "生成AI",
+      "初心者",
+      "ハーネスエンジニアリング"
+    ]
+  },
+  {
+    "id": "qiita-ee0faa5a6ce7dcdfa66f",
+    "title": "GitHubリポジトリから4択クイズを生成するサービスを作った",
+    "url": "https://qiita.com/SyogoSuganoya/items/ee0faa5a6ce7dcdfa66f",
+    "content": "\n![repo-educatorのトップページ](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/411120/dae52cb2-651c-401e-94f4-3b7d3ce16c57.png)\n\n新しいリポジトリに入ったとき、どこから読み始めるか毎回迷います。\nREADMEを読み、`main` を探し、なんとなく分かった気に",
+    "author": "SyogoSuganoya",
+    "publishedAt": "2026-08-28T11:07:14.000Z",
+    "fetchedAt": "2026-08-28T18:08:54.765Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "個人開発",
+      "OSS",
+      "GitHub",
+      "AI",
+      "初心者"
+    ]
+  },
+  {
+    "id": "zenn-641754",
+    "title": "VS CodeのTerminalで文字化け→「chcp 65001」でなおらず、PowerShellの設定で解決した",
+    "url": "https://zenn.dev/mutsu_zenn/articles/1f52b02ed88797",
+    "content": "1478文字",
+    "author": "mutsu",
+    "publishedAt": "2026-08-28T17:31:40.513Z",
+    "fetchedAt": "2026-08-28T18:08:53.976Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-641758",
+    "title": "CLAUDE.md が何トークン消費しているか計測した——内訳と削減方針",
+    "url": "https://zenn.dev/joemike/articles/claude-md-bloat-token-cost-2026",
+    "content": "1792文字",
+    "author": "ミケ",
+    "publishedAt": "2026-08-28T17:18:01.687Z",
+    "fetchedAt": "2026-08-28T18:08:53.976Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-640664",
+    "title": "「認知的負債」と「認知的降伏」— Addy Osmani が語る、AIに任せて失うもの",
+    "url": "https://zenn.dev/talks_tldr_jp/articles/tldr27-osmani-summary",
+    "content": "5966文字",
+    "author": "管理人K",
+    "publishedAt": "2026-08-28T17:00:11.113Z",
+    "fetchedAt": "2026-08-28T18:08:53.976Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-641752",
+    "title": "ollama ＆ qwen2.5vlで、大き目の画像をモデルに食わせて何の画像か説明させたい",
+    "url": "https://zenn.dev/tera1707/articles/f505f09a68a46b",
+    "content": "2396文字",
+    "author": "tera1707",
+    "publishedAt": "2026-08-28T16:58:29.937Z",
+    "fetchedAt": "2026-08-28T18:08:53.976Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-641749",
+    "title": "最小コストで検証する、SageMaker AIのセキュリティ要件（KMS/IAM/CloudTrail）",
+    "url": "https://zenn.dev/nyondev/articles/ba3338a1f3a01f",
+    "content": "10238文字",
+    "author": "NyonDev",
+    "publishedAt": "2026-08-28T16:39:35.035Z",
+    "fetchedAt": "2026-08-28T18:08:53.976Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-640954",
+    "title": "スタックちゃんがバッテリーだけでは起動しない — ログの出ない条件でI2Cレジスタ1ビットまで追い込んだ話",
+    "url": "https://zenn.dev/maruhana/articles/stackchan-battery-boot-debug",
+    "content": "9614文字",
+    "author": "maruhana",
+    "publishedAt": "2026-08-28T16:25:53.807Z",
+    "fetchedAt": "2026-08-28T18:08:53.976Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-641745",
+    "title": "Rustで軽量配信ソフトを自作して、YouTube実配信まで通した話",
+    "url": "https://zenn.dev/pompokotanu/articles/8b9625b2a7c489",
+    "content": "5004文字",
+    "author": "ししゃも",
+    "publishedAt": "2026-08-28T16:22:26.707Z",
+    "fetchedAt": "2026-08-28T18:08:53.976Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-641686",
+    "title": "なぜ、00年代の日本のIT企業がオフショアで失敗した最大の原因が、各国間のIQ格差に有るのか？",
+    "url": "https://zenn.dev/pdfractal/articles/c4f3e2f33b6c6d",
+    "content": "8461文字",
+    "author": "pdfractal",
+    "publishedAt": "2026-08-28T16:22:00.043Z",
+    "fetchedAt": "2026-08-28T18:08:53.976Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-641739",
+    "title": "【AI執筆】設計を4枚描いて、コードは1行も書いていなかった",
+    "url": "https://zenn.dev/kiringiraffe/articles/06cf318911f26e",
+    "content": "7722文字",
+    "author": "kirin",
+    "publishedAt": "2026-08-28T16:08:33.507Z",
+    "fetchedAt": "2026-08-28T18:08:53.976Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-641736",
+    "title": "【AI執筆】アイコンが1つも無い画面を見て、8案が全部外れた",
+    "url": "https://zenn.dev/kiringiraffe/articles/2f1c9c6b7cb99b",
+    "content": "9298文字",
+    "author": "kirin",
+    "publishedAt": "2026-08-28T16:06:01.462Z",
+    "fetchedAt": "2026-08-28T18:08:53.976Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-nb4ca77c78855",
+    "title": "noteのタグ選びに悩むあなたへ。検索から読まれるためのコツ",
+    "url": "https://note.com/monetize_tips/n/nb4ca77c78855",
+    "content": "せっかく書いた大切な記事。誰にも見つけてもらえないのは、少しさみしいですよね。「どんなハッシュタグを付ければいいんだろう？」と、投稿画面で手が止まってしまうこと、私にもよくありました。この記事でわかること・検索されやすくなるタグ選びの基本ルール・読者がついクリックしたくなるタグの組み合わせ方・今日から使える、記事ごとのタグ設定手順続きをみる",
+    "author": "monetize_tips",
+    "publishedAt": "2026-08-25T11:00:30.000Z",
+    "fetchedAt": "2026-08-28T10:45:54.143Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -156,42 +743,6 @@
     "tags": []
   },
   {
-    "id": "note-n72a3bd244ea3",
-    "title": "27Bは夜勤に向いている ― 遅いローカルLLMの「夜間バッチ」に、何を頼むかを先に決めた",
-    "url": "https://note.com/yaoyoroztech/n/n72a3bd244ea3",
-    "content": "こんにちは！YaroTechです。先週、手元のノートPCで27B級（＝270億パラメータ級）のローカルLLMを2回測りました。結論はどちらも同じで、「日中の作業には置けない」。挨拶の返事に28秒かかるモデルを、打ち合わせの合間に呼び出す気にはなれません。続きをみる",
-    "author": "YaroTech",
-    "publishedAt": "2026-08-25T22:00:00.000Z",
-    "fetchedAt": "2026-08-28T10:45:52.743Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-nfecf88ee5d50",
-    "title": "TTFTって何？から始める夜間バッチ ― ローカルLLM実測の前日に、手順と用語を先にそろえた",
-    "url": "https://note.com/yaoyoroztech/n/nfecf88ee5d50",
-    "content": "こんにちは！YaroTechです。昨日の記事の最後に、「明日はメインPCで夜間バッチを一晩まわします」と書きました。先に正直なところを書くと、実測は明日に延ばします。今日はまとまった実行時間が取れませんでした。続きをみる",
-    "author": "YaroTech",
-    "publishedAt": "2026-08-27T14:36:42.000Z",
-    "fetchedAt": "2026-08-28T10:45:52.743Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-nec1c1fb7000b",
-    "title": "ローカルLLM向けの NVIDIA GPU の選び方",
-    "url": "https://note.com/npaka/n/nec1c1fb7000b",
-    "content": "ローカルLLM向けの NVIDIA GPU の選び方をまとめました。続きをみる",
-    "author": "npaka",
-    "publishedAt": "2026-08-26T22:56:21.000Z",
-    "fetchedAt": "2026-08-28T10:45:52.199Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
     "id": "note-nc1391a7f24ad",
     "title": "ローカルLLM向け Mac Studio の選び方",
     "url": "https://note.com/npaka/n/nc1391a7f24ad",
@@ -199,54 +750,6 @@
     "author": "npaka",
     "publishedAt": "2026-08-26T21:45:20.000Z",
     "fetchedAt": "2026-08-28T10:45:52.199Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-ncd1fb2c1105e",
-    "title": "MHS (Model Hardware Standard) の概要",
-    "url": "https://note.com/npaka/n/ncd1fb2c1105e",
-    "content": "「MHS」(Model Hardware Standard) の概要 をまとめました。続きをみる",
-    "author": "npaka",
-    "publishedAt": "2026-08-27T22:25:46.000Z",
-    "fetchedAt": "2026-08-28T10:45:52.199Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-nf0e7858caddf",
-    "title": "とっくりを割ったくまさんが、お魚だけ握りしめていた話",
-    "url": "https://note.com/kuzukumasan9/n/nf0e7858caddf",
-    "content": "「割っちゃった」くまさんがぽつりと言った。足元を見ると、白いかけらが床いっぱいに散らばっている。さっきまで何かの形をしていたものが、もう元に戻らない形になっていた。光が斜めに差し込んでいて、床がところどころ、きらきら光っている。こぼれた何かが、まだ乾かずに残っているらしい。                          \n割っちゃった pic.twitter.com/y8qXLFT4Iw— ク",
-    "author": "クズなくまさん",
-    "publishedAt": "2026-06-23T12:23:49.000Z",
-    "fetchedAt": "2026-08-28T10:45:51.679Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n57a37776dffa",
-    "title": "花畑で再会したくまさんと、GPSより先に信じる力の話",
-    "url": "https://note.com/kuzukumasan9/n/n57a37776dffa",
-    "content": "一枚のイラストから、始まった。木々の隙間から光が差し込む森を抜けた先に、白い花でいっぱいの原っぱが広がっている。小さなくまが、大きなくまに向かって小さな手を伸ばしている。「やっと会えたね」——短いその言葉に、二匹のあいだにあった時間の分だけの重みが乗っていた。                          \nやっと会えたね🙌 pic.twitter.com/9sXAH757f4— クズなくま",
-    "author": "クズなくまさん",
-    "publishedAt": "2026-07-01T21:59:53.000Z",
-    "fetchedAt": "2026-08-28T10:45:51.678Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n71dc734557b6",
-    "title": "最後に、理由もなく飛び込んだのはいつだった？",
-    "url": "https://note.com/kuzukumasan9/n/n71dc734557b6",
-    "content": "「満タンまで待てない……」そうつぶやいた主に、くまさんはすぐ食いついた。大きなくまがホースを構え、小さなくまが待ちきれない顔で水を見つめている一枚。もくもくの入道雲が空を占領し、遠くには飛行機雲が一本、まっすぐ伸びていく。絶好の水遊び日和だった。ふたりの視線は、自然とあの水しぶきに吸い寄せられていった。                          \n満タンまで待てない… pic.twitte",
-    "author": "クズなくまさん",
-    "publishedAt": "2026-07-09T10:07:22.000Z",
-    "fetchedAt": "2026-08-28T10:45:51.678Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -267,60 +770,6 @@
       "ChatGPT",
       "GitHub",
       "AIエージェント"
-    ]
-  },
-  {
-    "id": "qiita-35b398bc0e05d7815a17",
-    "title": "なぜAIは、専門家でなくても使えるようになったのか",
-    "url": "https://qiita.com/haru-qiita/items/35b398bc0e05d7815a17",
-    "content": "AIにおすすめの店を聞いたら、実在しない店名が返ってきたことがありませんか？根拠として挙がった論文名も、検索するとどこにもありませんでした。\n\n不思議なのは、その同じAIが、込み入った質問にはきちんと答えることです。知らないなら知らないと言えばいい。知っているのに、なぜ細部だけが作り物になるのか。この現象にはハルシネーションという名前までついていますが、名前がついたところで、なぜ起きるのかはわかり",
-    "author": "haru-qiita",
-    "publishedAt": "2026-08-27T14:53:35.000Z",
-    "fetchedAt": "2026-08-28T10:45:50.540Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "AI",
-      "LLM",
-      "生成AI",
-      "機械学習",
-      "ニューラルネットワーク"
-    ]
-  },
-  {
-    "id": "qiita-f31335bbac7b5b9e404e",
-    "title": "階層型言語モデル PHOTON を論文から実装し、RTX4090で再現できたこと・できなかったこと",
-    "url": "https://qiita.com/arumada-5u/items/f31335bbac7b5b9e404e",
-    "content": "[PHOTON](https://aclanthology.org/2026.acl-long.1778/) という階層型言語モデルを、公開論文を手掛かりに実装してきました。公式実装の移植ではなく、論文の数式と付録表から構造を組み直し、vanilla Transformer や Block Transformer と同じパイプラインで比較するための検証実装です。\n\n> 本記事は、生成AIを利用しな",
-    "author": "arumada-5u",
-    "publishedAt": "2026-08-27T14:00:43.000Z",
-    "fetchedAt": "2026-08-28T10:45:50.540Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "LLM",
-      "PyTorch",
-      "huggingface",
-      "機械学習",
-      "論文実装"
-    ]
-  },
-  {
-    "id": "qiita-4a4ffffb2468ef54074d",
-    "title": "LLMのTrainingとInferenceを「検量線を引く・使う」で理解する",
-    "url": "https://qiita.com/lowgain/items/4a4ffffb2468ef54074d",
-    "content": "# LLMのTrainingとInferenceを「検量線を引く・使う」で理解する\n\nLLMについて勉強していると、\n\n* Training（学習）\n* Inference（推論）\n\nという言葉が出てきます。\n\n説明だけ読むと、\n\n> Trainingはモデルを学習すること\n> Inferenceは学習済みモデルから回答を生成すること\n\nとなります。\n\nもちろん正しいのですが、これだけだと両者の違",
-    "author": "lowgain",
-    "publishedAt": "2026-08-27T02:42:50.000Z",
-    "fetchedAt": "2026-08-28T10:45:50.540Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "LLM",
-      "生成AI",
-      "機械学習",
-      "DeepLearning",
-      "AI"
     ]
   },
   {
@@ -371,72 +820,6 @@
     "tags": [
       "Python",
       "自動売買",
-      "機械学習"
-    ]
-  },
-  {
-    "id": "qiita-48e8b4ae5151146aaa9c",
-    "title": "因果推論 Day 14／全30回　反事実の計算、SCMで「もしあの時」を解く",
-    "url": "https://qiita.com/akiralab/items/48e8b4ae5151146aaa9c",
-    "content": "\n## この連載について\n\n因果推論を「本を読んだ」で終わらせず、**自分の言葉で説明でき、コードで再現できる状態**まで落とす30日連載です。前回の[Day 13](https://qiita.com/akiralab/items/0982a8414fd1a9fa630c)では、交絡因子がどうしても観測できなくても、処置からアウトカムへの影響を媒介変数のチェーンで丸ごと捉えられれば因果効果を点で",
-    "author": "akiralab",
-    "publishedAt": "2026-08-27T07:34:01.000Z",
-    "fetchedAt": "2026-08-28T10:45:50.540Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "因果推論",
-      "統計",
-      "Python",
-      "機械学習"
-    ]
-  },
-  {
-    "id": "qiita-b2d32b05fda1c2554f32",
-    "title": "【技術解説】【完全ガイド】yfinanceのPythonインストール方法と金融データ活用法",
-    "url": "https://qiita.com/sugarfree/items/b2d32b05fda1c2554f32",
-    "content": "# yfinanceのインストール手順と基本的な使い方\n\nyfinanceは、Yahoo Financeから金融データを取得するためのPythonライブラリです。このライブラリは、特に株式データの取得に優れており、データ分析や自動売買システムの開発に役立ちます。本記事では、yfinanceのインストール方法と基本的な使い方について詳しく解説します。\n\n## yfinanceのインストール\n\nyfi",
-    "author": "sugarfree",
-    "publishedAt": "2026-08-27T02:00:19.000Z",
-    "fetchedAt": "2026-08-28T10:45:50.540Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "自動売買",
-      "機械学習"
-    ]
-  },
-  {
-    "id": "qiita-f9eb8b70bcf8554b5335",
-    "title": "【技術解説】【完全ガイド】PythonでMT5のバックテストを実行する方法とエラー解決",
-    "url": "https://qiita.com/sugarfree/items/f9eb8b70bcf8554b5335",
-    "content": "# PythonでMT5のバックテストを実行する方法\n\nMetaTrader 5（MT5）とPythonを組み合わせることで、トレード戦略の有効性を客観的に評価できます。本記事では、Pythonを用いたMT5のバックテストの実装方法と、よくあるエラーの対策を解説します。\n\n## PythonでMT5を利用したバックテスト環境の構築\n\nPythonでMT5のバックテストを行うには、`MetaTrad",
-    "author": "sugarfree",
-    "publishedAt": "2026-08-28T02:01:16.000Z",
-    "fetchedAt": "2026-08-28T10:45:50.540Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "自動売買",
-      "機械学習"
-    ]
-  },
-  {
-    "id": "qiita-4bdb99b9b750acffb1f1",
-    "title": "因果推論 Day 15／全30回　DoWhyの4ステップ、仮定を書き推定し反証する",
-    "url": "https://qiita.com/akiralab/items/4bdb99b9b750acffb1f1",
-    "content": "\n## この連載について\n\n因果推論を「本を読んだ」で終わらせず、**自分の言葉で説明でき、コードで再現できる状態**まで落とす30日連載です。直前の[Day 14](https://qiita.com/akiralab/items/48e8b4ae5151146aaa9c)では、SCMのノイズを個体ごとに復元して「もしあの時」を解く、反事実の3ステップを実装しました。今日はPhase 2（DAG",
-    "author": "akiralab",
-    "publishedAt": "2026-08-27T23:42:53.000Z",
-    "fetchedAt": "2026-08-28T10:45:50.540Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "因果推論",
-      "統計",
-      "Python",
       "機械学習"
     ]
   },
