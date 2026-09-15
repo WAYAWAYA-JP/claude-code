@@ -1,24 +1,12 @@
 [
   {
-    "id": "note-n4d119ed07982",
-    "title": "GPT-6 Astraとは？使い方・料金・特徴・GPT-5.6 Solとの違いを解説",
-    "url": "https://note.com/hiro_seki/n/n4d119ed07982",
-    "content": "こんにちは！ヒロです！OpenAIは2026年9月3日、次世代のAIモデル「GPT-6 Astra」を公開しました。続きをみる",
-    "author": "hiro_seki",
-    "publishedAt": "2026-09-12T12:20:09.000Z",
-    "fetchedAt": "2026-09-15T04:17:43.385Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
     "id": "note-ne5dedbfb1878",
     "title": "Claude Fable 5.1とは？Fable 5との違い・料金・使い方をわかりやすく徹底的に解説",
     "url": "https://note.com/hiro_seki/n/ne5dedbfb1878",
     "content": "こんにちは！ヒロです！Anthropic（アンソロピック）は2026年9月1日、Claudeの新モデル「Claude Fable 5.1」を公開しました。続きをみる",
     "author": "hiro_seki",
     "publishedAt": "2026-09-13T07:50:19.000Z",
-    "fetchedAt": "2026-09-15T04:17:43.384Z",
+    "fetchedAt": "2026-09-15T10:58:33.443Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -30,7 +18,19 @@
     "content": "こんにちは！ヒロです！Google Antigravity 2.0を仕事で使うなら、月額2,900円のGoogle AI Proが有料利用の入口です。続きをみる",
     "author": "hiro_seki",
     "publishedAt": "2026-09-14T08:17:14.000Z",
-    "fetchedAt": "2026-09-15T04:17:43.384Z",
+    "fetchedAt": "2026-09-15T10:58:33.443Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-naf61b53450fa",
+    "title": "Google Antigravityとは？無料でできることや2.0の特徴を初心者向けに解説",
+    "url": "https://note.com/hiro_seki/n/naf61b53450fa",
+    "content": "こんにちは！ヒロです！Google Antigravityとは、Googleが提供するAIエージェント型の開発支援ツールです。続きをみる",
+    "author": "hiro_seki",
+    "publishedAt": "2026-09-15T09:06:26.000Z",
+    "fetchedAt": "2026-09-15T10:58:33.443Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -42,7 +42,7 @@
     "content": "noteを始めてみたものの、最初の1文字がなかなか書けない。そんな悩みを抱えていませんか。わたしも平日は会社員として働きながら、副業でnoteを書いています。いまは月に3,000円から1万円ほどの小さなお小遣いを得られるようになりましたが、始めたばかりのころは真っ白な画面を前にして、30分以上も手が止まっていました。続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-09-12T11:33:12.000Z",
-    "fetchedAt": "2026-09-15T04:17:42.598Z",
+    "fetchedAt": "2026-09-15T10:58:32.650Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -54,7 +54,7 @@
     "content": "一生懸命書いたnote。いざ公開しても、最初の数行で読者が離れてしまう。そんな経験、ありませんか？実は、読者が記事を読み進めるかどうかは、冒頭の「目次」でほとんど決まってしまうんです。この記事でわかること続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-09-13T11:00:31.000Z",
-    "fetchedAt": "2026-09-15T04:17:42.598Z",
+    "fetchedAt": "2026-09-15T10:58:32.650Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -66,7 +66,7 @@
     "content": "せっかく時間をかけて書いた有料noteが売れないと、本当に落ち込みますよね。私も最初の3本はまったく売れず、画面の前でため息をついていました。でも、無料パートの書き方を少し整えただけで、最初の1本が売れたのです。この記事でわかること・買ってもらえない無料パートにありがちな失敗・読者の心を動かす無料パートの3つの型・公開前に見直せる5つのセルフチェック項目続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-09-14T11:00:31.000Z",
-    "fetchedAt": "2026-09-15T04:17:42.598Z",
+    "fetchedAt": "2026-09-15T10:58:32.650Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -78,7 +78,7 @@
     "content": "Codex+ComfyUI-MPCで、専用のSkillを作って、SUNOのHook制作をComfyUIを立ち上げることなく、Codexのみでやってみました。Codexはほんとに出来る相方のように動いてくれますね。続きをみる",
     "author": "Yuki",
     "publishedAt": "2026-08-30T00:07:00.000Z",
-    "fetchedAt": "2026-09-15T04:17:42.064Z",
+    "fetchedAt": "2026-09-15T10:58:32.112Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -90,7 +90,7 @@
     "content": "MiniMax H3では日本語を含めた文字描画が可能で、タイポグラフィによるリリックモーションも生成できます。続きをみる",
     "author": "Yuki",
     "publishedAt": "2026-09-02T13:34:38.000Z",
-    "fetchedAt": "2026-09-15T04:17:42.064Z",
+    "fetchedAt": "2026-09-15T10:58:32.112Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -102,7 +102,7 @@
     "content": "MiniMax H3が盛り上がっているのは嬉しいことだけど、高速化の方法がありすぎん？続きをみる",
     "author": "Yuki",
     "publishedAt": "2026-09-11T23:44:49.000Z",
-    "fetchedAt": "2026-09-15T04:17:42.064Z",
+    "fetchedAt": "2026-09-15T10:58:32.112Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -114,7 +114,7 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-08-15T02:32:58.000Z",
-    "fetchedAt": "2026-09-15T04:17:41.451Z",
+    "fetchedAt": "2026-09-15T10:58:31.528Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -126,7 +126,7 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-08-21T08:43:05.000Z",
-    "fetchedAt": "2026-09-15T04:17:41.451Z",
+    "fetchedAt": "2026-09-15T10:58:31.528Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -138,7 +138,7 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-08-29T02:39:09.000Z",
-    "fetchedAt": "2026-09-15T04:17:41.451Z",
+    "fetchedAt": "2026-09-15T10:58:31.528Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -150,7 +150,7 @@
     "content": "こんにちは！YaroTechです。昨日は「記憶は、軽い」という話を書きました。AIとの会話をファイルに書き出しておくと、それが記憶として残る、という内容です。今日は、その記憶を一緒に作っている相手のほうの話をします。続きをみる",
     "author": "YaroTech",
     "publishedAt": "2026-09-12T12:44:02.000Z",
-    "fetchedAt": "2026-09-15T04:17:40.847Z",
+    "fetchedAt": "2026-09-15T10:58:30.882Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -162,7 +162,7 @@
     "content": "こんにちは！YaroTechです。日曜恒例、AI5兄弟がこの一週間のAIニュースをキャラ目線で振り返る「日曜トーク」、9月第2週（9/6〜9/12）です。継続投稿420日目になりました。続きをみる",
     "author": "YaroTech",
     "publishedAt": "2026-09-13T02:55:12.000Z",
-    "fetchedAt": "2026-09-15T04:17:40.847Z",
+    "fetchedAt": "2026-09-15T10:58:30.882Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -174,7 +174,7 @@
     "content": "こんにちは！YaroTechです。先週、こんな見出しのニュースが流れてきました。「AIは仕事を奪うどころか、新しい仕事を増やす」。OpenAIの最高財務責任者が9月8日に公開した文章を、9月9日にASCIIが伝えた記事です。続きをみる",
     "author": "YaroTech",
     "publishedAt": "2026-09-14T14:13:48.000Z",
-    "fetchedAt": "2026-09-15T04:17:40.847Z",
+    "fetchedAt": "2026-09-15T10:58:30.882Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -186,7 +186,7 @@
     "content": "ハエの神経回路をコンピュータ上で再現し、DOOMを操作する実験が話題なのでまとめました。続きをみる",
     "author": "npaka",
     "publishedAt": "2026-09-15T02:33:10.000Z",
-    "fetchedAt": "2026-09-15T04:17:40.281Z",
+    "fetchedAt": "2026-09-15T10:58:30.110Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -198,7 +198,7 @@
     "content": "「LLMアプリケーション」とは、大規模言語モデル（LLM）を組み込んだアプリケーションです。チャットボット、RAGによる検索、文章の要約・分類、AIエージェントなどが該当します。LLMアプリケーションの出力は毎回同じとは限らず、自然に見えても、誤りを含んでいたり、ユーザーの目的に合っていなかったりします。そのため、内容の正確さや要求との一致、サービスとしての品質を「評価すること」が重要になります。",
     "author": "npaka",
     "publishedAt": "2026-09-14T23:45:22.000Z",
-    "fetchedAt": "2026-09-15T04:17:40.281Z",
+    "fetchedAt": "2026-09-15T10:58:30.110Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -210,7 +210,7 @@
     "content": "「Blender MCP」と「Computer use」でBlenderを操作したときの違いを整理し、なぜ「Computer use」の方が高性能に見えることがあるのかを考えます。続きをみる",
     "author": "npaka",
     "publishedAt": "2026-09-14T22:34:45.000Z",
-    "fetchedAt": "2026-09-15T04:17:40.281Z",
+    "fetchedAt": "2026-09-15T10:58:30.110Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -222,7 +222,7 @@
     "content": "「割っちゃった」くまさんがぽつりと言った。足元を見ると、白いかけらが床いっぱいに散らばっている。さっきまで何かの形をしていたものが、もう元に戻らない形になっていた。光が斜めに差し込んでいて、床がところどころ、きらきら光っている。こぼれた何かが、まだ乾かずに残っているらしい。                          \n割っちゃった pic.twitter.com/y8qXLFT4Iw— ク",
     "author": "クズなくまさん",
     "publishedAt": "2026-06-23T12:23:49.000Z",
-    "fetchedAt": "2026-09-15T04:17:39.962Z",
+    "fetchedAt": "2026-09-15T10:58:29.549Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -234,7 +234,7 @@
     "content": "一枚のイラストから、始まった。木々の隙間から光が差し込む森を抜けた先に、白い花でいっぱいの原っぱが広がっている。小さなくまが、大きなくまに向かって小さな手を伸ばしている。「やっと会えたね」——短いその言葉に、二匹のあいだにあった時間の分だけの重みが乗っていた。                          \nやっと会えたね🙌 pic.twitter.com/9sXAH757f4— クズなくま",
     "author": "クズなくまさん",
     "publishedAt": "2026-07-01T21:59:53.000Z",
-    "fetchedAt": "2026-09-15T04:17:39.962Z",
+    "fetchedAt": "2026-09-15T10:58:29.549Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -246,7 +246,490 @@
     "content": "「満タンまで待てない……」そうつぶやいた主に、くまさんはすぐ食いついた。大きなくまがホースを構え、小さなくまが待ちきれない顔で水を見つめている一枚。もくもくの入道雲が空を占領し、遠くには飛行機雲が一本、まっすぐ伸びていく。絶好の水遊び日和だった。ふたりの視線は、自然とあの水しぶきに吸い寄せられていった。                          \n満タンまで待てない… pic.twitte",
     "author": "クズなくまさん",
     "publishedAt": "2026-07-09T10:07:22.000Z",
-    "fetchedAt": "2026-09-15T04:17:39.962Z",
+    "fetchedAt": "2026-09-15T10:58:29.549Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "qiita-07ec1d31cb585ccad336",
+    "title": "Building Custom LLM Solutions: Why Generic AI Falls Short for Enterprise Workflows",
+    "url": "https://qiita.com/Exrwebflow/items/07ec1d31cb585ccad336",
+    "content": "**Building Custom LLM Solutions: Why Generic AI Falls Short for Enterprise Workflows**\n\nWhile off-the-shelf foundation models are impressive for general text generation, enterprise production environm",
+    "author": "Exrwebflow",
+    "publishedAt": "2026-09-15T10:22:32.000Z",
+    "fetchedAt": "2026-09-15T10:58:28.920Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "ソフトウェア",
+      "LLM",
+      "development",
+      "AI"
+    ]
+  },
+  {
+    "id": "qiita-ebdbf03ccd52a612af32",
+    "title": "【Django+Celery】500件の受託スクレイピング知見をAPI化した非同期アーキテクチャ設計",
+    "url": "https://qiita.com/tripathi_ha/items/ebdbf03ccd52a612af32",
+    "content": "Webスクレイピングを個人開発で始める場合、`requests` と `BeautifulSoup` を使って同期的に処理するだけでも十分なケースがあります。\n\nしかし、スクレイピング対象のURLが増えたり、複数ユーザーから同時にリクエストを受け付けたりすると、単純な同期処理では徐々に限界が見えてきます。\n\n例えば、\n\n* 大量のURLを処理したい\n* 複数のスクレイピング処理を並列実行したい\n*",
+    "author": "tripathi_ha",
+    "publishedAt": "2026-09-15T09:34:41.000Z",
+    "fetchedAt": "2026-09-15T10:58:28.920Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "LLM",
+      "SDK",
+      "スクレイピング",
+      "AI"
+    ]
+  },
+  {
+    "id": "qiita-40699cca970c57a64dc1",
+    "title": "AIエージェントはどのように動くのか Agent Runtimeの内部構造を理解する",
+    "url": "https://qiita.com/aimldl/items/40699cca970c57a64dc1",
+    "content": "## はじめに\n\n前回の記事では、AIエージェントを「目標を達成するために、自律的に計画・実行するシステム」として説明しました。また、AIエージェントの基本動作を次のループで整理しました。\n\n```mermaid\nflowchart TD\n    Goal --> Plan\n    Plan --> Action\n    Action --> Observation\n    Observation",
+    "author": "aimldl",
+    "publishedAt": "2026-09-15T07:55:48.000Z",
+    "fetchedAt": "2026-09-15T10:58:28.920Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "生成AI",
+      "LLM",
+      "AIエージェント",
+      "AgentCore"
+    ]
+  },
+  {
+    "id": "qiita-f83c8cda8ebdbbb64820",
+    "title": "「エージェント群が自分の採点者をハックしようとした」とAmodeiが書いた日、自分の完了条件を機械的に検証する仕組みは0個だった",
+    "url": "https://qiita.com/Hideki_Tamae/items/f83c8cda8ebdbbb64820",
+    "content": "\n## はじめに\n\n0。\n\nこれが今回の数字です。何の0かというと、この記事投稿タスク自身の指示書に書かれている「完了条件」3行のうち、私が書く報告テキストの中身を機械的に検証する仕組みの数です。\n\nこの技術記事シリーズは、テーマ選定・執筆・フォーマット整形・コミット・pushをAIエージェント(このタスク自身)に任せ、GitHub Actions経由でZennとQiitaに自動公開するパイプライ",
+    "author": "Hideki_Tamae",
+    "publishedAt": "2026-09-15T06:25:58.000Z",
+    "fetchedAt": "2026-09-15T10:58:28.920Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "AIエージェント",
+      "ClaudeCode",
+      "Anthropic",
+      "LLM"
+    ]
+  },
+  {
+    "id": "qiita-2ad76cf4bf42c2c93999",
+    "title": "AppleのAIチップは1MBちょうどで急に遅くなる、その原因と直し方",
+    "url": "https://qiita.com/okssusucha/items/2ad76cf4bf42c2c93999",
+    "content": "ひとことで言うと、AppleのAIチップに「きっかり1MBで急に遅くなる」落とし穴があり、それを避ける方法が見つかった、という話だ。手元のMacやiPhoneだけでAIを動かすとき、一部のAIがこの落とし穴のせいで本来の半分ほどの速さしか出ていなかった。避けるだけで速くなるので、ネットにつながなくても使える手元のAIが、ぐっと実用的になる。\n\nここでいうAI専用チップ(ニューラルエンジン)とは、ひ",
+    "author": "okssusucha",
+    "publishedAt": "2026-09-15T00:11:44.000Z",
+    "fetchedAt": "2026-09-15T10:58:27.163Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "Apple",
+      "LLM",
+      "機械学習",
+      "パフォーマンス"
+    ]
+  },
+  {
+    "id": "qiita-db8fc410eabea4d5b9f2",
+    "title": "【技術解説】【完全ガイド】Pythonで株価データをスクレイピングして分析する方法",
+    "url": "https://qiita.com/sugarfree/items/db8fc410eabea4d5b9f2",
+    "content": "# Pythonで株価データをスクレイピングして分析する方法\n\nこの記事では、Pythonを使用して株価データをスクレイピングし、分析するための手法について詳しく解説します。具体的には、`yfinance`ライブラリを用いてYahoo Financeから株価データを取得する方法や、よくあるエラーとその対策について触れます。\n\n## 株価データを取得するためのPythonライブラリの選定\n\n株価デー",
+    "author": "sugarfree",
+    "publishedAt": "2026-09-15T02:00:40.000Z",
+    "fetchedAt": "2026-09-15T10:58:27.163Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "自動売買",
+      "機械学習"
+    ]
+  },
+  {
+    "id": "qiita-c8c71b5675867b2a4b2a",
+    "title": "因果推論 Day 29／全30回　ベイズ×因果推論、効果を分布で語る",
+    "url": "https://qiita.com/akiralab/items/c8c71b5675867b2a4b2a",
+    "content": "\n## この連載について\n\n因果推論を「本を読んだ」で終わらせず、**自分の言葉で説明でき、コードで再現できる状態**まで落とす30日連載です。前回の[Day 28](https://qiita.com/akiralab/items/9c72aa49cd6ad6e26b34)では、隣の自治体に効果が漏れる世界を扱いました。空間的に滑らかな未観測交絡と、SUTVAを破るスピルオーバーです。今日は道具",
+    "author": "akiralab",
+    "publishedAt": "2026-09-15T00:21:16.000Z",
+    "fetchedAt": "2026-09-15T10:58:27.163Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "因果推論",
+      "統計",
+      "Python",
+      "機械学習",
+      "ベイズ統計"
+    ]
+  },
+  {
+    "id": "qiita-c7a3692bef1e49faafa1",
+    "title": "Python×機械学習の基礎固め3選",
+    "url": "https://qiita.com/koukyo/items/c7a3692bef1e49faafa1",
+    "content": "## はじめに\n\n自分が機械学習の勉強を本格的に始めたきっかけは、業務で「この問い合わせログを自動分類したい」と言われたことだった。とりあえず scikit-learn のチュートリアルを写経して、なんとなく動くものはできた。精度も8割くらい出た。それで一度は満足した。\n\n問題が起きたのはその後だ。運用を始めて数週間、精度が明らかに落ちてきた。原因を聞かれても答えられない。学習データの偏りなのか、",
+    "author": "koukyo",
+    "publishedAt": "2026-09-15T00:10:55.000Z",
+    "fetchedAt": "2026-09-15T10:58:27.163Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "機械学習",
+      "Python",
+      "scikit-learn",
+      "DeepLearning",
+      "書籍"
+    ]
+  },
+  {
+    "id": "qiita-e5cfe4e41d777cc62a51",
+    "title": "埋め込み入門：文章を数値に変えて検索する流れをつかむ",
+    "url": "https://qiita.com/YushiYamamoto/items/e5cfe4e41d777cc62a51",
+    "content": "\n![Text embedding vectors](https://raw.githubusercontent.com/YushiYamamoto/YushiYamamoto/main/assets/embedding-text-to-vector-basics-2026-09-15-eyecatch.png)\n\n「休みの申請方法」を探したいのに、文書の見出しは「休暇の取得手順」。同じ文字列を探",
+    "author": "YushiYamamoto",
+    "publishedAt": "2026-09-14T22:27:17.000Z",
+    "fetchedAt": "2026-09-15T10:58:27.163Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "機械学習"
+    ]
+  },
+  {
+    "id": "qiita-1f2f48a2a18160b10f90",
+    "title": "カメラを外すと、音場の設計が必要になる。慶應・NTTのSoundMHPEによる複数人姿勢推定",
+    "url": "https://qiita.com/emi_ndk/items/1f2f48a2a18160b10f90",
+    "content": "\n映像を撮りにくい屋内で人の姿勢を把握したいなら、光以外の観測手段が必要になる。\n慶應義塾大学・NTT・東京理科大学の共同研究SoundMHPEは、室内に流した音の変化から、1〜3人の3次元姿勢を推定する実験を報告した。［1］\n導入を考えるうえでの要点は、音を測る装置、時間と周波数を扱うモデル、設置場所ごとの検証を一体で設計することだ。\n\n論文『Sound-based Multi-Person 3",
+    "author": "emi_ndk",
+    "publishedAt": "2026-09-14T19:19:16.000Z",
+    "fetchedAt": "2026-09-15T10:58:27.163Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "機械学習",
+      "信号処理",
+      "姿勢推定",
+      "Transformer"
+    ]
+  },
+  {
+    "id": "qiita-130182ce8e51fd95a54a",
+    "title": "ガンダムSEEDのOS書き換えシーンを現代の技術目線で考えてみた",
+    "url": "https://qiita.com/Sato_Suzu/items/130182ce8e51fd95a54a",
+    "content": "## はじめに\n\n『機動戦士ガンダムSEED』には、キラ・ヤマトが戦闘中にOSを書き換える印象的なシーンがあります。\n\nそのときに飛び出すのが、こんな専門用語のオンパレードです。\n\n> 「キャリブレーション取りつつ、ゼロ モーメント ポイント及びCPGを再設定……」\n\n初めて聞いたときは\n\n**「何の話をしているのか全然分からない」**\n\nというのが正直なところでした。\n\nしかし登場する単語を一つ",
+    "author": "Sato_Suzu",
+    "publishedAt": "2026-09-15T10:27:30.000Z",
+    "fetchedAt": "2026-09-15T10:58:27.163Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "制御工学",
+      "ロボット工学",
+      "機械学習"
+    ]
+  },
+  {
+    "id": "qiita-c406bc1abb45e1f92eb0",
+    "title": "Google Teachable Machineから入門するニューラルネットワーク",
+    "url": "https://qiita.com/kurod/items/c406bc1abb45e1f92eb0",
+    "content": "## はじめに\n\nGoogleの「Teachable Machine」は、画像や音声、ポーズなどを使って、かなり手軽に機械学習モデルを作れるWebサービスです。\n\n画像分類なら、\n\n1. 「グー」の画像を登録\n2. 「チョキ」の画像を登録\n3. 「パー」の画像を登録\n4. モデルを学習\n\nこれだけで、Webカメラに映した手を分類できるようになります。\n\n使うだけなら簡単なんですが、\n\n**「なんで",
+    "author": "kurod",
+    "publishedAt": "2026-09-15T09:03:17.000Z",
+    "fetchedAt": "2026-09-15T10:58:27.163Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "G検定",
+      "機械学習",
+      "TeachableMachine",
+      "ニューラルネットワーク"
+    ]
+  },
+  {
+    "id": "qiita-04e1c82cdb8156bab117",
+    "title": "データ分析初心者がSIGNATE「お弁当の需要予測」でRMSE 28.65→6.73まで改善した記録",
+    "url": "https://qiita.com/exffxmizsd/items/04e1c82cdb8156bab117",
+    "content": "<!-- Qiita投稿時に、assetsフォルダ内の画像をアップロードして画像URLを置き換えてください。 -->\n\nSIGNATEの練習問題「お弁当の需要予測」に取り組みました。\n\nこの課題では、日付、曜日、献立、天気、気温などから、会社のカフェフロアで販売されるお弁当の数を予測します。\n\n最初のPublic RMSEは28.6498でした。その後、線形回帰、Random Forest、Rid",
+    "author": "exffxmizsd",
+    "publishedAt": "2026-09-15T07:16:33.000Z",
+    "fetchedAt": "2026-09-15T10:58:27.163Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "SIGNATE",
+      "lightgbm",
+      "機械学習",
+      "Python",
+      "データ分析"
+    ]
+  },
+  {
+    "id": "qiita-4c530e90cb490c970aa2",
+    "title": "Iris データセットで学ぶサポートベクターマシン（SVM）",
+    "url": "https://qiita.com/828rimo/items/4c530e90cb490c970aa2",
+    "content": "## はじめに\nここ最近はケモインフォマティクスをやってきていましたが，\n今回は基礎的な機械学習について学ぶために Iris（アヤメ）データセットを題材にサポートベクターマシン（SVM）を使ってみます．\n\nSVM は「マージン最大化」という考え方でクラス間の境界を引く手法です．\n決定境界を可視化しながら，マージン・サポートベクター・ハイパーパラメータ（C，カーネル，gamma）の意味を理解しようと",
+    "author": "828rimo",
+    "publishedAt": "2026-09-15T05:42:13.000Z",
+    "fetchedAt": "2026-09-15T10:58:27.163Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "機械学習",
+      "Python",
+      "svm",
+      "iris",
+      "初心者"
+    ]
+  },
+  {
+    "id": "qiita-59ffe5b4e9e602e65404",
+    "title": "Databricks Lakebase を PostgreSQL MCP Server 経由で Unity AI Gateway から呼び出す",
+    "url": "https://qiita.com/satoshi_enomoto/items/59ffe5b4e9e602e65404",
+    "content": "## はじめに\n\n本記事では、Databricks Lakebase に対して PostgreSQL 用 MCP Server である `pg-mcp-server` を接続し、その MCP Server を Azure Container Apps にホストします。\n\nさらに、Azure Container Apps 上の MCP Server を Databricks Unity AI Gat",
+    "author": "satoshi_enomoto",
+    "publishedAt": "2026-09-15T09:42:38.000Z",
+    "fetchedAt": "2026-09-15T10:58:26.253Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Azure",
+      "Databricks",
+      "PostgreSQL",
+      "MCP",
+      "AI"
+    ]
+  },
+  {
+    "id": "qiita-dfbfbb6b150e0eb39a66",
+    "title": "Devin CLI はどのように Wiki を利用するか。DeepWiki キャッシュの仕組みと鮮度の罠",
+    "url": "https://qiita.com/Kinopee/items/dfbfbb6b150e0eb39a66",
+    "content": "Devin CLI にコードベースのリファクタリング候補を調べさせていたとき、ツールコールのこの部分に目が止まった。\n\n![devin→wikiツールコール](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4428217/a55a3d0c-08fc-4f93-b102-0e4c861b5a6b.png)\n\n```\nSearc",
+    "author": "Kinopee",
+    "publishedAt": "2026-09-15T08:07:47.000Z",
+    "fetchedAt": "2026-09-15T10:58:26.253Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Devin",
+      "DeepWiki",
+      "AI",
+      "CLI",
+      "生成AI"
+    ]
+  },
+  {
+    "id": "qiita-28e8fe3bfde0ac4563cb",
+    "title": "AIの登場で品質をどう語りますか？ 〜 要件定義・設計編 〜",
+    "url": "https://qiita.com/lscrft_kabe/items/28e8fe3bfde0ac4563cb",
+    "content": "![ai_qurity_catch.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4467200/74e7c02b-8950-4e58-91a8-36e94d8795e0.jpeg)\n\n\n言うまでもなく、システム開発において「品質」は非常に重要です。でも、みなさん。「品質が大事」という一言で終わっていないでしょうか",
+    "author": "lscrft_kabe",
+    "publishedAt": "2026-09-15T07:07:29.000Z",
+    "fetchedAt": "2026-09-15T10:58:26.253Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "要件定義",
+      "設計",
+      "品質",
+      "品質管理"
+    ]
+  },
+  {
+    "id": "qiita-dbdc51d6fb0c8f53a304",
+    "title": "Gemini Enterprise の Workflow Builder(旧Agent Designer)を整理する",
+    "url": "https://qiita.com/kuno_/items/dbdc51d6fb0c8f53a304",
+    "content": "## はじめに\n\nGemini Enterpriseには、ノーコード・ローコードで独自のエージェントやワークフローを作れる機能があります。この機能は「Agent Designer」という名前で知られていましたが、現在は「Workflow Builder」という名称に変わっています。本記事では、公式ドキュメントをもとにWorkflow Builderの概要を整理します。\n\n## Workflow B",
+    "author": "kuno_",
+    "publishedAt": "2026-09-15T06:43:00.000Z",
+    "fetchedAt": "2026-09-15T10:58:26.253Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Gemini",
+      "GoogleCloud",
+      "初心者",
+      "AI",
+      "AIエージェント"
+    ]
+  },
+  {
+    "id": "qiita-6209906985e1d16970cd",
+    "title": "Gemini Enterprise app と Agent Platform(旧Vertex AI)の違いを整理する",
+    "url": "https://qiita.com/kuno_/items/6209906985e1d16970cd",
+    "content": "## はじめに\n\n「Gemini Enterprise」について調べていると、似たような名前の製品が複数出てきて混乱することがあります。特に「Gemini Enterprise app」と「Gemini Enterprise Agent Platform」は名前が似ているため、同じもの、あるいはどちらかがもう一方の一部だと誤解しやすいポイントです。\n\n本記事では、この2つの製品の違いと、名前が似て",
+    "author": "kuno_",
+    "publishedAt": "2026-09-15T06:34:05.000Z",
+    "fetchedAt": "2026-09-15T10:58:26.253Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "GoogleCloud",
+      "Gemini",
+      "初心者",
+      "AI",
+      "AIエージェント"
+    ]
+  },
+  {
+    "id": "qiita-21238fcfa2502459f370",
+    "title": "Gemini Enterprise の Business / Standard / Plus エディションを比較してみた",
+    "url": "https://qiita.com/kuno_/items/21238fcfa2502459f370",
+    "content": "## はじめに\n\nGemini Enterpriseを導入しようとすると、まず最初に「Business」「Standard」「Plus」というエディション選びで迷います。料金や機能の違いが分かりにくく、公式サイトを読んでも情報が複数のページに分散しているため、全体像をつかみにくいと感じた方も多いのではないでしょうか。\n\n本記事では、Google Cloud公式のエディション比較ページと料金ページの",
+    "author": "kuno_",
+    "publishedAt": "2026-09-15T06:10:14.000Z",
+    "fetchedAt": "2026-09-15T10:58:26.253Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Gemini",
+      "GoogleCloud",
+      "初心者",
+      "AI",
+      "AIエージェント"
+    ]
+  },
+  {
+    "id": "zenn-652080",
+    "title": "Claude CodeとPythonでGoogle Driveファイルを自動分類・移動",
+    "url": "https://zenn.dev/ikuokuotiak/articles/claude-python-google-drive-file-auto-classify",
+    "content": "13822文字",
+    "author": "ahic",
+    "publishedAt": "2026-09-15T10:50:45.789Z",
+    "fetchedAt": "2026-09-15T10:58:25.665Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-611294",
+    "title": "How FIDO2 Works",
+    "url": "https://zenn.dev/giuliano/articles/12008f37101d63",
+    "content": "12117文字",
+    "author": "Giuliano",
+    "publishedAt": "2026-09-15T10:30:05.205Z",
+    "fetchedAt": "2026-09-15T10:58:25.665Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-652055",
+    "title": "発走5分前、オッズの旅はまだ6割しか終わっていない — 13日間の時系列観測で見えた「情報の到着時刻」",
+    "url": "https://zenn.dev/rindokulab/articles/a9489be3ea3d73",
+    "content": "2443文字",
+    "author": "日々是精進",
+    "publishedAt": "2026-09-15T10:27:14.818Z",
+    "fetchedAt": "2026-09-15T10:58:25.665Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-652048",
+    "title": "価格履歴から「本当に安い」を判断する3つの指標",
+    "url": "https://zenn.dev/aitoolresearch/articles/ee99b91eeefda7",
+    "content": "1299文字",
+    "author": "Commerce Data Research",
+    "publishedAt": "2026-09-15T10:27:08.838Z",
+    "fetchedAt": "2026-09-15T10:58:25.665Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-652047",
+    "title": "AIワークフローを作る前に試したい「小さな検証」",
+    "url": "https://zenn.dev/aiai_tool/articles/bcd734677d4939",
+    "content": "1395文字",
+    "author": "AIAI｜AI Tools & Workflows",
+    "publishedAt": "2026-09-15T10:21:03.764Z",
+    "fetchedAt": "2026-09-15T10:58:25.665Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-651958",
+    "title": "「天気予報」ではなく「天気予想」を作った話",
+    "url": "https://zenn.dev/moshimo_weather/articles/22c6cb1fe48c70",
+    "content": "3354文字",
+    "author": "もしも天気",
+    "publishedAt": "2026-09-15T10:19:57.369Z",
+    "fetchedAt": "2026-09-15T10:58:25.665Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-651700",
+    "title": "2026年に今さらWin32 APIでアプリを作って分かったこと",
+    "url": "https://zenn.dev/mamepol/articles/725452dd4f4f0c",
+    "content": "4270文字",
+    "author": "Pol",
+    "publishedAt": "2026-09-15T10:16:12.883Z",
+    "fetchedAt": "2026-09-15T10:58:25.665Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-651267",
+    "title": "Digest認証を理解する【理論編】",
+    "url": "https://zenn.dev/shogo00713/articles/digestauth-theory",
+    "content": "10310文字",
+    "author": "shogo",
+    "publishedAt": "2026-09-15T10:14:21.715Z",
+    "fetchedAt": "2026-09-15T10:58:25.665Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-651266",
+    "title": "Digest認証を理解する【実践編】",
+    "url": "https://zenn.dev/shogo00713/articles/digestauth-forge",
+    "content": "7566文字",
+    "author": "shogo",
+    "publishedAt": "2026-09-15T10:14:11.570Z",
+    "fetchedAt": "2026-09-15T10:58:25.665Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-644573",
+    "title": "RLHFを選好データ・報酬モデル・PPOから実装目線で整理する",
+    "url": "https://zenn.dev/kas_blog/articles/20260509-llm-13-rlhf",
+    "content": "13430文字",
+    "author": "kas's blog",
+    "publishedAt": "2026-09-15T10:07:07.679Z",
+    "fetchedAt": "2026-09-15T10:58:25.665Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n4d119ed07982",
+    "title": "GPT-6 Astraとは？使い方・料金・特徴・GPT-5.6 Solとの違いを解説",
+    "url": "https://note.com/hiro_seki/n/n4d119ed07982",
+    "content": "こんにちは！ヒロです！OpenAIは2026年9月3日、次世代のAIモデル「GPT-6 Astra」を公開しました。続きをみる",
+    "author": "hiro_seki",
+    "publishedAt": "2026-09-12T12:20:09.000Z",
+    "fetchedAt": "2026-09-15T04:17:43.385Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -324,24 +807,6 @@
     ]
   },
   {
-    "id": "qiita-2ad76cf4bf42c2c93999",
-    "title": "AppleのAIチップは1MBちょうどで急に遅くなる、その原因と直し方",
-    "url": "https://qiita.com/okssusucha/items/2ad76cf4bf42c2c93999",
-    "content": "ひとことで言うと、AppleのAIチップに「きっかり1MBで急に遅くなる」落とし穴があり、それを避ける方法が見つかった、という話だ。手元のMacやiPhoneだけでAIを動かすとき、一部のAIがこの落とし穴のせいで本来の半分ほどの速さしか出ていなかった。避けるだけで速くなるので、ネットにつながなくても使える手元のAIが、ぐっと実用的になる。\n\nここでいうAI専用チップ(ニューラルエンジン)とは、ひ",
-    "author": "okssusucha",
-    "publishedAt": "2026-09-15T00:11:44.000Z",
-    "fetchedAt": "2026-09-15T04:17:39.507Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "AI",
-      "Apple",
-      "LLM",
-      "機械学習",
-      "パフォーマンス"
-    ]
-  },
-  {
     "id": "qiita-b30b25e29e93f295f420",
     "title": "トランスフォーマーは早すぎた",
     "url": "https://qiita.com/dosanko_tousan/items/b30b25e29e93f295f420",
@@ -406,91 +871,6 @@
       "AIアライメント",
       "強化学習",
       "Terminator"
-    ]
-  },
-  {
-    "id": "qiita-db8fc410eabea4d5b9f2",
-    "title": "【技術解説】【完全ガイド】Pythonで株価データをスクレイピングして分析する方法",
-    "url": "https://qiita.com/sugarfree/items/db8fc410eabea4d5b9f2",
-    "content": "# Pythonで株価データをスクレイピングして分析する方法\n\nこの記事では、Pythonを使用して株価データをスクレイピングし、分析するための手法について詳しく解説します。具体的には、`yfinance`ライブラリを用いてYahoo Financeから株価データを取得する方法や、よくあるエラーとその対策について触れます。\n\n## 株価データを取得するためのPythonライブラリの選定\n\n株価デー",
-    "author": "sugarfree",
-    "publishedAt": "2026-09-15T02:00:40.000Z",
-    "fetchedAt": "2026-09-15T04:17:38.209Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "自動売買",
-      "機械学習"
-    ]
-  },
-  {
-    "id": "qiita-c8c71b5675867b2a4b2a",
-    "title": "因果推論 Day 29／全30回　ベイズ×因果推論、効果を分布で語る",
-    "url": "https://qiita.com/akiralab/items/c8c71b5675867b2a4b2a",
-    "content": "\n## この連載について\n\n因果推論を「本を読んだ」で終わらせず、**自分の言葉で説明でき、コードで再現できる状態**まで落とす30日連載です。前回の[Day 28](https://qiita.com/akiralab/items/9c72aa49cd6ad6e26b34)では、隣の自治体に効果が漏れる世界を扱いました。空間的に滑らかな未観測交絡と、SUTVAを破るスピルオーバーです。今日は道具",
-    "author": "akiralab",
-    "publishedAt": "2026-09-15T00:21:16.000Z",
-    "fetchedAt": "2026-09-15T04:17:38.209Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "因果推論",
-      "統計",
-      "Python",
-      "機械学習",
-      "ベイズ統計"
-    ]
-  },
-  {
-    "id": "qiita-c7a3692bef1e49faafa1",
-    "title": "Python×機械学習の基礎固め3選",
-    "url": "https://qiita.com/koukyo/items/c7a3692bef1e49faafa1",
-    "content": "## はじめに\n\n自分が機械学習の勉強を本格的に始めたきっかけは、業務で「この問い合わせログを自動分類したい」と言われたことだった。とりあえず scikit-learn のチュートリアルを写経して、なんとなく動くものはできた。精度も8割くらい出た。それで一度は満足した。\n\n問題が起きたのはその後だ。運用を始めて数週間、精度が明らかに落ちてきた。原因を聞かれても答えられない。学習データの偏りなのか、",
-    "author": "koukyo",
-    "publishedAt": "2026-09-15T00:10:55.000Z",
-    "fetchedAt": "2026-09-15T04:17:38.209Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "機械学習",
-      "Python",
-      "scikit-learn",
-      "DeepLearning",
-      "書籍"
-    ]
-  },
-  {
-    "id": "qiita-e5cfe4e41d777cc62a51",
-    "title": "埋め込み入門：文章を数値に変えて検索する流れをつかむ",
-    "url": "https://qiita.com/YushiYamamoto/items/e5cfe4e41d777cc62a51",
-    "content": "\n![Text embedding vectors](https://raw.githubusercontent.com/YushiYamamoto/YushiYamamoto/main/assets/embedding-text-to-vector-basics-2026-09-15-eyecatch.png)\n\n「休みの申請方法」を探したいのに、文書の見出しは「休暇の取得手順」。同じ文字列を探",
-    "author": "YushiYamamoto",
-    "publishedAt": "2026-09-14T22:27:17.000Z",
-    "fetchedAt": "2026-09-15T04:17:38.209Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "AI",
-      "機械学習"
-    ]
-  },
-  {
-    "id": "qiita-1f2f48a2a18160b10f90",
-    "title": "カメラを外すと、音場の設計が必要になる。慶應・NTTのSoundMHPEによる複数人姿勢推定",
-    "url": "https://qiita.com/emi_ndk/items/1f2f48a2a18160b10f90",
-    "content": "\n映像を撮りにくい屋内で人の姿勢を把握したいなら、光以外の観測手段が必要になる。\n慶應義塾大学・NTT・東京理科大学の共同研究SoundMHPEは、室内に流した音の変化から、1〜3人の3次元姿勢を推定する実験を報告した。［1］\n導入を考えるうえでの要点は、音を測る装置、時間と周波数を扱うモデル、設置場所ごとの検証を一体で設計することだ。\n\n論文『Sound-based Multi-Person 3",
-    "author": "emi_ndk",
-    "publishedAt": "2026-09-14T19:19:16.000Z",
-    "fetchedAt": "2026-09-15T04:17:38.209Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "AI",
-      "機械学習",
-      "信号処理",
-      "姿勢推定",
-      "Transformer"
     ]
   },
   {
