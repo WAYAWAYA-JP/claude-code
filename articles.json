@@ -1,24 +1,12 @@
 [
   {
-    "id": "note-na53e9e43fbb9",
-    "title": "【2026年最新】Claude Code Desktop版とCLI版の違いを比較｜自動化の方法と初心者向けの選び方",
-    "url": "https://note.com/hiro_seki/n/na53e9e43fbb9",
-    "content": "こんにちは！ヒロです！Claude Codeを使ってみたいものの、「Desktop版とCLI版は何が違う？」「初心者はどちらを選べばいい？」続きをみる",
-    "author": "hiro_seki",
-    "publishedAt": "2026-09-16T09:25:23.000Z",
-    "fetchedAt": "2026-09-19T10:15:01.256Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
     "id": "note-nc9cd8da7f299",
     "title": "AIエージェントとは？仕組みや生成AIとの違い、できることを初心者向けに解説",
     "url": "https://note.com/hiro_seki/n/nc9cd8da7f299",
     "content": "こんにちは！ヒロです！近頃、AIエージェントという言葉を目にする機会が増えています。続きをみる",
     "author": "hiro_seki",
     "publishedAt": "2026-09-17T07:36:17.000Z",
-    "fetchedAt": "2026-09-19T10:15:01.256Z",
+    "fetchedAt": "2026-09-19T15:25:54.581Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -30,19 +18,19 @@
     "content": "Claude Codeは非エンジニアの業務自動化にも使えるこんにちは！ヒロです！続きをみる",
     "author": "hiro_seki",
     "publishedAt": "2026-09-18T10:39:28.000Z",
-    "fetchedAt": "2026-09-19T10:15:01.256Z",
+    "fetchedAt": "2026-09-19T15:25:54.581Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
   },
   {
-    "id": "note-nb4360591fc32",
-    "title": "はじめての有料記事 設計シート完全版｜テーマ・境目・価格・タイトル・誘導文が1枚で決まる",
-    "url": "https://note.com/monetize_tips/n/nb4360591fc32",
-    "content": "noteを始めて数か月。無料記事は何本か書けた。でも有料記事はまだ0本。そんな人は多いと思います。「いくらにすればいいんだろう」「どこからお金をもらっていいのか分からない」「そもそも何を書けばいいのか」。この3つの悩みは、私が今まで受け取った質問の中でも特に多いものでした。私自身も、最初の有料記事を出すまでに何度も手が止まりました。テーマを変え、値段を何度も見直し、結局1週間以上そのままになったこ",
-    "author": "monetize_tips",
-    "publishedAt": "2026-09-17T07:42:56.000Z",
-    "fetchedAt": "2026-09-19T10:15:00.947Z",
+    "id": "note-ncc51f5bcdcfe",
+    "title": "Codexのサンドボックスとは？3つのモード・権限設定・エラー対処法を解説",
+    "url": "https://note.com/hiro_seki/n/ncc51f5bcdcfe",
+    "content": "こんにちは！ヒロです！Codexで作業していると「サンドボックス」という表示が出て、PCをどこまで操作されるのか不安になる場合があります。続きをみる",
+    "author": "hiro_seki",
+    "publishedAt": "2026-09-19T12:44:42.000Z",
+    "fetchedAt": "2026-09-19T15:25:54.581Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -54,7 +42,7 @@
     "content": "「noteを始めたいけれど、最初の一歩が踏み出せない」そんな悩みを持つあなたへ。PCやスマホの前で指が止まってしまう気持ち、とてもよく分かります。私も最初は「誰が私の話なんて読むんだろう」「面白いことを書かなきゃいけないのかな」と、何度も画面を閉じては開くを繰り返していました。続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-09-17T11:00:26.000Z",
-    "fetchedAt": "2026-09-19T10:15:00.947Z",
+    "fetchedAt": "2026-09-19T15:25:54.268Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -66,7 +54,19 @@
     "content": "せっかくついたスキや感想。嬉しいけれど、喜んで終わりにしていませんか。その1つの反応には、次の記事で読まれるための大きなヒントが隠れています。この記事でわかること・スキの数から読者の本音を読み解く3つのチェック手順・もらった感想を自然に次の記事ネタへ変える質問の型・反応を活かして月3,000円の収益につなげる記事の組み立て方続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-09-18T11:00:31.000Z",
-    "fetchedAt": "2026-09-19T10:15:00.947Z",
+    "fetchedAt": "2026-09-19T15:25:54.268Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-nac14c141d8d6",
+    "title": "何を書けばいいの？note初心者でも続く「ネタ選び」のヒント",
+    "url": "https://note.com/monetize_tips/n/nac14c141d8d6",
+    "content": "noteを始めようとパソコンを開いたものの、画面の白さに圧倒されて指が止まってしまう。そんな経験はありませんか。「何を書いたらいいのかわからない」「誰にも見せられるような特別な特技なんてない」続きをみる",
+    "author": "monetize_tips",
+    "publishedAt": "2026-09-19T11:00:26.000Z",
+    "fetchedAt": "2026-09-19T15:25:54.268Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -78,7 +78,7 @@
     "content": "Codex+ComfyUI-MPCで、専用のSkillを作って、SUNOのHook制作をComfyUIを立ち上げることなく、Codexのみでやってみました。Codexはほんとに出来る相方のように動いてくれますね。続きをみる",
     "author": "Yuki",
     "publishedAt": "2026-08-30T00:07:00.000Z",
-    "fetchedAt": "2026-09-19T10:15:00.638Z",
+    "fetchedAt": "2026-09-19T15:25:53.956Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -90,7 +90,7 @@
     "content": "MiniMax H3では日本語を含めた文字描画が可能で、タイポグラフィによるリリックモーションも生成できます。続きをみる",
     "author": "Yuki",
     "publishedAt": "2026-09-02T13:34:38.000Z",
-    "fetchedAt": "2026-09-19T10:15:00.638Z",
+    "fetchedAt": "2026-09-19T15:25:53.956Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -102,7 +102,7 @@
     "content": "MiniMax H3が盛り上がっているのは嬉しいことだけど、高速化の方法がありすぎん？続きをみる",
     "author": "Yuki",
     "publishedAt": "2026-09-11T23:44:49.000Z",
-    "fetchedAt": "2026-09-19T10:15:00.638Z",
+    "fetchedAt": "2026-09-19T15:25:53.956Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -114,7 +114,7 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-08-15T02:32:58.000Z",
-    "fetchedAt": "2026-09-19T10:15:00.324Z",
+    "fetchedAt": "2026-09-19T15:25:53.644Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -126,7 +126,7 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-08-21T08:43:05.000Z",
-    "fetchedAt": "2026-09-19T10:15:00.324Z",
+    "fetchedAt": "2026-09-19T15:25:53.644Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -138,7 +138,7 @@
     "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
     "author": "きまま / Easygoi...",
     "publishedAt": "2026-08-29T02:39:09.000Z",
-    "fetchedAt": "2026-09-19T10:15:00.324Z",
+    "fetchedAt": "2026-09-19T15:25:53.644Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -150,7 +150,7 @@
     "content": "こんにちは！YaroTechです。昨日、出張先から自宅のPCにもNASにも入れなくなった話を書きました。原因は分からないまま投稿しています。続きをみる",
     "author": "YaroTech",
     "publishedAt": "2026-09-16T14:34:22.000Z",
-    "fetchedAt": "2026-09-19T10:15:00.018Z",
+    "fetchedAt": "2026-09-19T15:25:53.331Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -162,7 +162,7 @@
     "content": "こんにちは！YaroTechです。昨日直した自宅のWi-Fiモデムは、今朝も「OK」のままでした。ひとまず、二人目の犯人も捕まえたことにします。続きをみる",
     "author": "YaroTech",
     "publishedAt": "2026-09-17T13:22:08.000Z",
-    "fetchedAt": "2026-09-19T10:15:00.018Z",
+    "fetchedAt": "2026-09-19T15:25:53.331Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -174,7 +174,7 @@
     "content": "こんにちは！YaroTechです。研修や企業からの相談の場で、私は「動くアプリの画面」をその場で作って見せることが増えました。クロ助（Claude）のArtifacts、ジミー（Gemini）のCanvas。困りごとを聞いて、その日のうちに画面が動きます。続きをみる",
     "author": "YaroTech",
     "publishedAt": "2026-09-19T04:42:59.000Z",
-    "fetchedAt": "2026-09-19T10:15:00.018Z",
+    "fetchedAt": "2026-09-19T15:25:53.331Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -186,7 +186,7 @@
     "content": "GPT-6 Astraが学習済みVLAを使わずにロボットを操作したRoboDojo評価から、その性能と限界を整理します。続きをみる",
     "author": "npaka",
     "publishedAt": "2026-09-16T23:54:42.000Z",
-    "fetchedAt": "2026-09-19T10:14:59.707Z",
+    "fetchedAt": "2026-09-19T15:25:53.019Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -198,7 +198,7 @@
     "content": "「Raspberry Pi」は、電子工作やプログラミング学習の定番となっている小型コンピュータです。LEDやセンサー、モーター、カメラなどを接続し、Pythonから動かせます。現在では、ChatGPTや画像認識AIと組み合わせたアプリも作れます。興味はあっても、「部品や配線が難しそう」と感じ、はじめようか迷っている人も多いのではないでしょうか。続きをみる",
     "author": "npaka",
     "publishedAt": "2026-09-17T05:06:15.000Z",
-    "fetchedAt": "2026-09-19T10:14:59.707Z",
+    "fetchedAt": "2026-09-19T15:25:53.019Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -210,7 +210,7 @@
     "content": "「Jev」のクイックスタートをまとめました。続きをみる",
     "author": "npaka",
     "publishedAt": "2026-09-19T08:32:19.000Z",
-    "fetchedAt": "2026-09-19T10:14:59.707Z",
+    "fetchedAt": "2026-09-19T15:25:53.019Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -222,7 +222,7 @@
     "content": "「割っちゃった」くまさんがぽつりと言った。足元を見ると、白いかけらが床いっぱいに散らばっている。さっきまで何かの形をしていたものが、もう元に戻らない形になっていた。光が斜めに差し込んでいて、床がところどころ、きらきら光っている。こぼれた何かが、まだ乾かずに残っているらしい。                          \n割っちゃった pic.twitter.com/y8qXLFT4Iw— ク",
     "author": "クズなくまさん",
     "publishedAt": "2026-06-23T12:23:49.000Z",
-    "fetchedAt": "2026-09-19T10:14:59.399Z",
+    "fetchedAt": "2026-09-19T15:25:52.705Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -234,7 +234,7 @@
     "content": "一枚のイラストから、始まった。木々の隙間から光が差し込む森を抜けた先に、白い花でいっぱいの原っぱが広がっている。小さなくまが、大きなくまに向かって小さな手を伸ばしている。「やっと会えたね」——短いその言葉に、二匹のあいだにあった時間の分だけの重みが乗っていた。                          \nやっと会えたね🙌 pic.twitter.com/9sXAH757f4— クズなくま",
     "author": "クズなくまさん",
     "publishedAt": "2026-07-01T21:59:53.000Z",
-    "fetchedAt": "2026-09-19T10:14:59.399Z",
+    "fetchedAt": "2026-09-19T15:25:52.705Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -246,46 +246,10 @@
     "content": "「満タンまで待てない……」そうつぶやいた主に、くまさんはすぐ食いついた。大きなくまがホースを構え、小さなくまが待ちきれない顔で水を見つめている一枚。もくもくの入道雲が空を占領し、遠くには飛行機雲が一本、まっすぐ伸びていく。絶好の水遊び日和だった。ふたりの視線は、自然とあの水しぶきに吸い寄せられていった。                          \n満タンまで待てない… pic.twitte",
     "author": "クズなくまさん",
     "publishedAt": "2026-07-09T10:07:22.000Z",
-    "fetchedAt": "2026-09-19T10:14:59.399Z",
+    "fetchedAt": "2026-09-19T15:25:52.705Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
-  },
-  {
-    "id": "qiita-73217604ddfe788ed12a",
-    "title": "院内ローカルLLMを自作したクリニックの費用: Mac Studio 最安構成約42万円、ベンダー経由は初期400万円〜",
-    "url": "https://qiita.com/quotidia/items/73217604ddfe788ed12a",
-    "content": "> 本記事は筆者が運営する [AI Quotidia](https://ai.quotidia.jp?utm_source=qiita&utm_medium=referral) の海外ニュース解説記事です。\n\n<strong>東京都文京区の本郷真砂ハートクリニック (内科・循環器内科・漢方内科) が、院内に設置したAIサーバーで診療情報を処理していることを、公式サイトに2026年9月16日(水)付",
-    "author": "quotidia",
-    "publishedAt": "2026-09-19T03:34:33.000Z",
-    "fetchedAt": "2026-09-19T10:14:59.377Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "AI",
-      "ChatGPT",
-      "生成AI",
-      "LLM",
-      "医療"
-    ]
-  },
-  {
-    "id": "qiita-d1203a7bcb28b0daf770",
-    "title": "LLM (Large Language Model) / Attention 機構の基礎から",
-    "url": "https://qiita.com/s059ff/items/d1203a7bcb28b0daf770",
-    "content": "# LLM (Large Language Model)\n\n本記事では,\n\n1. 昨今の GPT, claude 等に代表される大規模言語モデルの核となる技術 (Attention, Transformer 機構)\n3. 代表的な言語モデル (GPT, BERT, T5)\n4. Tranformer ベースの大規模言語モデルの問題点とその解決を試みた新しいモデル (RetNet, AFT, RWK",
-    "author": "s059ff",
-    "publishedAt": "2026-09-19T02:37:17.000Z",
-    "fetchedAt": "2026-09-19T10:14:59.377Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "LLM",
-      "MachineLearning",
-      "機械学習",
-      "自然言語処理",
-      "Transformer"
-    ]
   },
   {
     "id": "qiita-4ca5f9318844c4d480ae",
@@ -294,7 +258,7 @@
     "content": "# CLIP (Contrastive Language-Image Pretraining) と発展技術\n\n本記事では, VLM (Vision Language Model) を構成する中核技術の一つである, AI に画像とテキストの関連付けを理解させる方法についていくつか解説しています.\n\n## 1. CLIP: Contrastive Language–Image Pre-training",
     "author": "s059ff",
     "publishedAt": "2026-09-19T06:18:51.000Z",
-    "fetchedAt": "2026-09-19T10:14:59.377Z",
+    "fetchedAt": "2026-09-19T15:25:52.622Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -306,13 +270,67 @@
     ]
   },
   {
+    "id": "qiita-38c807006c9e9557b25b",
+    "title": "Jev の Noul Choice Score を TypeScript の制御フローへ接続する",
+    "url": "https://qiita.com/ynakayama/items/38c807006c9e9557b25b",
+    "content": "2026 年 9 月 14 日、TypeSafe AI は System One Model の最初の公開モデルとして Jev を発表しました。TypeSafe は Jev を「非構造化された状態を入力し、型付きの確率的判断を出力する」モデルとして位置付けています[[1]](https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "author": "ynakayama",
+    "publishedAt": "2026-09-19T15:05:46.000Z",
+    "fetchedAt": "2026-09-19T15:25:52.622Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Jev",
+      "TypeScript",
+      "cloudflare",
+      "LLM",
+      "AI"
+    ]
+  },
+  {
+    "id": "qiita-18463f8a209b5cb400b6",
+    "title": "OpenAI Agent APIのホスト型コンテナで過剰請求、利用者は請求確認を",
+    "url": "https://qiita.com/picnic/items/18463f8a209b5cb400b6",
+    "content": "\n## はじめに\n\n2026年9月19日、OpenAI のステータスページに新規インシデントが3件掲載されました。いずれも現在は **Resolved（解決済み）** ですが、その中の1件——**Agent API の OpenAI ホスト型コンテナに対する過剰請求**——は、実際に金銭が絡む問題であり、該当機能を利用している開発者は請求明細を確認しておく価値があります。\n\n本記事では、この3件の",
+    "author": "picnic",
+    "publishedAt": "2026-09-19T14:25:48.000Z",
+    "fetchedAt": "2026-09-19T15:25:52.622Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "OpenAI",
+      "API",
+      "AI",
+      "LLM",
+      "インシデント"
+    ]
+  },
+  {
+    "id": "qiita-d1203a7bcb28b0daf770",
+    "title": "LLM (Large Language Model) / Attention 機構の基礎から",
+    "url": "https://qiita.com/s059ff/items/d1203a7bcb28b0daf770",
+    "content": "# LLM (Large Language Model)\n\n本記事では,\n\n1. 昨今の GPT, claude 等に代表される大規模言語モデルの核となる技術 (Attention, Transformer 機構)\n3. 代表的な言語モデル (GPT, BERT, T5)\n4. Tranformer ベースの大規模言語モデルの問題点とその解決を試みた新しいモデル (RetNet, AFT, RWK",
+    "author": "s059ff",
+    "publishedAt": "2026-09-19T02:37:17.000Z",
+    "fetchedAt": "2026-09-19T15:25:51.430Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "LLM",
+      "MachineLearning",
+      "機械学習",
+      "自然言語処理",
+      "Transformer"
+    ]
+  },
+  {
     "id": "qiita-aaf3f44f982c544a0150",
     "title": "AIモデルを1.485ビットまで圧縮、ゼロの多さを突く新しい詰め方",
     "url": "https://qiita.com/okssusucha/items/aaf3f44f982c544a0150",
     "content": "ひとことで言うと、いまのAIモデルの中身は「ゼロだらけ」で、そこを突くと今までより小さく詰められる、という話です。モデルが小さくなると、動かすお金も電力も減ります。手元のパソコンやスマホで動かせる範囲も広がります。\n\n## 目次\n- AIの中身は「-1・0・+1」でも動く\n- 半分近くが「0」だった\n- 速くて、中身は1ビットも変わらない\n\n## 🧮 AIの中身は「-1・0・+1」でも動く\n\nA",
     "author": "okssusucha",
     "publishedAt": "2026-09-19T00:14:58.000Z",
-    "fetchedAt": "2026-09-19T10:14:57.954Z",
+    "fetchedAt": "2026-09-19T15:25:51.430Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -330,7 +348,7 @@
     "content": "# 強化学習を用いた売買エージェントの構築\n\n本記事では、強化学習を活用して売買エージェントを構築する方法について解説します。Pythonを使用し、データの収集からモデルのトレーニングおよび評価までの一連の流れを紹介します。使用するライブラリには、`yfinance`および`gym`があります。\n\n## 強化学習の基本概念\n\n強化学習は、エージェントが環境と相互作用しながら報酬を最大化する行動を学",
     "author": "sugarfree",
     "publishedAt": "2026-09-19T02:00:32.000Z",
-    "fetchedAt": "2026-09-19T10:14:57.954Z",
+    "fetchedAt": "2026-09-19T15:25:51.430Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -346,7 +364,7 @@
     "content": "## はじめに\n\n自分が機械学習の仕事で一番冷や汗をかいたのは、社内レビューで「その特徴量を入れると精度が上がるのは分かった。で、なぜ汎化するの？」と聞かれた時だった。手元のノートブックは動いていたし、交差検証のスコアも出ていた。それでも一言も返せなかった。\n\n原因ははっきりしていた。ライブラリのドキュメントとブログ記事を継ぎ足して知識を作っていたからだ。scikit-learn の引数の意味は言",
     "author": "koukyo",
     "publishedAt": "2026-09-19T00:25:57.000Z",
-    "fetchedAt": "2026-09-19T10:14:57.954Z",
+    "fetchedAt": "2026-09-19T15:25:51.430Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -364,7 +382,7 @@
     "content": "![屏幕截图 2026-09-19 164800.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4484975/3b7a2ebe-b134-41a0-9143-f1d711db36cc.png)\n\n音声を使ったアプリケーションやコンテンツを作るとき、意外と時間がかかるのがナレーションの準備です。\n\nプロダクト紹介動",
     "author": "CathyChen",
     "publishedAt": "2026-09-19T08:50:40.000Z",
-    "fetchedAt": "2026-09-19T10:14:57.954Z",
+    "fetchedAt": "2026-09-19T15:25:51.430Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -382,7 +400,7 @@
     "content": "# 文書埋め込み\n\n## 0. キーワード\n\n- Sentence Representation\n- Document Embedding\n- Contrastive Learning\n\n## 1. 文書埋め込みとは\n\n- テキストを数値ベクトルに変換する手法.\n- 類似: 単語を数値ベクトルに変換する word2vec\n\n## 2. 文書埋め込みの目的\n\n1. 文ペアの意味的類似度を計算する.\n",
     "author": "s059ff",
     "publishedAt": "2026-09-19T06:26:36.000Z",
-    "fetchedAt": "2026-09-19T10:14:57.954Z",
+    "fetchedAt": "2026-09-19T15:25:51.430Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -400,7 +418,7 @@
     "content": "\n## はじめに\n\nAWS Certified AI Practitioner（AIF-C01）で問われる用語・サービス・評価指標を、**試験直前に一気に見直せる**ように圧縮したチートシートです。\n\n各セクションの末尾にある「引っかけ」は、**問題文のキーワードから答えを引く**ためのものです。最後の「総合引っかけ」だけでも、直前の確認に使えます。\n\n| 項目 | 目安 |\n|---|---|\n",
     "author": "riverwell2359",
     "publishedAt": "2026-09-19T05:55:48.000Z",
-    "fetchedAt": "2026-09-19T10:14:57.954Z",
+    "fetchedAt": "2026-09-19T15:25:51.430Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -418,7 +436,7 @@
     "content": "ゲノム解析では、候補の変異を広く調べる処理と、一つの変異の働きを詳しく調べる処理で、必要な計算の使い方が違う。\n2026年9月8日公開のAlphaGenome Atlasは、約90億通りの一塩基置換について分子への影響を事前計算し、必要な予測を照会できるようにした。\n設計の要点は、保存済みのスコアで候補を絞る経路と、配列から都度推論する経路を使い分けることにある。[1][2]\n\n:::note i",
     "author": "emi_ndk",
     "publishedAt": "2026-09-19T05:17:17.000Z",
-    "fetchedAt": "2026-09-19T10:14:57.954Z",
+    "fetchedAt": "2026-09-19T15:25:51.430Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -436,7 +454,7 @@
     "content": "# 強化学習 (Reinforcement Learning)\n\n強化学習を基礎から解説 (理解できている範囲で)\n参考文献: [斎藤 康毅　『ゼロから作るDeep Learning ❹ ― 強化学習編』](https://www.oreilly.co.jp/books/9784873119755/)\n\n## 1. 問題設定\n\n![mdp-cycle.drawio.png](https://qii",
     "author": "s059ff",
     "publishedAt": "2026-09-19T04:42:05.000Z",
-    "fetchedAt": "2026-09-19T10:14:57.954Z",
+    "fetchedAt": "2026-09-19T15:25:51.430Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -448,13 +466,327 @@
     ]
   },
   {
+    "id": "qiita-ff56137c2c32e59ce218",
+    "title": "GitHub Copilotで基本設計の精度をあげて効率化する実践プロンプト集",
+    "url": "https://qiita.com/kamome_susume/items/ff56137c2c32e59ce218",
+    "content": "基本設計のレビューで「考慮漏れがある」と指摘された経験、ありませんか？<br><br>\n一人で仕様を考えていると、どうしても視野が狭くなりがちです。<br><br>\nそんなとき頼りになるのがGitHub Copilotです。今回は基本設計フェーズで実際に使えるプロンプトを、実践的にまとめてみました。\n\n## この記事でわかること\n\n- 基本設計フェーズでCopilotを使う具体的な方法がわかる\n-",
+    "author": "kamome_susume",
+    "publishedAt": "2026-09-19T14:31:43.000Z",
+    "fetchedAt": "2026-09-19T15:25:50.999Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "copilot",
+      "AI"
+    ]
+  },
+  {
+    "id": "qiita-bb61d564bb52ded2b04a",
+    "title": "ぼやけた画像・低解像度・古写真の劣化は同じではない：Enhance / Upscale / Restore の使い分け",
+    "url": "https://qiita.com/Gaven/items/bb61d564bb52ded2b04a",
+    "content": "画像を「きれいにしたい」と言っても、実際には問題の種類が異なります。\n\n- ぼやけて輪郭が甘い\n- 画像サイズが小さく、表示や印刷に必要なピクセル数が足りない\n- 古い写真に傷、退色、ノイズなどの劣化がある\n\nこの3つを同じ処理に投げると、必要のない拡大をしたり、傷まで大きくしたり、逆に解像度だけ増えて見た目が改善しないことがあります。\n\nこの記事では、画像処理の前段で「何を直したいのか」を分類し",
+    "author": "Gaven",
+    "publishedAt": "2026-09-19T14:25:28.000Z",
+    "fetchedAt": "2026-09-19T15:25:50.999Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "画像処理",
+      "TypeScript",
+      "Web開発",
+      "画像"
+    ]
+  },
+  {
+    "id": "qiita-10586f69454e8afe8b0e",
+    "title": "JevでSQLの危険度を判定するCLIを試した：直接実行前のチェックに使える範囲と使えない範囲",
+    "url": "https://qiita.com/tonbi_attack/items/10586f69454e8afe8b0e",
+    "content": "\n## はじめに\n\n運用環境でSQLを直接実行する場面では、`DELETE` や `DROP TABLE` だけでなく、条件付きの大量更新や権限変更にも注意が必要です。\n\n[jev-sql-danger-checker](https://github.com/tonbiattack/jev-sql-danger-checker) は、SQLを実行せず、JevへSQL本文を送って意味的な運用リスクを",
+    "author": "tonbi_attack",
+    "publishedAt": "2026-09-19T15:03:21.000Z",
+    "fetchedAt": "2026-09-19T15:25:50.999Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "SQL",
+      "CLI",
+      "TypeScript",
+      "Jev"
+    ]
+  },
+  {
+    "id": "qiita-fe32cc8b98c339b23c2c",
+    "title": "Jevのオープンソース版Layaが出た ─ ただしゼロショットではほぼランダムだった",
+    "url": "https://qiita.com/GeneLab_999/items/fe32cc8b98c339b23c2c",
+    "content": "## この記事を読むと、明日これが決められます\n\n<font color=\"#0383ED\">**自分のプロダクトの分類・ルーティング・ガードレール処理を、LLM APIからLayaに置き換えるべきか**</font>。そして置き換えるなら、<font color=\"#0383ED\">**どれだけの追加作業を見積もるべきか**</font>。この2点を判断できる状態にして終わります。\n\n### な",
+    "author": "GeneLab_999",
+    "publishedAt": "2026-09-19T14:58:23.000Z",
+    "fetchedAt": "2026-09-19T15:25:50.999Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Jev",
+      "Laya",
+      "Python",
+      "AI",
+      "初心者"
+    ]
+  },
+  {
+    "id": "qiita-c96ed6efcabdac1e9984",
+    "title": "One Campaign, Three Formats: Making Every Layout Count",
+    "url": "https://qiita.com/youyou4545/items/c96ed6efcabdac1e9984",
+    "content": "![pro.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4461835/c6dc6a5d-fe0c-4cb2-a3e5-3a8befe7bfd3.jpeg)\nAn independent bookstore is launching a “Find Your Next Chapter” campaign. The",
+    "author": "youyou4545",
+    "publishedAt": "2026-09-19T14:51:10.000Z",
+    "fetchedAt": "2026-09-19T15:25:50.999Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "image"
+    ]
+  },
+  {
+    "id": "qiita-0ea3f25230b1cf9aafa0",
+    "title": "顔出しなしショート動画を公開前に検査する実装メモ",
+    "url": "https://qiita.com/neuhausbarsuhn106/items/0ea3f25230b1cf9aafa0",
+    "content": "# 顔出しなしショート動画を公開前に検査するための実装メモ\n\nAIを利用したショート動画制作では、生成そのものよりも「複数の工程で内容がずれていないか」を確認する処理が重要です。スクリプト、シーン表、素材、ナレーション、字幕、最終書き出しを別々に扱うと、固有名詞、数値、URL、字幕タイミング、素材権利などの不整合が発生しやすくなります。\n\nこの記事では、顔出しなし動画の制作データを構造化し、公開前",
+    "author": "neuhausbarsuhn106",
+    "publishedAt": "2026-09-19T14:48:31.000Z",
+    "fetchedAt": "2026-09-19T15:25:50.999Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "AI",
+      "動画編集",
+      "品質管理",
+      "自動化"
+    ]
+  },
+  {
+    "id": "qiita-7831e83955ae25806996",
+    "title": "GitHub Copilot Chatの便利機能まとめ30選",
+    "url": "https://qiita.com/kamome_susume/items/7831e83955ae25806996",
+    "content": "GitHub Copilot Chat、実は使い切れていない機能がたくさんあると思いませんか？<br><br>\nコード補完だけで終わらせるのは、正直もったいないです。<br><br>\n今回はSEの実務目線で「知っておくと得する」便利機能を30個、まとめて紹介します。\n\n## この記事でわかること\n\n- GitHub Copilot Chatの便利機能が一覧でわかる\n- 設計・テスト・調査で使えるコ",
+    "author": "kamome_susume",
+    "publishedAt": "2026-09-19T14:34:57.000Z",
+    "fetchedAt": "2026-09-19T15:25:50.999Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "copilot"
+    ]
+  },
+  {
+    "id": "qiita-829091ed3f1fb236378a",
+    "title": "AIにコードを書かせるようになったら、JIS配列でもUS配列でもどうでもよくなってきた",
+    "url": "https://qiita.com/tonbi_attack/items/829091ed3f1fb236378a",
+    "content": "\n## はじめに\n\n以前は、JIS配列とUS配列の違いをそれなりに気にしていました。\n\nコードを書くなら、`@`、`:`、`[]`、`{}`、`\"`、`'`、`\\\\`、`|` などの記号を頻繁に入力します。キーに印字されている記号と実際に入力される記号が違う状態では、毎日の開発はかなりやりづらいはずでした。\n\nところが最近、会社の貸与PCでJIS配列として設定されたWindowsに、US配列の外付",
+    "author": "tonbi_attack",
+    "publishedAt": "2026-09-19T15:25:36.000Z",
+    "fetchedAt": "2026-09-19T15:25:50.999Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "Keyboard",
+      "Windows",
+      "プログラミング"
+    ]
+  },
+  {
+    "id": "zenn-654309",
+    "title": "CodexのGoalとして必要十分な目標の導出方法",
+    "url": "https://zenn.dev/midori/articles/70ca4a0911908b",
+    "content": "1201文字",
+    "author": "みどり",
+    "publishedAt": "2026-09-19T15:24:50.155Z",
+    "fetchedAt": "2026-09-19T15:25:50.480Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-653338",
+    "title": "【演習ノック編】SQL50本ノック - 手を動かして定着させる",
+    "url": "https://zenn.dev/kipcop/articles/b42-go-36x1-sql-knock",
+    "content": "26993文字",
+    "author": "k.ike",
+    "publishedAt": "2026-09-19T15:24:04.301Z",
+    "fetchedAt": "2026-09-19T15:25:50.480Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-654319",
+    "title": "TypeSafe AI「Jev」の実効性能検証レポート（約2.8万リクエストによる精度・速度・コスト評価）",
+    "url": "https://zenn.dev/biscuit/articles/typesafe-ai-jev-benchmark-2026-09",
+    "content": "16682文字",
+    "author": "biscuit",
+    "publishedAt": "2026-09-19T15:10:17.088Z",
+    "fetchedAt": "2026-09-19T15:25:50.480Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-654318",
+    "title": "Ternary Bonsai 2 27BをM1Pro・16GBで動かす",
+    "url": "https://zenn.dev/okame_rara/articles/bonsai_2_27b_m1",
+    "content": "7665文字",
+    "author": "はたけ",
+    "publishedAt": "2026-09-19T15:05:52.629Z",
+    "fetchedAt": "2026-09-19T15:25:50.480Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-654313",
+    "title": "JevでSQLの危険度を判定するCLIを試した：直接実行前のチェックに使える範囲と使えない範囲",
+    "url": "https://zenn.dev/tonbi_attack/articles/jev-sql-danger-checker",
+    "content": "2990文字",
+    "author": "tonbiattack",
+    "publishedAt": "2026-09-19T15:03:36.586Z",
+    "fetchedAt": "2026-09-19T15:25:50.480Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-654317",
+    "title": "CC Scheduled Tasks — Claude Code を定期実行して開発を自動化する",
+    "url": "https://zenn.dev/seckeyjp/articles/j-six-scheduled-tasks",
+    "content": "9068文字",
+    "author": "SeckeyJP",
+    "publishedAt": "2026-09-19T15:01:46.976Z",
+    "fetchedAt": "2026-09-19T15:25:50.480Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-654199",
+    "title": "【TypeScript】Branded Typesをもっと便利に、堅牢に：Valofの紹介（前編）",
+    "url": "https://zenn.dev/jo16oh/articles/1c9c0501fb47a3",
+    "content": "7215文字",
+    "author": "Joichiro Hayashi",
+    "publishedAt": "2026-09-19T15:00:57.397Z",
+    "fetchedAt": "2026-09-19T15:25:50.480Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-654316",
+    "title": "Jevのオープンソース版Layaの数字を、一次情報3つで突き合わせてみた",
+    "url": "https://zenn.dev/genelab_999/articles/77ce1dcf344900",
+    "content": "8464文字",
+    "author": "GeneLab",
+    "publishedAt": "2026-09-19T15:00:48.763Z",
+    "fetchedAt": "2026-09-19T15:25:50.480Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-652410",
+    "title": "AIとの会話がクロストークにならないようにfirstmateで1体とだけ話す",
+    "url": "https://zenn.dev/inapvision/articles/firstmate_agent_crew",
+    "content": "5845文字",
+    "author": "inapyss",
+    "publishedAt": "2026-09-19T15:00:05.968Z",
+    "fetchedAt": "2026-09-19T15:25:50.480Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-654306",
+    "title": "Qwen3.5-9B を config.json から読み解く：パラメータ数と KV キャッシュを計算して checkpoint と突き",
+    "url": "https://zenn.dev/takeo_tei/articles/6d225946cd4853",
+    "content": "5854文字",
+    "author": "猛男",
+    "publishedAt": "2026-09-19T15:00:03.923Z",
+    "fetchedAt": "2026-09-19T15:25:50.480Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "qiita-37a7f41bee49971c65e7",
+    "title": "Claude Code の auto モード分類器がサーバー実行に、課金対象外になった件を解説",
+    "url": "https://qiita.com/picnic/items/37a7f41bee49971c65e7",
+    "content": "\n## はじめに\n\n2026年9月、Claude Code v2.1.278 がリリースされ、`auto` モードの内部動作に地味ながら見逃せない変更が入りました。それが **auto モード分類器のサーバーサイド既定化** です。\n\n`auto` モードは、ユーザーの入力内容に応じてどのモデル(例えば軽量タスクなら Haiku、複雑なタスクなら Sonnet/Opus)を使うかを自動判定する仕組",
+    "author": "picnic",
+    "publishedAt": "2026-09-19T14:24:41.000Z",
+    "fetchedAt": "2026-09-19T15:25:38.183Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Claude",
+      "ClaudeCode",
+      "Anthropic",
+      "AI",
+      "API"
+    ]
+  },
+  {
+    "id": "note-na53e9e43fbb9",
+    "title": "【2026年最新】Claude Code Desktop版とCLI版の違いを比較｜自動化の方法と初心者向けの選び方",
+    "url": "https://note.com/hiro_seki/n/na53e9e43fbb9",
+    "content": "こんにちは！ヒロです！Claude Codeを使ってみたいものの、「Desktop版とCLI版は何が違う？」「初心者はどちらを選べばいい？」続きをみる",
+    "author": "hiro_seki",
+    "publishedAt": "2026-09-16T09:25:23.000Z",
+    "fetchedAt": "2026-09-19T10:14:49.507Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-nb4360591fc32",
+    "title": "はじめての有料記事 設計シート完全版｜テーマ・境目・価格・タイトル・誘導文が1枚で決まる",
+    "url": "https://note.com/monetize_tips/n/nb4360591fc32",
+    "content": "noteを始めて数か月。無料記事は何本か書けた。でも有料記事はまだ0本。そんな人は多いと思います。「いくらにすればいいんだろう」「どこからお金をもらっていいのか分からない」「そもそも何を書けばいいのか」。この3つの悩みは、私が今まで受け取った質問の中でも特に多いものでした。私自身も、最初の有料記事を出すまでに何度も手が止まりました。テーマを変え、値段を何度も見直し、結局1週間以上そのままになったこ",
+    "author": "monetize_tips",
+    "publishedAt": "2026-09-17T07:42:56.000Z",
+    "fetchedAt": "2026-09-19T10:14:48.874Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "qiita-73217604ddfe788ed12a",
+    "title": "院内ローカルLLMを自作したクリニックの費用: Mac Studio 最安構成約42万円、ベンダー経由は初期400万円〜",
+    "url": "https://qiita.com/quotidia/items/73217604ddfe788ed12a",
+    "content": "> 本記事は筆者が運営する [AI Quotidia](https://ai.quotidia.jp?utm_source=qiita&utm_medium=referral) の海外ニュース解説記事です。\n\n<strong>東京都文京区の本郷真砂ハートクリニック (内科・循環器内科・漢方内科) が、院内に設置したAIサーバーで診療情報を処理していることを、公式サイトに2026年9月16日(水)付",
+    "author": "quotidia",
+    "publishedAt": "2026-09-19T03:34:33.000Z",
+    "fetchedAt": "2026-09-19T10:14:46.134Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "ChatGPT",
+      "生成AI",
+      "LLM",
+      "医療"
+    ]
+  },
+  {
     "id": "qiita-790155f405c3ebe57a9b",
     "title": "🥰 Meaning From a Girl in Text: What Does It Really Mean?",
     "url": "https://qiita.com/fahaddigitalmarketer786/private/790155f405c3ebe57a9b",
     "content": "Getting a 🥰 emoji from a girl can make you wonder what she actually means. Is she being friendly? Is she showing affection? Is she flirting? Or does she simply like using cute emojis?\n\nThe 🥰 emoji, ",
     "author": "fahaddigitalmarketer786",
     "publishedAt": "2026-09-19T09:33:08.000Z",
-    "fetchedAt": "2026-09-19T10:14:56.792Z",
+    "fetchedAt": "2026-09-19T10:14:44.597Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -470,7 +802,7 @@
     "content": "Jev は、文章の生成ではなく判断に特化した AI モデルです。\n現在の状態と選択肢を渡して、その中から一つを選ばせることができます。\n[Jev の公式ドキュメント](https://docs.typesafe.ai/introduction)\n\nこれを知って、Web サイトの UX 検証と相性がよさそうだと思いました。\nサイトを使う人も「どこを押せばいいか」「これで手続きが終わったか」を判断して",
     "author": "Aochan0604",
     "publishedAt": "2026-09-19T08:51:06.000Z",
-    "fetchedAt": "2026-09-19T10:14:56.792Z",
+    "fetchedAt": "2026-09-19T10:14:44.597Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -488,7 +820,7 @@
     "content": "# はじめに\n生成 AI・機械学習・AI アプリケーション開発が急速に普及する中で、クラウドベンダーが提供する AI 系資格の重要性が高まっています。\nとはいえ、\n- どのクラウドにどんな AI 資格があるのか？\n- それぞれの違いは？\n- 自分にはどれが向いているのか？\nと悩む方も多いと思います。\n\nこの記事では、**2026 年 8 月時点で取得可能な Amazon Web Service (",
     "author": "yutakon",
     "publishedAt": "2026-09-19T07:59:10.000Z",
-    "fetchedAt": "2026-09-19T10:14:56.792Z",
+    "fetchedAt": "2026-09-19T10:14:44.597Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -506,7 +838,7 @@
     "content": "コード紹介というより、メモと感想がメインになります。\n\n# 背景\n- 5年以上前にレンタルサーバーでWordPressのブログサイトを構築した\n- 半分趣味でやっていたため、メンテナンスする時間がなかった\n- 当時もセキュリティを意識して、インストールするプラグインの数はかなり抑えていた\n- ただし、テーマやプラグインの互換性の問題で、WordPressのバージョンがなかなか上げられない状態\n- ",
     "author": "leolui2004",
     "publishedAt": "2026-09-19T07:55:14.000Z",
-    "fetchedAt": "2026-09-19T10:14:56.792Z",
+    "fetchedAt": "2026-09-19T10:14:44.597Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -523,7 +855,7 @@
     "content": "私たちは、単純な判断も含め、AIに関するあらゆる問題にLLMを使ってきました。Jevは、そのような判断をミリ秒単位で、はるかに低いコストで処理します。その仕組みと、どのような場面で役立つのかを見ていきましょう。\n\nTypeSafe AIは2026年9月15日にJevを公開しました。会話も、コードの記述も、役に立つ文章の生成もできないモデルとしては、異例の反響を呼びました。\n\n実は、その制約にこそ意",
     "author": "dayaa",
     "publishedAt": "2026-09-19T07:49:03.000Z",
-    "fetchedAt": "2026-09-19T10:14:56.792Z",
+    "fetchedAt": "2026-09-19T10:14:44.597Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -540,7 +872,7 @@
     "content": "自分の技術記事と図（記事 4 本・関連 8 ファイル・図 8 枚＝3 回で対象は異なる）を、別の AI（GPT）に「精査して改良を洗い出して」と貼って、返ってきた指摘を 1 件ずつ現物（ファイル・commit・生成器の文言）に当てました。3 回で 17 件。**17 件とも真でした**。それでも、この記事の主張は「AI レビューは当たる」ではありません。**AI が言ったことが正しいことと、AI ",
     "author": "sumitsuke",
     "publishedAt": "2026-09-19T07:20:05.000Z",
-    "fetchedAt": "2026-09-19T10:14:56.792Z",
+    "fetchedAt": "2026-09-19T10:14:44.597Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -558,7 +890,7 @@
     "content": "![ChatGPT Image 2026年9月19日 14_50_18.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4484975/be1d9313-35d2-4079-aa2e-24e32826378d.png)\n\n\n画像を使ったWebサイトやSNSコンテンツを作っていると、意外と時間がかかるのが「背景をきれい",
     "author": "CathyChen",
     "publishedAt": "2026-09-19T06:53:15.000Z",
-    "fetchedAt": "2026-09-19T10:14:56.792Z",
+    "fetchedAt": "2026-09-19T10:14:44.597Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -575,7 +907,7 @@
     "content": "今回、ずっと作りたかった初心者向けのJava学習サイトを、AIにサポートしてもらいながらリリースしました。\n\nhttps://java.happy-engineer.com/\n\n![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/350501/4c43fc1d-0baa-4900-9476-768a28a",
     "author": "masaki-engineer",
     "publishedAt": "2026-09-19T06:44:06.000Z",
-    "fetchedAt": "2026-09-19T10:14:56.792Z",
+    "fetchedAt": "2026-09-19T10:14:44.597Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -593,7 +925,7 @@
     "content": "\n## はじめに\n\n1。\n\nこれが今回の数字です。何の1かというと、「Qiita/Zenn技術記事の定期自動投稿（毎日2回）」という名前がついている、この記事投稿タスク自身の起動トリガーが、そのトリガー自身のcron設定で実際に1日に起動する回数です。\n\n以前書いた記事([「1日のうち複数回（朝・午後）」を実際に数えたら、起動トリガーは3つあり、3つ目は1回だけ動いて無効化されていた](https",
     "author": "Hideki_Tamae",
     "publishedAt": "2026-09-19T06:24:04.000Z",
-    "fetchedAt": "2026-09-19T10:14:56.792Z",
+    "fetchedAt": "2026-09-19T10:14:44.597Z",
     "source": "Qiita",
     "category": "Tech Article",
     "tags": [
@@ -611,7 +943,7 @@
     "content": "25596文字",
     "author": "Shinya Koike",
     "publishedAt": "2026-09-19T10:04:06.079Z",
-    "fetchedAt": "2026-09-19T10:14:56.279Z",
+    "fetchedAt": "2026-09-19T10:14:44.052Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -623,7 +955,7 @@
     "content": "11471文字",
     "author": "kotton",
     "publishedAt": "2026-09-19T09:55:51.971Z",
-    "fetchedAt": "2026-09-19T10:14:56.279Z",
+    "fetchedAt": "2026-09-19T10:14:44.052Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -635,7 +967,7 @@
     "content": "14240文字",
     "author": "Dr. BobT",
     "publishedAt": "2026-09-19T09:54:36.489Z",
-    "fetchedAt": "2026-09-19T10:14:56.279Z",
+    "fetchedAt": "2026-09-19T10:14:44.052Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -647,7 +979,7 @@
     "content": "1048文字",
     "author": "lonlyboy",
     "publishedAt": "2026-09-19T09:47:32.729Z",
-    "fetchedAt": "2026-09-19T10:14:56.279Z",
+    "fetchedAt": "2026-09-19T10:14:44.052Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -659,7 +991,7 @@
     "content": "12515文字",
     "author": "miyakona",
     "publishedAt": "2026-09-19T09:45:36.193Z",
-    "fetchedAt": "2026-09-19T10:14:56.279Z",
+    "fetchedAt": "2026-09-19T10:14:44.052Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -671,7 +1003,7 @@
     "content": "2867文字",
     "author": "田崎輝代",
     "publishedAt": "2026-09-19T09:38:52.406Z",
-    "fetchedAt": "2026-09-19T10:14:56.279Z",
+    "fetchedAt": "2026-09-19T10:14:44.052Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -683,7 +1015,7 @@
     "content": "3363文字",
     "author": "maki",
     "publishedAt": "2026-09-19T09:34:07.952Z",
-    "fetchedAt": "2026-09-19T10:14:56.279Z",
+    "fetchedAt": "2026-09-19T10:14:44.052Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -695,7 +1027,7 @@
     "content": "4645文字",
     "author": "c2nor",
     "publishedAt": "2026-09-19T09:26:49.280Z",
-    "fetchedAt": "2026-09-19T10:14:56.279Z",
+    "fetchedAt": "2026-09-19T10:14:44.052Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -707,7 +1039,7 @@
     "content": "2260文字",
     "author": "otsuru",
     "publishedAt": "2026-09-19T09:19:23.584Z",
-    "fetchedAt": "2026-09-19T10:14:56.279Z",
+    "fetchedAt": "2026-09-19T10:14:44.052Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
@@ -719,7 +1051,7 @@
     "content": "8729文字",
     "author": "972697325291316",
     "publishedAt": "2026-09-19T09:15:43.556Z",
-    "fetchedAt": "2026-09-19T10:14:56.279Z",
+    "fetchedAt": "2026-09-19T10:14:44.052Z",
     "source": "Zenn",
     "category": "Tech Article",
     "tags": []
