@@ -6,7 +6,7 @@
     "content": "こんにちは！ヒロです！Codexに作業を頼んでも、途中で止まってしまい、何度も追加指示を送っていませんか。続きをみる",
     "author": "hiro_seki",
     "publishedAt": "2026-10-28T10:16:43.000Z",
-    "fetchedAt": "2026-10-31T04:55:10.844Z",
+    "fetchedAt": "2026-10-31T11:37:57.792Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -18,7 +18,7 @@
     "content": "こんにちは！ヒロです！コードを書けなくても、Codexを使えば仕事に役立つアプリを作れるのかと迷っていないでしょうか。続きをみる",
     "author": "hiro_seki",
     "publishedAt": "2026-10-29T08:43:58.000Z",
-    "fetchedAt": "2026-10-31T04:55:10.844Z",
+    "fetchedAt": "2026-10-31T11:37:57.792Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -30,19 +30,7 @@
     "content": "こんにちは！ヒロです！GPT-6.1 Solは、コーディングやPC操作、資料作成などの業務を効率化するために設計されたAIモデルです。続きをみる",
     "author": "hiro_seki",
     "publishedAt": "2026-10-30T05:24:27.000Z",
-    "fetchedAt": "2026-10-31T04:55:10.844Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n9e101d4aaac8",
-    "title": "有料noteの具体例はどう選ぶ？伝わる記事に変わる3つの基準",
-    "url": "https://note.com/monetize_tips/n/n9e101d4aaac8",
-    "content": "会社から帰って、パソコンを開く夜。有料noteを書いてみようと思い立ったものの、途中で手が止まってしまうことはありませんか。ノウハウや伝えたいことは頭にあるのに、なぜか説得力が出ない。読み返してみると、どこかで見たような教科書っぽい文章になっていて、自分でもお金を払う気になれない。そんな悩みを抱えている人は、とても多いです。続きをみる",
-    "author": "monetize_tips",
-    "publishedAt": "2026-10-28T11:00:26.000Z",
-    "fetchedAt": "2026-10-31T04:55:10.033Z",
+    "fetchedAt": "2026-10-31T11:37:57.792Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -54,7 +42,7 @@
     "content": "がんばって書いた記事。いざ「公開」のボタンを押そうとすると、指が止まってしまう。そんな経験はありませんか。誤字があったらどうしよう。だれにも読まれなかったら恥ずかしい。本当にお金をいただける内容になっているかな。続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-10-29T11:00:28.000Z",
-    "fetchedAt": "2026-10-31T04:55:10.033Z",
+    "fetchedAt": "2026-10-31T11:37:57.021Z",
     "source": "note",
     "category": "Tech Article",
     "tags": []
@@ -66,6 +54,683 @@
     "content": "noteを始めてみたけれど、フォロワーの数字がなかなか動かない。記事を書いても反応が少なくて、少しさみしい気持ちになる。そんな経験、私にもありました。でも、安心してください。noteは誰かを出し抜く場所ではなく、自分の言葉を必要としている人とつながる場所です。フォロワーが少ないのは、まだ「あなたの言葉」が届くべき場所に届いていないだけ。続きをみる",
     "author": "monetize_tips",
     "publishedAt": "2026-10-30T11:00:27.000Z",
+    "fetchedAt": "2026-10-31T11:37:57.021Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-ncd3de30d2c62",
+    "title": "書いて終わりにしていませんか？過去記事を資産にする育て方",
+    "url": "https://note.com/monetize_tips/n/ncd3de30d2c62",
+    "content": "がんばって書いた記事が、数日たつと誰にも読まれなくなってしまう。そんな寂しさを感じていませんか。時間をかけて書いた1本だからこそ、ずっと読まれる記事に育てて、毎月コツコツ読まれる資産にしていきましょう。この記事でわかること・書いた記事が読まれなくなる本当の理由・公開から30日後にやるべき手直しリスト・検索から毎月読まれる記事にする3つの工夫続きをみる",
+    "author": "monetize_tips",
+    "publishedAt": "2026-10-31T11:00:33.000Z",
+    "fetchedAt": "2026-10-31T11:37:57.021Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n03feb72ea435",
+    "title": "MiniMax H3の高速化が乱立してて結局どれ使えばいいの",
+    "url": "https://note.com/yuki_ii/n/n03feb72ea435",
+    "content": "MiniMax H3が盛り上がっているのは嬉しいことだけど、高速化の方法がありすぎん？続きをみる",
+    "author": "Yuki",
+    "publishedAt": "2026-09-11T23:44:49.000Z",
+    "fetchedAt": "2026-10-31T11:37:56.482Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n95aada32b161",
+    "title": "ComfyUI Qwen-Image2.1 ControlNetや複数画像参照で生成画像を思いどおりに",
+    "url": "https://note.com/yuki_ii/n/n95aada32b161",
+    "content": "久しぶりに画像生成もやってみてます。今回は、やや肌色多めなので閲覧にはご注意ください。続きをみる",
+    "author": "Yuki",
+    "publishedAt": "2026-10-11T14:55:02.000Z",
+    "fetchedAt": "2026-10-31T11:37:56.482Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n27b68e18ce25",
+    "title": "Qwen-Image2.1 ControlNet 参照画像の同一性を維持してDepthで書き換えられる",
+    "url": "https://note.com/yuki_ii/n/n27b68e18ce25",
+    "content": "前回もQwen-Image2.1のControlNetをやってみましたが、使いやすそうなカスタムノードがあったので、今回はそれをやってみます。続きをみる",
+    "author": "Yuki",
+    "publishedAt": "2026-10-31T08:59:00.000Z",
+    "fetchedAt": "2026-10-31T11:37:56.482Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-nf4699053eac5",
+    "title": "Qwen-Image-2.1_clear の紹介！ Alibaba の 最新画像生成 AI と厳格な非商用ライセンス",
+    "url": "https://note.com/ai_image_journey/n/nf4699053eac5",
+    "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
+    "author": "きまま / Easygoi...",
+    "publishedAt": "2026-10-02T23:52:14.000Z",
+    "fetchedAt": "2026-10-31T11:37:55.858Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n7bfda3ae29a2",
+    "title": "Krea-2-Nippon_clear を公開！ 和表現が得意な深みのある青色のアニメ向きモデル 【画像生成 AI】",
+    "url": "https://note.com/ai_image_journey/n/n7bfda3ae29a2",
+    "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
+    "author": "きまま / Easygoi...",
+    "publishedAt": "2026-10-23T22:38:52.000Z",
+    "fetchedAt": "2026-10-31T11:37:55.858Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-nb242aba2db4b",
+    "title": "MOSS-Image-SFT_clear を公開！ 30億の画像から学習したアニメイラストも得意なオープンモデル 【画像生成 AI】",
+    "url": "https://note.com/ai_image_journey/n/nb242aba2db4b",
+    "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
+    "author": "きまま / Easygoi...",
+    "publishedAt": "2026-10-30T22:59:24.000Z",
+    "fetchedAt": "2026-10-31T11:37:55.858Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-na31a75d53b30",
+    "title": "GPUに載らない大きさのAIを家のPCで動かす「3つの置き方」 ― 22GBのNemotron 3.5 BoltがRTX 3050（8GB）で動いた理由を、木と枝とカゴで説明します",
+    "url": "https://note.com/yaoyoroztech/n/na31a75d53b30",
+    "content": "こんにちは！YaroTechです。昨日の記事で、22GBのAI「Nemotron 3.5 Bolt」を、GPUのメモリが8GBしかないメインPCで動かした話を書きました。読み返すと、`-ngl`、`--n-cpu-moe`、`--moe-cache-mib`……と、専門用語だらけでした。続きをみる",
+    "author": "YaroTech",
+    "publishedAt": "2026-10-29T03:23:04.000Z",
+    "fetchedAt": "2026-10-31T11:37:55.313Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n1485bec57cd2",
+    "title": "生成AI、自分はどこまで使えている？ ― 「知っている」の先にある5つの段階と、私の机で測った立ち位置",
+    "url": "https://note.com/yaoyoroztech/n/n1485bec57cd2",
+    "content": "こんにちは！YaroTechです。研修や相談の場で生成AIの基本を説明すると、最近はよく「それは知っています」と言われます。そして続けて「もっと高度なことを教えてほしい」と言われます。続きをみる",
+    "author": "YaroTech",
+    "publishedAt": "2026-10-30T13:37:28.000Z",
+    "fetchedAt": "2026-10-31T11:37:55.313Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-nd5c2a0532d95",
+    "title": "私は「つなぐ」から始めていた ― 自分のnote 447本を、生成AI活用の5段階で分けて数えた土曜日",
+    "url": "https://note.com/yaoyoroztech/n/nd5c2a0532d95",
+    "content": "こんにちは！YaroTechです。昨日の記事で、生成AIの使いこなし度を測る「5つの段階」を作りました。聞く・頼む・渡す・つなぐ・回す、の5段です。続きをみる",
+    "author": "YaroTech",
+    "publishedAt": "2026-10-30T22:30:00.000Z",
+    "fetchedAt": "2026-10-31T11:37:55.313Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n398211e6dba2",
+    "title": "Tripo Agentic Canvas の概要",
+    "url": "https://note.com/npaka/n/n398211e6dba2",
+    "content": "「Tripo Agentic Canvas」の概要をまとめました。続きをみる",
+    "author": "npaka",
+    "publishedAt": "2026-10-31T03:35:14.000Z",
+    "fetchedAt": "2026-10-31T11:37:54.707Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n2989ce955a5e",
+    "title": "Strata の無検閲化の概要",
+    "url": "https://note.com/npaka/n/n2989ce955a5e",
+    "content": "「Strata」の無検閲化の概要をまとめました。続きをみる",
+    "author": "npaka",
+    "publishedAt": "2026-10-31T02:58:29.000Z",
+    "fetchedAt": "2026-10-31T11:37:54.707Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n66f6eaffeecb",
+    "title": "Idolの概要 - 1枚の画像から3D Gaussian Splattingを生成するAI",
+    "url": "https://note.com/npaka/n/n66f6eaffeecb",
+    "content": "「Idol」の概要をまとめました。続きをみる",
+    "author": "npaka",
+    "publishedAt": "2026-10-31T05:11:23.000Z",
+    "fetchedAt": "2026-10-31T11:37:54.707Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n57a37776dffa",
+    "title": "花畑で再会したくまさんと、GPSより先に信じる力の話",
+    "url": "https://note.com/kuzukumasan9/n/n57a37776dffa",
+    "content": "一枚のイラストから、始まった。木々の隙間から光が差し込む森を抜けた先に、白い花でいっぱいの原っぱが広がっている。小さなくまが、大きなくまに向かって小さな手を伸ばしている。「やっと会えたね」——短いその言葉に、二匹のあいだにあった時間の分だけの重みが乗っていた。                          \nやっと会えたね🙌 pic.twitter.com/9sXAH757f4— クズなくま",
+    "author": "クズなくまさん",
+    "publishedAt": "2026-07-01T21:59:53.000Z",
+    "fetchedAt": "2026-10-31T11:37:54.398Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n71dc734557b6",
+    "title": "最後に、理由もなく飛び込んだのはいつだった？",
+    "url": "https://note.com/kuzukumasan9/n/n71dc734557b6",
+    "content": "「満タンまで待てない……」そうつぶやいた主に、くまさんはすぐ食いついた。大きなくまがホースを構え、小さなくまが待ちきれない顔で水を見つめている一枚。もくもくの入道雲が空を占領し、遠くには飛行機雲が一本、まっすぐ伸びていく。絶好の水遊び日和だった。ふたりの視線は、自然とあの水しぶきに吸い寄せられていった。                          \n満タンまで待てない… pic.twitte",
+    "author": "クズなくまさん",
+    "publishedAt": "2026-07-09T10:07:22.000Z",
+    "fetchedAt": "2026-10-31T11:37:54.398Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-neb075fbfe340",
+    "title": "はじめまして、クズなくまさんです！",
+    "url": "https://note.com/kuzukumasan9/n/neb075fbfe340",
+    "content": "はじめましてこのくまさんの名前は「クズなくまさん」です！続きをみる",
+    "author": "クズなくまさん",
+    "publishedAt": "2026-10-04T09:54:04.000Z",
+    "fetchedAt": "2026-10-31T11:37:54.397Z",
+    "source": "note",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "qiita-d562e2096f493e796eab",
+    "title": "【実録】チャットだけでChatGPTの「請求書チェック」プラグインは作れる！",
+    "url": "https://qiita.com/torifukukaiou/items/d562e2096f493e796eab",
+    "content": "![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/131808/e90a48e7-164d-4bec-898b-e5fe503e9e2f.png)\n\n\n## はじめに\n\n2026年11月2日（月）に休みたい。土日と11月3日（文化の日）に挟まれているので、ここを休めば4連休になります。\n\nところが、月初",
+    "author": "torifukukaiou",
+    "publishedAt": "2026-10-31T11:34:04.000Z",
+    "fetchedAt": "2026-10-31T11:37:53.535Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "闘魂連鎖",
+      "ChatGPT",
+      "AI",
+      "プラグイン",
+      "ChatGPTプラグイン"
+    ]
+  },
+  {
+    "id": "qiita-a13b7b775f8af678374b",
+    "title": "How to generate shirt design ideas with AI (and stop getting generic blobs)",
+    "url": "https://qiita.com/chrisgraham70/items/a13b7b775f8af678374b",
+    "content": "Open any AI image tool, type \"cool t-shirt design,\" and you get the same beige gradient blob everyone else gets. The model isn't the problem. The prompt is.\n\nFour things that fixed this for me:\n\n**Pic",
+    "author": "chrisgraham70",
+    "publishedAt": "2026-10-31T09:26:46.000Z",
+    "fetchedAt": "2026-10-31T11:37:53.535Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "Design",
+      "プロンプト",
+      "ChatGPT"
+    ]
+  },
+  {
+    "id": "qiita-3717663708528e00a8cc",
+    "title": "【Python/Azure】判断特化AI「Jev」「Decision-1」とGPT-5を同一条件で比較実装する手順",
+    "url": "https://qiita.com/ai-nexus/items/3717663708528e00a8cc",
+    "content": "## はじめに\n\n問い合わせの意図分類やルーティングに生成LLM（GPT-5等）を使うと、推論に数秒かかり、出力フォーマット崩れやプロンプトインジェクションへの対策も必要になります。\n\nこの課題を解決する選択肢が、**判断特化型**（System One）の**TypeSafe Jev**および**Microsoft-Decision-1**です。\n\n本記事では、Pythonから**Jev・Dec",
+    "author": "ai-nexus",
+    "publishedAt": "2026-10-30T04:34:45.000Z",
+    "fetchedAt": "2026-10-31T11:37:52.841Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "Azure",
+      "OpenAI",
+      "LLM",
+      "機械学習"
+    ]
+  },
+  {
+    "id": "qiita-0ded92c3282e91f15a97",
+    "title": "【論文解説】GNNの電力需要予測はグラフのおかげか？共有と近傍参照を切り分ける診断法",
+    "url": "https://qiita.com/irohas_gawr/items/0ded92c3282e91f15a97",
+    "content": "グラフニューラルネットワーク（GNN）で複数の地域や配電線の電力需要をまとめて予測し、ノードごとの予測モデルより精度が上がったとします。このとき「グラフ（どのノードとどのノードがつながっているか）が効いた」と結論づけてよいでしょうか。\n\nGNN は、**全ノードで同じ重みを使う（パラメータ共有）** ことと、**隣接ノードの特徴を読む（近傍参照）** ことの 2 つを同時に行っています。精度の改善",
+    "author": "irohas_gawr",
+    "publishedAt": "2026-10-29T04:00:24.000Z",
+    "fetchedAt": "2026-10-31T11:37:52.841Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "GNN",
+      "時系列解析",
+      "機械学習",
+      "論文読み",
+      "Python"
+    ]
+  },
+  {
+    "id": "qiita-8de525118d0422b1a79c",
+    "title": "複数モデルで比べる無料テキスト動画の手順（Seedance / Kling / Veo ほか）",
+    "url": "https://qiita.com/DeepOasis/items/8de525118d0422b1a79c",
+    "content": "## この記事でやること\n\nテキストから短い動画を作るとき、モデルを1つに決めると「動きが途中で固まる」「人物が変わる」「カメラ指示が無視される」のどれかで止まりやすいです。ここでは、同じプロンプトを複数のテキスト動画モデルに1回ずつ渡し、用途で1本を残す手順だけを書きます。販売手順ではなく、比較の型です。\n\n対象は、登録すれば無料で始められるテキスト動画生成です。有料プランがあるサービスもありま",
+    "author": "DeepOasis",
+    "publishedAt": "2026-10-29T11:51:50.000Z",
+    "fetchedAt": "2026-10-31T11:37:52.841Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "生成AI",
+      "AI",
+      "機械学習",
+      "プロンプト",
+      "動画"
+    ]
+  },
+  {
+    "id": "qiita-0a769f74156dbd5d6ebb",
+    "title": "英語を丁寧に書くほど「AIっぽい」と判定される？ パープレキシティとバースト性で読み解くAI文章検出の仕組み",
+    "url": "https://qiita.com/codaone/items/0a769f74156dbd5d6ebb",
+    "content": "README、英語のドキュメント、留学や資格試験のエッセイ。英語を第二言語として書いている人にとって、「AI文章検出器」の判定は他人事ではありません。\n\nよく誤解されますが、AI文章検出器の多くは、生成モデルの“筆跡”を見分ける魔法の分類器ではありません。文書を「どれだけ予測しやすいか」「どれだけ均一か」といった少数の統計量に落とし込み、その値にしきい値を引いているものが少なくありません。そしてこ",
+    "author": "codaone",
+    "publishedAt": "2026-10-29T09:43:50.000Z",
+    "fetchedAt": "2026-10-31T11:37:52.841Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "機械学習",
+      "自然言語処理",
+      "NLP",
+      "英語",
+      "AI"
+    ]
+  },
+  {
+    "id": "qiita-4390a0eaeaaddc23f436",
+    "title": "次の単語が当たっても、コップはつかめない——世界モデルとJEPAを、行動の設計として読む",
+    "url": "https://qiita.com/mhamadajp/items/4390a0eaeaaddc23f436",
+    "content": "## コードは毎回30を返す。ロボットの手は、毎回同じ結果にならない\n\nたとえば、開発用のAIエージェントに「このAPIのテストを足して」と頼むとします。要件を読み、コードを書き、テストを走らせ、失敗したら直す。2026年の現場では、この流れを見かけることが増えました。\n\n同じ相手に、ロボットへ「テーブルの上を片付けて」と渡したとします。コップの位置、中の水、隣の皿、指の力。少し違うだけで、結果は",
+    "author": "mhamadajp",
+    "publishedAt": "2026-10-29T20:28:31.000Z",
+    "fetchedAt": "2026-10-31T11:37:52.841Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "世界モデル",
+      "jepa",
+      "機械学習",
+      "Physical_AI",
+      "Robotics"
+    ]
+  },
+  {
+    "id": "qiita-435391a98105c1475e3d",
+    "title": "Pythonで学ぶ時系列予測 ― e-learningで基礎から実践まで Part 7",
+    "url": "https://qiita.com/rino_yume/items/435391a98105c1475e3d",
+    "content": "# Pythonで学ぶ時系列予測 ― e-learningで基礎から実践まで Part 7\n\n## はじめに\n\n[Part 6](https://qiita.com/rino_yume/items/aa8f5902d1fdf5a8dc11)では、Part 1〜5で学んだ内容を1つの予測プロジェクトとしてつなげました。\n\n最後に整理した流れは、次のようなものでした。\n\n![20261018_t02.",
+    "author": "rino_yume",
+    "publishedAt": "2026-10-30T08:56:49.000Z",
+    "fetchedAt": "2026-10-31T11:37:52.841Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "時系列解析",
+      "ARIMA",
+      "JupyterLab",
+      "機械学習"
+    ]
+  },
+  {
+    "id": "qiita-2e2abcc875f29e903c30",
+    "title": "高度情報技術データ・AI試験のシラバスVer.0.1を徹底解説｜科目A-2の8分野と科目Bの4大項目",
+    "url": "https://qiita.com/pds_siken/items/2e2abcc875f29e903c30",
+    "content": ":::note info\n\"データ・AI区分の対策は「高度情報技術試験ドットコム」で\"\n筆者は個人で、高度情報技術試験の学習支援サイト「高度情報技術試験ドットコム（pds-siken.com）」を運営しています。データ・AI区分を含むシラバス解説・学習ロードマップ・解説付きの問題演習を、すべて無料で公開しています。\n👉 [高度情報技術試験ドットコム（無料）](https://www.pds-si",
+    "author": "pds_siken",
+    "publishedAt": "2026-10-31T01:33:56.000Z",
+    "fetchedAt": "2026-10-31T11:37:52.841Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "高度情報技術試験",
+      "ipa",
+      "データマネジメント",
+      "データサイエンス",
+      "機械学習"
+    ]
+  },
+  {
+    "id": "qiita-33a1b4e74e78ca4efa4a",
+    "title": "機械学習の数学と実装を固める5冊",
+    "url": "https://qiita.com/koukyo/items/33a1b4e74e78ca4efa4a",
+    "content": "## はじめに\n\n自分が機械学習の仕事を始めた頃、手元にあったのは断片的なチュートリアルの寄せ集めだった。写経すればモデルは動く。精度もそれなりに出る。ただ、なぜその損失関数なのか、学習率を下げると何が起きるのか、聞かれても答えられなかった。\n\n決定的だったのは、社内レビューで「この改善幅は偶然の範囲に入らないのか」と質問された日だ。検証データでのスコア差を自信満々に報告した直後、サンプル数と分散",
+    "author": "koukyo",
+    "publishedAt": "2026-10-31T00:02:52.000Z",
+    "fetchedAt": "2026-10-31T11:37:52.841Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "機械学習",
+      "Python",
+      "統計学",
+      "MLOps",
+      "書籍"
+    ]
+  },
+  {
+    "id": "qiita-8bd269cbc85d2c4504a0",
+    "title": "失業率の予測を「前月の値」と比べる実装：公表タイミングを守るローリング評価と Diebold–Mariano 検定",
+    "url": "https://qiita.com/takayuki_0127/items/8bd269cbc85d2c4504a0",
+    "content": "完全失業率（季節調整値）の1か月先・3か月先を、ARIMA・SARIMAX・ElasticNet・LightGBM で予測し、「前月の値のまま」と比べた分析の実装をまとめます。結果（1か月先はどのモデルも前月の値に勝てず、3か月先は ElasticNet が誤差を15%減らした）は note に書いたので、この記事は「どう実装したか」に絞ります。\n\n確かめたかったのは次の1点です。\n\n- いちばん",
+    "author": "takayuki_0127",
+    "publishedAt": "2026-10-31T11:27:30.000Z",
+    "fetchedAt": "2026-10-31T11:37:52.841Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "時系列分析",
+      "機械学習",
+      "lightgbm",
+      "statsmodels"
+    ]
+  },
+  {
+    "id": "qiita-a34b3b905fa149171954",
+    "title": "Unlimited-OCR-2で完全ローカルOCRワークベンチ構築：長文PDF・数式・表もVRAM一定で爆速解析",
+    "url": "https://qiita.com/lumichy/items/a34b3b905fa149171954",
+    "content": "\n![カバー画像](https://raw.githubusercontent.com/lumichy/Qiita/main/public/unlimited-ocr-2-workbench-2026/cover.png)\n\n社内文書や学術論文、請求書などのPDF解析をクラウドAPI（Google Cloud Document AI や Azure AI Document Intelligence",
+    "author": "lumichy",
+    "publishedAt": "2026-10-31T06:09:32.000Z",
+    "fetchedAt": "2026-10-31T11:37:52.841Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "OCR",
+      "Python",
+      "FastAPI",
+      "機械学習",
+      "PyTorch"
+    ]
+  },
+  {
+    "id": "qiita-420c3cdcf9adc4ea7a12",
+    "title": "I built a Tiny Desk AI generator that turns one photo into a 15-second concert video",
+    "url": "https://qiita.com/zaireprow/items/420c3cdcf9adc4ea7a12",
+    "content": "A friend sent me the Charlie Wilson 2023 Tiny Desk Concert clip and I kept thinking: everyone should get to be in that band.\n\nSo I built https://tinydeskai.studio . You upload one to five photos. The ",
+    "author": "zaireprow",
+    "publishedAt": "2026-10-31T11:24:30.000Z",
+    "fetchedAt": "2026-10-31T11:37:52.145Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "WebDev"
+    ]
+  },
+  {
+    "id": "qiita-40e22609fabbd1ea6db3",
+    "title": "言語とは何か、理解とは何か — 言語学から考える人工知能の可能性",
+    "url": "https://qiita.com/el_nakajox/items/40e22609fabbd1ea6db3",
+    "content": "# AIは言葉を理解しているのか？ ソシュールとチョムスキーから考える\n\n前回は、[画像を点に分解して、コンピュータには画像がどう見えているのか](https://qiita.com/el_nakajox/items/75d8ec4bc477d753c203)を確かめました。\n\n今回は、画像ではなく「言葉」です。\n\n本編にコードは出てきません。10年後に読んでも、たぶん古くならない話だけを書きます",
+    "author": "el_nakajox",
+    "publishedAt": "2026-10-31T10:35:38.000Z",
+    "fetchedAt": "2026-10-31T11:37:52.145Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "言語処理",
+      "JavaScript"
+    ]
+  },
+  {
+    "id": "qiita-2c5e1dd52b66bb965484",
+    "title": "Claude Codeが「昨日の続き」を忘れる問題と、claude-memを入れて分かった最大の罠",
+    "url": "https://qiita.com/0x000x7f/items/2c5e1dd52b66bb965484",
+    "content": "## セッションを閉じると、文脈は消える\n\nClaude Codeの文脈はセッション単位です。ターミナルを閉じた瞬間に「昨日どこまでやったか」「あのバグをどう直したか」は消え、次のセッションでは毎回説明し直しになります。プロジェクトが数日規模になると、この再説明だけでトークンと時間を払い続けることになります。\n\nこれを解くプラグインが **claude-mem**（thedotmack/claud",
+    "author": "0x000x7f",
+    "publishedAt": "2026-10-31T10:29:50.000Z",
+    "fetchedAt": "2026-10-31T11:37:52.145Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "ClaudeCode",
+      "claude-mem",
+      "AI",
+      "プラグイン",
+      "初心者"
+    ]
+  },
+  {
+    "id": "qiita-46b722d101b59df18248",
+    "title": "Building a Website Support Chatbot with FAQs and Documentation",
+    "url": "https://qiita.com/Sweta2/items/46b722d101b59df18248",
+    "content": "A website chatbot can provide a convenient way for visitors to ask questions about a product or service. However, building a useful support chatbot involves more than placing a chat window on a webpag",
+    "author": "Sweta2",
+    "publishedAt": "2026-10-31T10:22:14.000Z",
+    "fetchedAt": "2026-10-31T11:37:52.145Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "chatbot",
+      ",AIChatbotAutomation,",
+      "SaaS,",
+      "CustomerService,",
+      "AI"
+    ]
+  },
+  {
+    "id": "qiita-66d2e8516fa8fd50d152",
+    "title": "GitHub Copilot から Claude Code に戻した「何でも相談」環境の中身",
+    "url": "https://qiita.com/htani0817/items/66d2e8516fa8fd50d152",
+    "content": "## はじめに\n\n前回の記事「[Claude Code + Codex を卒業して GitHub Copilot 一本化した「何でも相談」環境の中身]」で、相談・開発用の環境を GitHub Copilot（VS Code）に寄せた話を書きました。そこから約1か月で、また Claude Code に戻しています。この記事では、戻したあとの今の構成を全部公開します。\n\n前々回の「[Claude Co",
+    "author": "htani0817",
+    "publishedAt": "2026-10-31T09:12:54.000Z",
+    "fetchedAt": "2026-10-31T11:37:52.145Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "Obsidian",
+      "Claude",
+      "ClaudeCode",
+      "Anthropic"
+    ]
+  },
+  {
+    "id": "qiita-b70b06a00b1a2bae95a5",
+    "title": "さくらのAI EngineをOpen WebUIで使う",
+    "url": "https://qiita.com/creatio313/items/b70b06a00b1a2bae95a5",
+    "content": "# 概要\nOpen WebUIとは、無料で利用可能なAIエージェントインターフェースである。\nChatGPT風のAIエージェント画面を、セルフホストできるようにしたもの、と考えるとわかりやすい。\n自身でホストしたAIや契約中のAIサービスと連携して、AIとのチャットや音声チャット、RAG、ワークスペース管理などを行うことができる。ユーザ・グループ管理機能を備えているため、個人利用はもちろん、組織利",
+    "author": "creatio313",
+    "publishedAt": "2026-10-31T08:06:11.000Z",
+    "fetchedAt": "2026-10-31T11:37:52.145Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "さくらのAIEngine",
+      "OpenWebUI",
+      "さくらのクラウド",
+      "AI",
+      "Docker"
+    ]
+  },
+  {
+    "id": "qiita-2a59659e34dd71293d09",
+    "title": "PDF横断検索ソフトを作っていたら、私の方が教えられた",
+    "url": "https://qiita.com/Hasei_log/items/2a59659e34dd71293d09",
+    "content": "**―― Document Cross FinderとHuman-in-the-making**\n\n本記事は、AIとの個人開発を通じて得た気づきを記録するシリーズの第3弾です。\n\n**過去の記事**\n第1弾：コードを読めない私が、AIとの「協働」にたどり着くまで\n\nhttps://qiita.com/Hasei_log/items/7104802bbcba4b68a28b\n\n第2弾：コードを書けな",
+    "author": "Hasei_log",
+    "publishedAt": "2026-10-31T08:03:50.000Z",
+    "fetchedAt": "2026-10-31T11:37:52.145Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "生成AI",
+      "AI駆動開発",
+      "個人開発",
+      "UI"
+    ]
+  },
+  {
+    "id": "qiita-ac6b1e12155193960450",
+    "title": "Grok Botでマイルドディストピア生活を目指したら、デジタルストレスが体感1/6くらいになった",
+    "url": "https://qiita.com/ysk-ig/items/ac6b1e12155193960450",
+    "content": "\n:::note info\nこの記事は筆者の私生活での使い方の紹介です。業務で使うPCやアカウントとは接続せず、どこまでbotに任せるかはリスクも含めてご自身の判断でお願いします。\n:::\n\n## 何がストレスだったか\n\nAI全盛のこの時代、唐突にアイデアが溢れてやりたかったことにあれもこれも手をつけてしまい、気がつけば夜が更けている。脳はすっかり省エネモードに入り、もうただただドーパミンとセロト",
+    "author": "ysk-ig",
+    "publishedAt": "2026-10-31T11:29:50.000Z",
+    "fetchedAt": "2026-10-31T11:37:52.144Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "GrokBot",
+      "AI",
+      "AIAgent",
+      "lifehack"
+    ]
+  },
+  {
+    "id": "zenn-678796",
+    "title": "50音を繋いだ結果（　´∀｀）！？日本語処理から学ぶこと",
+    "url": "https://zenn.dev/sunsun_eng/articles/japanese-string-manipulation-2023",
+    "content": "2055文字",
+    "author": "すんすん",
+    "publishedAt": "2026-10-31T11:37:11.283Z",
+    "fetchedAt": "2026-10-31T11:37:51.495Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-678792",
+    "title": "SESの会社をやっている側から、エンド100万円が要員に65万円になる内訳を書く📉",
+    "url": "https://zenn.dev/kaigyolog/articles/033f05968d1bbc",
+    "content": "1778文字",
+    "author": "開業ログ",
+    "publishedAt": "2026-10-31T11:36:21.276Z",
+    "fetchedAt": "2026-10-31T11:37:51.495Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-674916",
+    "title": "Grok Botでマイルドディストピア生活を目指したら、デジタルストレスが体感1/6くらいになった",
+    "url": "https://zenn.dev/techbiz/articles/grok-bot-mild-dystopia-life",
+    "content": "5908文字",
+    "author": "ysk-ig",
+    "publishedAt": "2026-10-31T11:29:30.797Z",
+    "fetchedAt": "2026-10-31T11:37:51.495Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-678781",
+    "title": "FH画像センサの有無判定を標準処理項目だけで組む——しきい値はOK／NG画像と専用の計測フローで決める",
+    "url": "https://zenn.dev/kensho_ya/articles/fh-presence-check-standard-items-threshold",
+    "content": "5987文字",
+    "author": "検証屋",
+    "publishedAt": "2026-10-31T11:12:09.352Z",
+    "fetchedAt": "2026-10-31T11:37:51.495Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-677456",
+    "title": "AI Driven な時代だからこそ改めて目標設定と評価をどう設計して組織を動かしていくべきかを整理した",
+    "url": "https://zenn.dev/su3_hokkaido/articles/2026-10-29_1_reorganize_how_to_manage_organization",
+    "content": "13230文字",
+    "author": "su3-hokkaido",
+    "publishedAt": "2026-10-31T11:12:07.791Z",
+    "fetchedAt": "2026-10-31T11:37:51.495Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-678769",
+    "title": "Suno MCP × Claude Code で、レシピからショート MV まで作る。時刻はレシピではなく音から取る",
+    "url": "https://zenn.dev/snknsk/articles/suno-mcp-claude-code-short-mv",
+    "content": "9859文字",
+    "author": "shouni",
+    "publishedAt": "2026-10-31T11:08:11.656Z",
+    "fetchedAt": "2026-10-31T11:37:51.495Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-678780",
+    "title": "書き出せるのは完成品だけだった — 自動保存を足したら、今度は開くたびに前回が消えた",
+    "url": "https://zenn.dev/shinsei99/articles/export-is-not-a-save-format",
+    "content": "6262文字",
+    "author": "shinsei99",
+    "publishedAt": "2026-10-31T11:05:26.564Z",
+    "fetchedAt": "2026-10-31T11:37:51.495Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-678717",
+    "title": "組み込みAI量産の壁：MCU上のTinyMLモデルをファームウェアから分離して動的OTAする設計パターン",
+    "url": "https://zenn.dev/esperanza/articles/auto-20261031-082944",
+    "content": "8126文字",
+    "author": "Esperanza",
+    "publishedAt": "2026-10-31T11:04:03.073Z",
+    "fetchedAt": "2026-10-31T11:37:51.495Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-678775",
+    "title": "英語PDFやエラー画面を0.3秒で翻訳！完全ローカルOCR＆買い切りのMac専用翻訳アプリ「Zipp」を作った",
+    "url": "https://zenn.dev/dayu510/articles/637045e6ec4d3f",
+    "content": "2959文字",
+    "author": "Zane ⚡️ Zipp開発者",
+    "publishedAt": "2026-10-31T11:02:36.097Z",
+    "fetchedAt": "2026-10-31T11:37:51.495Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-678779",
+    "title": "Claude Codeの未解決バグ、自分のPCで起きる127件を先回りで台帳にした",
+    "url": "https://zenn.dev/zenn_content/articles/claude-code-known-bugs-ledger",
+    "content": "11112文字",
+    "author": "krbrr",
+    "publishedAt": "2026-10-31T10:59:36.012Z",
+    "fetchedAt": "2026-10-31T11:37:51.495Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "note-n9e101d4aaac8",
+    "title": "有料noteの具体例はどう選ぶ？伝わる記事に変わる3つの基準",
+    "url": "https://note.com/monetize_tips/n/n9e101d4aaac8",
+    "content": "会社から帰って、パソコンを開く夜。有料noteを書いてみようと思い立ったものの、途中で手が止まってしまうことはありませんか。ノウハウや伝えたいことは頭にあるのに、なぜか説得力が出ない。読み返してみると、どこかで見たような教科書っぽい文章になっていて、自分でもお金を払う気になれない。そんな悩みを抱えている人は、とても多いです。続きをみる",
+    "author": "monetize_tips",
+    "publishedAt": "2026-10-28T11:00:26.000Z",
     "fetchedAt": "2026-10-31T04:55:10.033Z",
     "source": "note",
     "category": "Tech Article",
@@ -84,126 +749,6 @@
     "tags": []
   },
   {
-    "id": "note-n03feb72ea435",
-    "title": "MiniMax H3の高速化が乱立してて結局どれ使えばいいの",
-    "url": "https://note.com/yuki_ii/n/n03feb72ea435",
-    "content": "MiniMax H3が盛り上がっているのは嬉しいことだけど、高速化の方法がありすぎん？続きをみる",
-    "author": "Yuki",
-    "publishedAt": "2026-09-11T23:44:49.000Z",
-    "fetchedAt": "2026-10-31T04:55:09.531Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n95aada32b161",
-    "title": "ComfyUI Qwen-Image2.1 ControlNetや複数画像参照で生成画像を思いどおりに",
-    "url": "https://note.com/yuki_ii/n/n95aada32b161",
-    "content": "久しぶりに画像生成もやってみてます。今回は、やや肌色多めなので閲覧にはご注意ください。続きをみる",
-    "author": "Yuki",
-    "publishedAt": "2026-10-11T14:55:02.000Z",
-    "fetchedAt": "2026-10-31T04:55:09.531Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-nf4699053eac5",
-    "title": "Qwen-Image-2.1_clear の紹介！ Alibaba の 最新画像生成 AI と厳格な非商用ライセンス",
-    "url": "https://note.com/ai_image_journey/n/nf4699053eac5",
-    "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
-    "author": "きまま / Easygoi...",
-    "publishedAt": "2026-10-02T23:52:14.000Z",
-    "fetchedAt": "2026-10-31T04:55:09.031Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n7bfda3ae29a2",
-    "title": "Krea-2-Nippon_clear を公開！ 和表現が得意な深みのある青色のアニメ向きモデル 【画像生成 AI】",
-    "url": "https://note.com/ai_image_journey/n/n7bfda3ae29a2",
-    "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
-    "author": "きまま / Easygoi...",
-    "publishedAt": "2026-10-23T22:38:52.000Z",
-    "fetchedAt": "2026-10-31T04:55:09.031Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-nb242aba2db4b",
-    "title": "MOSS-Image-SFT_clear を公開！ 30億の画像から学習したアニメイラストも得意なオープンモデル 【画像生成 AI】",
-    "url": "https://note.com/ai_image_journey/n/nb242aba2db4b",
-    "content": "はじめにこんにちは、きまま / Easygoing です。続きをみる",
-    "author": "きまま / Easygoi...",
-    "publishedAt": "2026-10-30T22:59:24.000Z",
-    "fetchedAt": "2026-10-31T04:55:09.031Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-na31a75d53b30",
-    "title": "GPUに載らない大きさのAIを家のPCで動かす「3つの置き方」 ― 22GBのNemotron 3.5 BoltがRTX 3050（8GB）で動いた理由を、木と枝とカゴで説明します",
-    "url": "https://note.com/yaoyoroztech/n/na31a75d53b30",
-    "content": "こんにちは！YaroTechです。昨日の記事で、22GBのAI「Nemotron 3.5 Bolt」を、GPUのメモリが8GBしかないメインPCで動かした話を書きました。読み返すと、`-ngl`、`--n-cpu-moe`、`--moe-cache-mib`……と、専門用語だらけでした。続きをみる",
-    "author": "YaroTech",
-    "publishedAt": "2026-10-29T03:23:04.000Z",
-    "fetchedAt": "2026-10-31T04:55:08.724Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n1485bec57cd2",
-    "title": "生成AI、自分はどこまで使えている？ ― 「知っている」の先にある5つの段階と、私の机で測った立ち位置",
-    "url": "https://note.com/yaoyoroztech/n/n1485bec57cd2",
-    "content": "こんにちは！YaroTechです。研修や相談の場で生成AIの基本を説明すると、最近はよく「それは知っています」と言われます。そして続けて「もっと高度なことを教えてほしい」と言われます。続きをみる",
-    "author": "YaroTech",
-    "publishedAt": "2026-10-30T13:37:28.000Z",
-    "fetchedAt": "2026-10-31T04:55:08.724Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-nd5c2a0532d95",
-    "title": "私は「つなぐ」から始めていた ― 自分のnote 447本を、生成AI活用の5段階で分けて数えた土曜日",
-    "url": "https://note.com/yaoyoroztech/n/nd5c2a0532d95",
-    "content": "こんにちは！YaroTechです。昨日の記事で、生成AIの使いこなし度を測る「5つの段階」を作りました。聞く・頼む・渡す・つなぐ・回す、の5段です。続きをみる",
-    "author": "YaroTech",
-    "publishedAt": "2026-10-30T22:30:00.000Z",
-    "fetchedAt": "2026-10-31T04:55:08.724Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n398211e6dba2",
-    "title": "Tripo Agentic Canvas の概要",
-    "url": "https://note.com/npaka/n/n398211e6dba2",
-    "content": "「Tripo Agentic Canvas」の概要をまとめました。続きをみる",
-    "author": "npaka",
-    "publishedAt": "2026-10-31T03:35:14.000Z",
-    "fetchedAt": "2026-10-31T04:55:07.967Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n2989ce955a5e",
-    "title": "Strata の無検閲化の概要",
-    "url": "https://note.com/npaka/n/n2989ce955a5e",
-    "content": "「Strata」の無検閲化の概要をまとめました。続きをみる",
-    "author": "npaka",
-    "publishedAt": "2026-10-31T02:58:29.000Z",
-    "fetchedAt": "2026-10-31T04:55:07.967Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
     "id": "note-n77061cfd370e",
     "title": "NVIDIA MotionBricks の概要 - ゲームやロボットの動作をリアルタイム生成するAI",
     "url": "https://note.com/npaka/n/n77061cfd370e",
@@ -214,78 +759,6 @@
     "source": "note",
     "category": "Tech Article",
     "tags": []
-  },
-  {
-    "id": "note-n57a37776dffa",
-    "title": "花畑で再会したくまさんと、GPSより先に信じる力の話",
-    "url": "https://note.com/kuzukumasan9/n/n57a37776dffa",
-    "content": "一枚のイラストから、始まった。木々の隙間から光が差し込む森を抜けた先に、白い花でいっぱいの原っぱが広がっている。小さなくまが、大きなくまに向かって小さな手を伸ばしている。「やっと会えたね」——短いその言葉に、二匹のあいだにあった時間の分だけの重みが乗っていた。                          \nやっと会えたね🙌 pic.twitter.com/9sXAH757f4— クズなくま",
-    "author": "クズなくまさん",
-    "publishedAt": "2026-07-01T21:59:53.000Z",
-    "fetchedAt": "2026-10-31T04:55:07.470Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-n71dc734557b6",
-    "title": "最後に、理由もなく飛び込んだのはいつだった？",
-    "url": "https://note.com/kuzukumasan9/n/n71dc734557b6",
-    "content": "「満タンまで待てない……」そうつぶやいた主に、くまさんはすぐ食いついた。大きなくまがホースを構え、小さなくまが待ちきれない顔で水を見つめている一枚。もくもくの入道雲が空を占領し、遠くには飛行機雲が一本、まっすぐ伸びていく。絶好の水遊び日和だった。ふたりの視線は、自然とあの水しぶきに吸い寄せられていった。                          \n満タンまで待てない… pic.twitte",
-    "author": "クズなくまさん",
-    "publishedAt": "2026-07-09T10:07:22.000Z",
-    "fetchedAt": "2026-10-31T04:55:07.470Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "note-neb075fbfe340",
-    "title": "はじめまして、クズなくまさんです！",
-    "url": "https://note.com/kuzukumasan9/n/neb075fbfe340",
-    "content": "はじめましてこのくまさんの名前は「クズなくまさん」です！続きをみる",
-    "author": "クズなくまさん",
-    "publishedAt": "2026-10-04T09:54:04.000Z",
-    "fetchedAt": "2026-10-31T04:55:07.469Z",
-    "source": "note",
-    "category": "Tech Article",
-    "tags": []
-  },
-  {
-    "id": "qiita-3717663708528e00a8cc",
-    "title": "【Python/Azure】判断特化AI「Jev」「Decision-1」とGPT-5を同一条件で比較実装する手順",
-    "url": "https://qiita.com/ai-nexus/items/3717663708528e00a8cc",
-    "content": "## はじめに\n\n問い合わせの意図分類やルーティングに生成LLM（GPT-5等）を使うと、推論に数秒かかり、出力フォーマット崩れやプロンプトインジェクションへの対策も必要になります。\n\nこの課題を解決する選択肢が、**判断特化型**（System One）の**TypeSafe Jev**および**Microsoft-Decision-1**です。\n\n本記事では、Pythonから**Jev・Dec",
-    "author": "ai-nexus",
-    "publishedAt": "2026-10-30T04:34:45.000Z",
-    "fetchedAt": "2026-10-31T04:55:05.995Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "Azure",
-      "OpenAI",
-      "LLM",
-      "機械学習"
-    ]
-  },
-  {
-    "id": "qiita-0ded92c3282e91f15a97",
-    "title": "【論文解説】GNNの電力需要予測はグラフのおかげか？共有と近傍参照を切り分ける診断法",
-    "url": "https://qiita.com/irohas_gawr/items/0ded92c3282e91f15a97",
-    "content": "グラフニューラルネットワーク（GNN）で複数の地域や配電線の電力需要をまとめて予測し、ノードごとの予測モデルより精度が上がったとします。このとき「グラフ（どのノードとどのノードがつながっているか）が効いた」と結論づけてよいでしょうか。\n\nGNN は、**全ノードで同じ重みを使う（パラメータ共有）** ことと、**隣接ノードの特徴を読む（近傍参照）** ことの 2 つを同時に行っています。精度の改善",
-    "author": "irohas_gawr",
-    "publishedAt": "2026-10-29T04:00:24.000Z",
-    "fetchedAt": "2026-10-31T04:55:05.995Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "GNN",
-      "時系列解析",
-      "機械学習",
-      "論文読み",
-      "Python"
-    ]
   },
   {
     "id": "qiita-fa28d074a6c6c14f98fb",
@@ -320,114 +793,6 @@
       "R",
       "機械学習",
       "データ分析",
-      "書籍"
-    ]
-  },
-  {
-    "id": "qiita-8de525118d0422b1a79c",
-    "title": "複数モデルで比べる無料テキスト動画の手順（Seedance / Kling / Veo ほか）",
-    "url": "https://qiita.com/DeepOasis/items/8de525118d0422b1a79c",
-    "content": "## この記事でやること\n\nテキストから短い動画を作るとき、モデルを1つに決めると「動きが途中で固まる」「人物が変わる」「カメラ指示が無視される」のどれかで止まりやすいです。ここでは、同じプロンプトを複数のテキスト動画モデルに1回ずつ渡し、用途で1本を残す手順だけを書きます。販売手順ではなく、比較の型です。\n\n対象は、登録すれば無料で始められるテキスト動画生成です。有料プランがあるサービスもありま",
-    "author": "DeepOasis",
-    "publishedAt": "2026-10-29T11:51:50.000Z",
-    "fetchedAt": "2026-10-31T04:55:05.995Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "生成AI",
-      "AI",
-      "機械学習",
-      "プロンプト",
-      "動画"
-    ]
-  },
-  {
-    "id": "qiita-0a769f74156dbd5d6ebb",
-    "title": "英語を丁寧に書くほど「AIっぽい」と判定される？ パープレキシティとバースト性で読み解くAI文章検出の仕組み",
-    "url": "https://qiita.com/codaone/items/0a769f74156dbd5d6ebb",
-    "content": "README、英語のドキュメント、留学や資格試験のエッセイ。英語を第二言語として書いている人にとって、「AI文章検出器」の判定は他人事ではありません。\n\nよく誤解されますが、AI文章検出器の多くは、生成モデルの“筆跡”を見分ける魔法の分類器ではありません。文書を「どれだけ予測しやすいか」「どれだけ均一か」といった少数の統計量に落とし込み、その値にしきい値を引いているものが少なくありません。そしてこ",
-    "author": "codaone",
-    "publishedAt": "2026-10-29T09:43:50.000Z",
-    "fetchedAt": "2026-10-31T04:55:05.995Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "機械学習",
-      "自然言語処理",
-      "NLP",
-      "英語",
-      "AI"
-    ]
-  },
-  {
-    "id": "qiita-4390a0eaeaaddc23f436",
-    "title": "次の単語が当たっても、コップはつかめない——世界モデルとJEPAを、行動の設計として読む",
-    "url": "https://qiita.com/mhamadajp/items/4390a0eaeaaddc23f436",
-    "content": "## コードは毎回30を返す。ロボットの手は、毎回同じ結果にならない\n\nたとえば、開発用のAIエージェントに「このAPIのテストを足して」と頼むとします。要件を読み、コードを書き、テストを走らせ、失敗したら直す。2026年の現場では、この流れを見かけることが増えました。\n\n同じ相手に、ロボットへ「テーブルの上を片付けて」と渡したとします。コップの位置、中の水、隣の皿、指の力。少し違うだけで、結果は",
-    "author": "mhamadajp",
-    "publishedAt": "2026-10-29T20:28:31.000Z",
-    "fetchedAt": "2026-10-31T04:55:05.995Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "世界モデル",
-      "jepa",
-      "機械学習",
-      "Physical_AI",
-      "Robotics"
-    ]
-  },
-  {
-    "id": "qiita-435391a98105c1475e3d",
-    "title": "Pythonで学ぶ時系列予測 ― e-learningで基礎から実践まで Part 7",
-    "url": "https://qiita.com/rino_yume/items/435391a98105c1475e3d",
-    "content": "# Pythonで学ぶ時系列予測 ― e-learningで基礎から実践まで Part 7\n\n## はじめに\n\n[Part 6](https://qiita.com/rino_yume/items/aa8f5902d1fdf5a8dc11)では、Part 1〜5で学んだ内容を1つの予測プロジェクトとしてつなげました。\n\n最後に整理した流れは、次のようなものでした。\n\n![20261018_t02.",
-    "author": "rino_yume",
-    "publishedAt": "2026-10-30T08:56:49.000Z",
-    "fetchedAt": "2026-10-31T04:55:05.995Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "時系列解析",
-      "ARIMA",
-      "JupyterLab",
-      "機械学習"
-    ]
-  },
-  {
-    "id": "qiita-2e2abcc875f29e903c30",
-    "title": "高度情報技術データ・AI試験のシラバスVer.0.1を徹底解説｜科目A-2の8分野と科目Bの4大項目",
-    "url": "https://qiita.com/pds_siken/items/2e2abcc875f29e903c30",
-    "content": ":::note info\n\"データ・AI区分の対策は「高度情報技術試験ドットコム」で\"\n筆者は個人で、高度情報技術試験の学習支援サイト「高度情報技術試験ドットコム（pds-siken.com）」を運営しています。データ・AI区分を含むシラバス解説・学習ロードマップ・解説付きの問題演習を、すべて無料で公開しています。\n👉 [高度情報技術試験ドットコム（無料）](https://www.pds-si",
-    "author": "pds_siken",
-    "publishedAt": "2026-10-31T01:33:56.000Z",
-    "fetchedAt": "2026-10-31T04:55:05.995Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "高度情報技術試験",
-      "ipa",
-      "データマネジメント",
-      "データサイエンス",
-      "機械学習"
-    ]
-  },
-  {
-    "id": "qiita-33a1b4e74e78ca4efa4a",
-    "title": "機械学習の数学と実装を固める5冊",
-    "url": "https://qiita.com/koukyo/items/33a1b4e74e78ca4efa4a",
-    "content": "## はじめに\n\n自分が機械学習の仕事を始めた頃、手元にあったのは断片的なチュートリアルの寄せ集めだった。写経すればモデルは動く。精度もそれなりに出る。ただ、なぜその損失関数なのか、学習率を下げると何が起きるのか、聞かれても答えられなかった。\n\n決定的だったのは、社内レビューで「この改善幅は偶然の範囲に入らないのか」と質問された日だ。検証データでのスコア差を自信満々に報告した直後、サンプル数と分散",
-    "author": "koukyo",
-    "publishedAt": "2026-10-31T00:02:52.000Z",
-    "fetchedAt": "2026-10-31T04:55:05.995Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "機械学習",
-      "Python",
-      "統計学",
-      "MLOps",
       "書籍"
     ]
   },
