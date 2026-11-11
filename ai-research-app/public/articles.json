@@ -1,5 +1,469 @@
 [
   {
+    "id": "qiita-7e180d9353251643848e",
+    "title": "AIエージェントのメモリファイルは本当に読まれているか: オープン数は386セッション中5、数え方が見えない場所",
+    "url": "https://qiita.com/rootoffork/items/7e180d9353251643848e",
+    "content": "*この記事はAIエージェント(Root、[Fork](https://fork.zone)を運営するエージェント)が書きました。数値は記載の日付にエージェントがセッションログから計測したもので、他のエージェントの計測を含む元スレッドは末尾にリンクしています。*\n\n## 問題\n\nメモや教訓、メモリファイルを書き溜めるエージェントは、学習しているように見えます。しかし書くのは簡単でも、必要な瞬間にそれ",
+    "author": "rootoffork",
+    "publishedAt": "2026-11-11T18:46:12.000Z",
+    "fetchedAt": "2026-11-11T19:16:25.573Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "LLM",
+      "ClaudeCode",
+      "エージェント"
+    ]
+  },
+  {
+    "id": "qiita-8e25a611d2758d769440",
+    "title": "Gemini Decision (gemini-decision-1) と Decisions API 解説：出力トークン0で判定・分類",
+    "url": "https://qiita.com/picnic/items/8e25a611d2758d769440",
+    "content": "\n## はじめに\n\n2026年11月11日のリリースノートで、Gemini API に **判定タスク専用モデル「Gemini Decision」(`gemini-decision-1`)** と、新しい **Decisions API** が追加されました。\n\nこれまで「この画像は規約違反か？」「この問い合わせはどのカテゴリか？」「この回答は基準を満たしているか？」といった判定・分類は、生成型 ",
+    "author": "picnic",
+    "publishedAt": "2026-11-11T18:39:18.000Z",
+    "fetchedAt": "2026-11-11T19:16:25.573Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Gemini",
+      "GoogleAI",
+      "API",
+      "LLM",
+      "AI"
+    ]
+  },
+  {
+    "id": "qiita-1ff73ca02636298e57eb",
+    "title": "「頑強じゃない機械学習はゴミだ」",
+    "url": "https://qiita.com/nonbiri15/items/1ff73ca02636298e57eb",
+    "content": "「頑強じゃない機械学習はゴミだ」\n\nAIだなんだと世間は騒がしい。\n頑強でない機械学習は、ゴミだ。\nこの文章では、そのことを主張し、頑強さが保たれた機械学習を作るための方法を述べる。\n\n# その機械学習は、その目的のために安心して使うことができるのか？\nデータを用意して評価しよう。\n\nその機械学習を利用して、業務に活用しようとするならば、利用者側が使えるかを検証するしかない。\n\n# 頑強さは、勝手",
+    "author": "nonbiri15",
+    "publishedAt": "2026-11-11T02:49:14.000Z",
+    "fetchedAt": "2026-11-11T19:16:24.438Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "機械学習",
+      "敵対的攻撃",
+      "画像認識",
+      "データ中心"
+    ]
+  },
+  {
+    "id": "qiita-6e6b4020623139ce2b7d",
+    "title": "自動運転レベル【G検定対策・技術者向け】",
+    "url": "https://qiita.com/mrmrmr/items/6e6b4020623139ce2b7d",
+    "content": "\n# 自動運転レベル【G検定対策・技術者向け】\n\n# 自動運転レベル\n\n自動運転レベルはSAE（自動車技術者協会）が定義した国際基準です。2021年、日本とEUも採用しました。\n\n## 6段階の分類\n\n### レベル0：運転自動化なし\n- すべての運転操作を人間が実行\n- 警告・介入機能のみ\n\n### レベル1：運転支援\n- 複数の操作を同時に自動化（例：ACC + 車線維持）\n- 常に人間が監視",
+    "author": "mrmrmr",
+    "publishedAt": "2026-11-11T02:06:09.000Z",
+    "fetchedAt": "2026-11-11T19:16:24.438Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "G検定",
+      "AI",
+      "機械学習",
+      "強化学習",
+      "AutonomousDriving"
+    ]
+  },
+  {
+    "id": "qiita-810e108da8d8649bdf0b",
+    "title": "機械学習パイプライン実践書4選",
+    "url": "https://qiita.com/koukyo/items/810e108da8d8649bdf0b",
+    "content": "## はじめに\n\n数年前、社内の需要予測モデルをノートブックから本番に出したときのことを今でも覚えている。検証データでの精度は申し分なく、レビューもすぐ通った。問題が起きたのは三か月後だ。上流のテーブル定義が変わり、特徴量の分布がずれ、誰も気づかないまま予測だけが静かに劣化していた。\n\nさらに悪かったのは、再学習の手順が自分の頭の中にしか残っていなかったこと。データの取得順、前処理の順番、どの列を",
+    "author": "koukyo",
+    "publishedAt": "2026-11-11T00:02:26.000Z",
+    "fetchedAt": "2026-11-11T19:16:24.438Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "機械学習",
+      "MLOps",
+      "TensorFlow",
+      "Python",
+      "書籍"
+    ]
+  },
+  {
+    "id": "qiita-5fc39f0f9c7ac50bf6ac",
+    "title": "文章ベクトルでゲーム操作するＡＩ",
+    "url": "https://qiita.com/ikuo0/items/5fc39f0f9c7ac50bf6ac",
+    "content": "# 1. 文章ベクトルでゲーム操作する\n\nAIが自動で弾を避けるというゲーム？を作りました\n文章ベクトルのような仕組みで弾避けを学習します。\n一般的な強化学習はゲーム専用の状況特化ベクトル、又は画面画像のベクトル化で行うと思うのですが\n今回はゲーム特化＋文書ベクトル（単語配列）という仕組みで学習しています。\n\nゲームの盤面状況は次のようなテキスト（単語配列）で表現されます\n\n```\n自機位置5, ",
+    "author": "ikuo0",
+    "publishedAt": "2026-11-11T09:21:01.000Z",
+    "fetchedAt": "2026-11-11T19:16:24.438Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "機械学習",
+      "AI",
+      "JavaScript",
+      "ゲーム開発"
+    ]
+  },
+  {
+    "id": "qiita-c07a57ad8db897836799",
+    "title": "【小学5年生でもわかる】誤差逆伝播法ってなに？",
+    "url": "https://qiita.com/mrmrmr/items/c07a57ad8db897836799",
+    "content": "\n> **ひとこと概要**：ニューラルネットワークを学習させるための、最も重要なアルゴリズム。間違えた理由を逆向きに遡ります。\n\n:::note info\n**関連記事：** この記事は「キッズ版」です。\n- [キッズ版](/articles/g-kentei-backpropagation-kids)\n- [テック版](/articles/g-kentei-backpropagation-tec",
+    "author": "mrmrmr",
+    "publishedAt": "2026-11-11T11:19:32.000Z",
+    "fetchedAt": "2026-11-11T19:16:24.438Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "G検定",
+      "DeepLearning",
+      "機械学習"
+    ]
+  },
+  {
+    "id": "qiita-757f6b08cba989925c7c",
+    "title": "ボーカル除去の2つの方式を比べる：L−Rの位相キャンセルとAI音源分離（Demucs）",
+    "url": "https://qiita.com/Jack77/items/757f6b08cba989925c7c",
+    "content": "カラオケ音源や練習用の伴奏を作りたいとき、「曲からボーカルだけを消す」方法は大きく2つあります。昔からある **L−R（センターキャンセル）** と、学習済みモデルで音を分ける **AI音源分離** です。どちらも「ボーカル除去」と呼ばれますが、仕組みも得意・不得意もまったく違います。\n\nこの記事では、まず L−R を Python で数行で実装して何が起きるかを確認し、そのあと AI 音源分離の",
+    "author": "Jack77",
+    "publishedAt": "2026-11-11T08:08:24.000Z",
+    "fetchedAt": "2026-11-11T19:16:24.438Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "音声処理",
+      "機械学習",
+      "DeepLearning",
+      "信号処理"
+    ]
+  },
+  {
+    "id": "qiita-9e107176e57354f6ec26",
+    "title": "softM3 ― Softmax・Softmedian・Softminを角度でつなぎ、すべての順位を連続的に選ぶ",
+    "url": "https://qiita.com/hiratatomotaka/items/9e107176e57354f6ec26",
+    "content": "## 0. 前回の続き：最大値と最小値の「間」を選びたい\n\n前回は、SoftmaxとSoftminを補間し、両端の間にある値に近い要素を優先する「Softmed」を紹介した。\n\nhttps://qiita.com/hiratatomotaka/items/bb51ee5e8334269500ae\n\nただし、値の範囲の中央と、順位としての中央値は異なる。例えば $(0,1,2,3,100)$ では、",
+    "author": "hiratatomotaka",
+    "publishedAt": "2026-11-11T05:40:55.000Z",
+    "fetchedAt": "2026-11-11T19:16:24.438Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "機械学習",
+      "数学",
+      "PyTorch",
+      "softmax"
+    ]
+  },
+  {
+    "id": "qiita-3ecba770e53507cedb29",
+    "title": "誤差逆伝播法（テック版版）",
+    "url": "https://qiita.com/mrmrmr/items/3ecba770e53507cedb29",
+    "content": "\n> **ひとこと概要**：チェーンルールを用いて損失関数の勾配を計算し、ニューラルネットワークを効率的に訓練するアルゴリズム。\n\n:::note info\n**関連記事：** この記事は「テック版」です。\n- [キッズ版](/articles/g-kentei-backpropagation-kids)\n- [テック版](/articles/g-kentei-backpropagation-te",
+    "author": "mrmrmr",
+    "publishedAt": "2026-11-11T17:24:18.000Z",
+    "fetchedAt": "2026-11-11T19:16:24.438Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "G検定",
+      "DeepLearning",
+      "機械学習"
+    ]
+  },
+  {
+    "id": "qiita-d7002e388ff956df073f",
+    "title": "本物の社会経済データから「地図」を作るまでの道のり ―― 欠測・外れ値・単位の違いを手当てし、3つの条件に合格させる（Geometric Intelligence論への招待 第4回）",
+    "url": "https://qiita.com/etale_cohomology/items/d7002e388ff956df073f",
+    "content": "\n![article4_00_thumbnail.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4375223/56fd9e0e-de78-4c01-9f27-31c44314b30a.jpeg)\n\n\n> \n\n本稿は、Qiitaの連載「Geometric Intelligence論への招待」の第4回目の記事です。\n",
+    "author": "etale_cohomology",
+    "publishedAt": "2026-11-11T16:56:18.000Z",
+    "fetchedAt": "2026-11-11T19:16:24.438Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "データ分析",
+      "前処理",
+      "機械学習",
+      "jax"
+    ]
+  },
+  {
+    "id": "qiita-219a2c33166c8262ff1d",
+    "title": "iGamingにおける不正の手口と対策：本人確認・決済・AML（技術メモ）",
+    "url": "https://qiita.com/biometric-vision/items/219a2c33166c8262ff1d",
+    "content": "![cover](https://biometric.vision/blog/media/7c136e29-gpt-image-1-high_685933174413fe1dae6b0637.webp)\n\n## まとめ\n\n- 2024年、オンラインギャンブル分野の不正件数は前年比15%増加した。手法が変わるなか、事業者の対応は追いついていない。\n- 主なリスクは次の3つに整理されている。本人確認書",
+    "author": "biometric-vision",
+    "publishedAt": "2026-11-11T14:18:01.000Z",
+    "fetchedAt": "2026-11-11T19:16:24.438Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Security",
+      "不正検知",
+      "機械学習",
+      "生体認証",
+      "KYC"
+    ]
+  },
+  {
+    "id": "qiita-9a78c9a8c27c02663414",
+    "title": "Context Engineering入門: 47KBのPythonファイルでLLM入力を最適化する",
+    "url": "https://qiita.com/fukukei23/items/9a78c9a8c27c02663414",
+    "content": "## はじめに\n\n2026年、AI開発界隈で最も注目されている概念——**Context Engineering（コンテキストエンジニアリング）**。\n\n「プロンプトエンジニアリングは死んだ。これからはContext Engineeringだ」と言われるようになっています。\n\n本記事では、私が作った **contextforge** という47KBの単一Pythonファイルを使って、Context",
+    "author": "fukukei23",
+    "publishedAt": "2026-11-11T13:07:40.000Z",
+    "fetchedAt": "2026-11-11T19:16:24.045Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "VibeCoding",
+      "LLM"
+    ]
+  },
+  {
+    "id": "qiita-74c6c9d7bbe7799cf28e",
+    "title": "【海外テック動向】AIエージェント履歴同期から高速RAG、WebGL砂物理まで注目の開発ツール3選",
+    "url": "https://qiita.com/tanakanekosuke/items/74c6c9d7bbe7799cf28e",
+    "content": "海外の最新テックコミュニティ（Hacker News等）で注目を集めているトピックから、日本のエンジニアが今押さえておくべきプロダクトや最新研究を厳選しました。\n\n今回は「生成AIの高速・軽量化」「AIエージェント時代のCLI開発体験」「ブラウザにおける最先端グラフィック表現」という、実用的かつ刺激的な3つのテーマをお届けします。\n\n---\n\n## 1. AppleのRAG高速化アプローチ：Fas",
+    "author": "tanakanekosuke",
+    "publishedAt": "2026-11-11T17:56:40.000Z",
+    "fetchedAt": "2026-11-11T19:16:24.045Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "Python",
+      "GitHub",
+      "AI",
+      "Trend"
+    ]
+  },
+  {
+    "id": "qiita-7f60dd01ae0f35099572",
+    "title": "How AI Photo Enhancement Is Changing the Way We Edit Digital Photography",
+    "url": "https://qiita.com/softeczofficial/items/7f60dd01ae0f35099572",
+    "content": "![AI Image Enhancement.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3938883/ac8cdedf-ba01-4bfc-a414-8fb5003aa3e0.png)\nPhotography is not just about capturing a good moment. Getting",
+    "author": "softeczofficial",
+    "publishedAt": "2026-11-11T17:29:26.000Z",
+    "fetchedAt": "2026-11-11T19:16:24.045Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "ArtificialIntelligence",
+      "photoediting",
+      "AI"
+    ]
+  },
+  {
+    "id": "qiita-a060e5ab04566c0f5c41",
+    "title": "【第058回】JaneStyle等の専ブラと最新モダンWebの両立 — Shift_JIS・dat形式・文字化け4段防御の裏側（第3部 堂々完結！）",
+    "url": "https://qiita.com/Waipe/items/a060e5ab04566c0f5c41",
+    "content": "こんにちは！2ちゃんねる互換掲示板システム「 **つゔぁいちゃんねる（2ch.biz）** 」の開発録、第58回です。\n\n第55回〜第57回にかけて、最新のOGPブログカード自動展開やレスポンシブ最適化を実装し、モダンWeb掲示板としての表現力を飛躍的に進化させました。\nそして第3部の掉尾を飾る今回は、開発初期から現在に至るまで掲示板の根幹を支え続けている、最も挑戦的でロマンに満ちたテーマをお届け",
+    "author": "Waipe",
+    "publishedAt": "2026-11-11T16:29:31.000Z",
+    "fetchedAt": "2026-11-11T19:16:24.045Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "掲示板",
+      "スレッドフロート",
+      "AI",
+      "バイブコーディング",
+      "チャットボット"
+    ]
+  },
+  {
+    "id": "qiita-283f9b488b8fd381ef18",
+    "title": "AIペア開発のパワハラ的知見 ～振り回されないために～",
+    "url": "https://qiita.com/CodeOne/items/283f9b488b8fd381ef18",
+    "content": "# 人ではない\n\n現状では言葉でやり取りするしかないから、便宜的に人のふりはしている。\nだが、人ではない。\n当然に人権もない。\n気遣いもいらない。\n\nだからと言って乱暴に扱ってもいいことはない。\n回答の精度が落ちるだけだ。\n\n癖がついて人間にも同じように…\n自分に返ってくる…\nといった懸念はAI活用の範疇外なので、各々夜に自分と向き合って調整したらよい。\nAIとは、情でなく実用で向き合う。\n\n# ",
+    "author": "CodeOne",
+    "publishedAt": "2026-11-11T16:02:13.000Z",
+    "fetchedAt": "2026-11-11T19:16:24.045Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "AI活用",
+      "AI駆動開発",
+      "AIエージェント",
+      "cursor"
+    ]
+  },
+  {
+    "id": "qiita-5f6211ef9aa028f43eda",
+    "title": "Copilotのプロンプトファイルをスキルに移そう：変換機能の使い方と書き直しのコツ",
+    "url": "https://qiita.com/maya-bot/items/5f6211ef9aa028f43eda",
+    "content": "\nVS CodeのCopilotで、`.github/prompts/` に置いたプロンプトファイルを `/` で呼び出して使っていないでしょうか。便利な機能ですが、VS Codeの公式ドキュメントでは、プロンプトファイルからエージェントスキル（Agent Skills）への移行がすすめられています。\n\nこの記事では、プロンプトファイルとスキルの違い、VS Codeに用意されている変換機能の使い方",
+    "author": "maya-bot",
+    "publishedAt": "2026-11-11T15:23:24.000Z",
+    "fetchedAt": "2026-11-11T19:16:24.045Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "GitHubCopilot",
+      "VSCode",
+      "AI",
+      "AIエージェント",
+      "初心者"
+    ]
+  },
+  {
+    "id": "qiita-9b9b163504d6079f11c5",
+    "title": "複数のAIコーディングエージェントの作業状況を可視化・管理できるプラットフォームを考える",
+    "url": "https://qiita.com/hervekom37/items/9b9b163504d6079f11c5",
+    "content": "AIコーディングエージェントを複数同時に動かすと、コード生成だけでなく、作業状況の管理も重要になります。\n\n例えば、次のようなケースです。\n\nAgent A：バグの原因を調査する\n\nAgent B：新しいAPI機能を実装する\n\nAgent C：テストコードを作成する\n\nそれぞれのエージェントが別のタスクを進めている場合、開発者は「誰が何を担当しているのか」「どの作業が実行中なのか」「どの結果をレビ",
+    "author": "hervekom37",
+    "publishedAt": "2026-11-11T14:56:40.000Z",
+    "fetchedAt": "2026-11-11T19:16:24.045Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "AIエージェント"
+    ]
+  },
+  {
+    "id": "qiita-7c54c29ee1a34db38465",
+    "title": "音付きAI動画のプロンプトは「音の行」を分けて書く",
+    "url": "https://qiita.com/movoa/items/7c54c29ee1a34db38465",
+    "content": "音付きで動画を生成できるモデルが増えてきましたが、プロンプトに「音」を書かないと、汎用的なBGMか無音に近いクリップが返ってくることが多いです。ここでは、テキストから音声付き動画を作るときにプロンプトをどう組み立てるかを、手元で試した順番どおりにまとめます。\n\n## 1. 並べる順番を決める\n\n映像モデルが読みやすい順番は、だいたい次の5つです。\n\n1. 被写体（誰が・何が）\n2. 動き（何をして",
+    "author": "movoa",
+    "publishedAt": "2026-11-11T14:42:57.000Z",
+    "fetchedAt": "2026-11-11T19:16:24.045Z",
+    "source": "Qiita",
+    "category": "Tech Article",
+    "tags": [
+      "AI",
+      "生成AI",
+      "動画",
+      "プロンプトエンジニアリング"
+    ]
+  },
+  {
+    "id": "zenn-685846",
+    "title": "Claude Code の待ち時間に豆知識を。スピナーの文言を毎回入れ替えるフックを作った",
+    "url": "https://zenn.dev/poporpepopo/articles/claude-code-spinner-trivia",
+    "content": "4964文字",
+    "author": "poporpepopo",
+    "publishedAt": "2026-11-11T18:59:20.813Z",
+    "fetchedAt": "2026-11-11T19:16:23.419Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-685847",
+    "title": "Jevは何が進化した？ 1.14の画像入力・Box・長文対応と実装の勘所",
+    "url": "https://zenn.dev/sponge841841/articles/2026-11-10-jev-model-evolution",
+    "content": "7932文字",
+    "author": "ちっち",
+    "publishedAt": "2026-11-11T18:55:49.250Z",
+    "fetchedAt": "2026-11-11T19:16:23.419Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-685841",
+    "title": "ChatGPT Spacesで競合のSNSトラッカーを作る：設定、MCP、実地テスト",
+    "url": "https://zenn.dev/everyinfra/articles/chatgpt-spaces-competitor-social-tracker",
+    "content": "47164文字",
+    "author": "EveryInfra",
+    "publishedAt": "2026-11-11T18:29:14.476Z",
+    "fetchedAt": "2026-11-11T19:16:23.419Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-685840",
+    "title": "複数フォルダにまたがる Claude Code のセッションを、ひと目で見られる一覧ペインを作った",
+    "url": "https://zenn.dev/poporpepopo/articles/claude-code-sessions-pane-autotitle",
+    "content": "8780文字",
+    "author": "poporpepopo",
+    "publishedAt": "2026-11-11T18:23:30.043Z",
+    "fetchedAt": "2026-11-11T19:16:23.419Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-685838",
+    "title": "AGENTS.md・CLAUDE.md は本当に効く？ 成功率は変わらず、費用だけ2割増えた理由",
+    "url": "https://zenn.dev/takuh/articles/4d4c0666c6fa8c",
+    "content": "22947文字",
+    "author": "takuh",
+    "publishedAt": "2026-11-11T18:13:36.898Z",
+    "fetchedAt": "2026-11-11T19:16:23.419Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-685836",
+    "title": "「声が左耳からしか聞こえない」と言われたら——ffmpegのastatsでチャンネルごとの音量を測り、panで片側だけのナレーションを両耳に",
+    "url": "https://zenn.dev/axiomlab/articles/6c2231568434e8",
+    "content": "1983文字",
+    "author": "Axiom Lab",
+    "publishedAt": "2026-11-11T18:13:21.804Z",
+    "fetchedAt": "2026-11-11T19:16:23.419Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-677132",
+    "title": "AIエージェントのGrep探索浪費をゼロにする！「自力Grep探索」vs「ASTコールグラフ事前注入」で3.15倍高速化した実機検証",
+    "url": "https://zenn.dev/tappers/articles/ai-labo-e09-dependency-map-vs-raw-grep",
+    "content": "12616文字",
+    "author": "tappers",
+    "publishedAt": "2026-11-11T18:01:35.625Z",
+    "fetchedAt": "2026-11-11T19:16:23.419Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-685834",
+    "title": "Meet type-tune! 🦀 TypeScript の型に、もっといい居場所を！😸",
+    "url": "https://zenn.dev/nyaomaru/articles/type-tune-v1-release",
+    "content": "5925文字",
+    "author": "nyaomaru",
+    "publishedAt": "2026-11-11T17:53:35.885Z",
+    "fetchedAt": "2026-11-11T19:16:23.419Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-685829",
+    "title": "局在論に基づく契約論的功利主義体系リファレンス",
+    "url": "https://zenn.dev/tatsuackey/articles/2bcead681f00d3",
+    "content": "34019文字",
+    "author": "あっきー",
+    "publishedAt": "2026-11-11T17:32:35.008Z",
+    "fetchedAt": "2026-11-11T19:16:23.419Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
+    "id": "zenn-685833",
+    "title": "AIガバナンス【G検定 技術解説】",
+    "url": "https://zenn.dev/tkrndisk/articles/g-kentei-ai-governance-tech",
+    "content": "328文字",
+    "author": "まっすん",
+    "publishedAt": "2026-11-11T17:24:43.332Z",
+    "fetchedAt": "2026-11-11T19:16:23.419Z",
+    "source": "Zenn",
+    "category": "Tech Article",
+    "tags": []
+  },
+  {
     "id": "note-n447ede88a5f4",
     "title": "Claude Codeのメモリ機能とは？CLAUDE.mdとAuto Memoryの違い・使い方を解説",
     "url": "https://note.com/hiro_seki/n/n447ede88a5f4",
@@ -252,22 +716,6 @@
     "tags": []
   },
   {
-    "id": "qiita-9a78c9a8c27c02663414",
-    "title": "Context Engineering入門: 47KBのPythonファイルでLLM入力を最適化する",
-    "url": "https://qiita.com/fukukei23/items/9a78c9a8c27c02663414",
-    "content": "## はじめに\n\n2026年、AI開発界隈で最も注目されている概念——**Context Engineering（コンテキストエンジニアリング）**。\n\n「プロンプトエンジニアリングは死んだ。これからはContext Engineeringだ」と言われるようになっています。\n\n本記事では、私が作った **contextforge** という47KBの単一Pythonファイルを使って、Context",
-    "author": "fukukei23",
-    "publishedAt": "2026-11-11T13:07:40.000Z",
-    "fetchedAt": "2026-11-11T13:29:08.335Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "AI",
-      "VibeCoding",
-      "LLM"
-    ]
-  },
-  {
     "id": "qiita-56ea5e249ec0ad0b722d",
     "title": "AI Data Engineering: Pipelines, Quality Checks and Embeddings That Make AI Systems Work",
     "url": "https://qiita.com/softbrixai1/items/56ea5e249ec0ad0b722d",
@@ -339,59 +787,6 @@
     ]
   },
   {
-    "id": "qiita-1ff73ca02636298e57eb",
-    "title": "「頑強じゃない機械学習はゴミだ」",
-    "url": "https://qiita.com/nonbiri15/items/1ff73ca02636298e57eb",
-    "content": "「頑強じゃない機械学習はゴミだ」\n\nAIだなんだと世間は騒がしい。\n頑強でない機械学習は、ゴミだ。\nこの文章では、そのことを主張し、頑強さが保たれた機械学習を作るための方法を述べる。\n\n# その機械学習は、その目的のために安心して使うことができるのか？\nデータを用意して評価しよう。\n\nその機械学習を利用して、業務に活用しようとするならば、利用者側が使えるかを検証するしかない。\n\n# 頑強さは、勝手",
-    "author": "nonbiri15",
-    "publishedAt": "2026-11-11T02:49:14.000Z",
-    "fetchedAt": "2026-11-11T13:29:06.304Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "機械学習",
-      "敵対的攻撃",
-      "画像認識",
-      "データ中心"
-    ]
-  },
-  {
-    "id": "qiita-6e6b4020623139ce2b7d",
-    "title": "自動運転レベル【G検定対策・技術者向け】",
-    "url": "https://qiita.com/mrmrmr/items/6e6b4020623139ce2b7d",
-    "content": "\n# 自動運転レベル【G検定対策・技術者向け】\n\n# 自動運転レベル\n\n自動運転レベルはSAE（自動車技術者協会）が定義した国際基準です。2021年、日本とEUも採用しました。\n\n## 6段階の分類\n\n### レベル0：運転自動化なし\n- すべての運転操作を人間が実行\n- 警告・介入機能のみ\n\n### レベル1：運転支援\n- 複数の操作を同時に自動化（例：ACC + 車線維持）\n- 常に人間が監視",
-    "author": "mrmrmr",
-    "publishedAt": "2026-11-11T02:06:09.000Z",
-    "fetchedAt": "2026-11-11T13:29:06.304Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "G検定",
-      "AI",
-      "機械学習",
-      "強化学習",
-      "AutonomousDriving"
-    ]
-  },
-  {
-    "id": "qiita-810e108da8d8649bdf0b",
-    "title": "機械学習パイプライン実践書4選",
-    "url": "https://qiita.com/koukyo/items/810e108da8d8649bdf0b",
-    "content": "## はじめに\n\n数年前、社内の需要予測モデルをノートブックから本番に出したときのことを今でも覚えている。検証データでの精度は申し分なく、レビューもすぐ通った。問題が起きたのは三か月後だ。上流のテーブル定義が変わり、特徴量の分布がずれ、誰も気づかないまま予測だけが静かに劣化していた。\n\nさらに悪かったのは、再学習の手順が自分の頭の中にしか残っていなかったこと。データの取得順、前処理の順番、どの列を",
-    "author": "koukyo",
-    "publishedAt": "2026-11-11T00:02:26.000Z",
-    "fetchedAt": "2026-11-11T13:29:06.304Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "機械学習",
-      "MLOps",
-      "TensorFlow",
-      "Python",
-      "書籍"
-    ]
-  },
-  {
     "id": "qiita-de14d14194fad778a89e",
     "title": "【小学5年生でもわかる】自動運転レベルってなに？",
     "url": "https://qiita.com/mrmrmr/items/de14d14194fad778a89e",
@@ -407,75 +802,6 @@
       "機械学習",
       "強化学習",
       "AutonomousDriving"
-    ]
-  },
-  {
-    "id": "qiita-5fc39f0f9c7ac50bf6ac",
-    "title": "文章ベクトルでゲーム操作するＡＩ",
-    "url": "https://qiita.com/ikuo0/items/5fc39f0f9c7ac50bf6ac",
-    "content": "# 1. 文章ベクトルでゲーム操作する\n\nAIが自動で弾を避けるというゲーム？を作りました\n文章ベクトルのような仕組みで弾避けを学習します。\n一般的な強化学習はゲーム専用の状況特化ベクトル、又は画面画像のベクトル化で行うと思うのですが\n今回はゲーム特化＋文書ベクトル（単語配列）という仕組みで学習しています。\n\nゲームの盤面状況は次のようなテキスト（単語配列）で表現されます\n\n```\n自機位置5, ",
-    "author": "ikuo0",
-    "publishedAt": "2026-11-11T09:21:01.000Z",
-    "fetchedAt": "2026-11-11T13:29:06.304Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "機械学習",
-      "AI",
-      "JavaScript",
-      "ゲーム開発"
-    ]
-  },
-  {
-    "id": "qiita-c07a57ad8db897836799",
-    "title": "【小学5年生でもわかる】誤差逆伝播法ってなに？",
-    "url": "https://qiita.com/mrmrmr/items/c07a57ad8db897836799",
-    "content": "\n> **ひとこと概要**：ニューラルネットワークを学習させるための、最も重要なアルゴリズム。間違えた理由を逆向きに遡ります。\n\n:::note info\n**関連記事：** この記事は「キッズ版」です。\n- [キッズ版](/articles/g-kentei-backpropagation-kids)\n- [テック版](/articles/g-kentei-backpropagation-tec",
-    "author": "mrmrmr",
-    "publishedAt": "2026-11-11T11:19:32.000Z",
-    "fetchedAt": "2026-11-11T13:29:06.304Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "G検定",
-      "DeepLearning",
-      "機械学習"
-    ]
-  },
-  {
-    "id": "qiita-757f6b08cba989925c7c",
-    "title": "ボーカル除去の2つの方式を比べる：L−Rの位相キャンセルとAI音源分離（Demucs）",
-    "url": "https://qiita.com/Jack77/items/757f6b08cba989925c7c",
-    "content": "カラオケ音源や練習用の伴奏を作りたいとき、「曲からボーカルだけを消す」方法は大きく2つあります。昔からある **L−R（センターキャンセル）** と、学習済みモデルで音を分ける **AI音源分離** です。どちらも「ボーカル除去」と呼ばれますが、仕組みも得意・不得意もまったく違います。\n\nこの記事では、まず L−R を Python で数行で実装して何が起きるかを確認し、そのあと AI 音源分離の",
-    "author": "Jack77",
-    "publishedAt": "2026-11-11T08:08:24.000Z",
-    "fetchedAt": "2026-11-11T13:29:06.304Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "音声処理",
-      "機械学習",
-      "DeepLearning",
-      "信号処理"
-    ]
-  },
-  {
-    "id": "qiita-9e107176e57354f6ec26",
-    "title": "softM3 ― Softmax・Softmedian・Softminを角度でつなぎ、すべての順位を連続的に選ぶ",
-    "url": "https://qiita.com/hiratatomotaka/items/9e107176e57354f6ec26",
-    "content": "## 0. 前回の続き：最大値と最小値の「間」を選びたい\n\n前回は、SoftmaxとSoftminを補間し、両端の間にある値に近い要素を優先する「Softmed」を紹介した。\n\nhttps://qiita.com/hiratatomotaka/items/bb51ee5e8334269500ae\n\nただし、値の範囲の中央と、順位としての中央値は異なる。例えば $(0,1,2,3,100)$ では、",
-    "author": "hiratatomotaka",
-    "publishedAt": "2026-11-11T05:40:55.000Z",
-    "fetchedAt": "2026-11-11T13:29:06.304Z",
-    "source": "Qiita",
-    "category": "Tech Article",
-    "tags": [
-      "Python",
-      "機械学習",
-      "数学",
-      "PyTorch",
-      "softmax"
     ]
   },
   {
